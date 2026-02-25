@@ -1,0 +1,45 @@
+name: Aggregate News
+on:
+  schedule:
+    # 06:00, 12:00, 18:00 Sofia time (UTC+2 winter / UTC+3 summer)
+    # Using UTC+2 (EET): 04:00, 10:00, 16:00 UTC
+    - cron: '0 4,10,16 * * *'
+  workflow_dispatch: {}  # Manual trigger button
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Scrape sources
+        run: node scripts/scrape.js
+        timeout-minutes: 3
+
+      - name: Summarize articles
+        run: node scripts/summarize.js
+        timeout-minutes: 3
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Build static site
+        run: node scripts/build.js
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "kvartalami-bot"
+          git config user.email "bot@kvartalami.bg"
+          git add data/ site/
+          git diff --staged --quiet || git commit -m "Update $(date -u +%Y-%m-%dT%H:%M)"
+          git push
