@@ -2,6 +2,20 @@ import * as cheerio from 'cheerio';
 
 const SOURCE_URL = 'https://rayon-oborishte.bg';
 
+// Auto-categorize based on Bulgarian keywords in title/content
+const CATEGORY_RULES = [
+  { category: 'repairs', keywords: ['ремонт', 'авария', 'спиране', 'водоснабдяване', 'топлоснабдяване', 'асфалт', 'инфраструктура', 'благоустройство', 'сметосъбиране', 'отпадъци', 'контейнер'] },
+  { category: 'events', keywords: ['събитие', 'курс', 'изложба', 'концерт', 'фестивал', 'юбилей', 'честване', 'превенция', 'спорт', 'турнир', 'музей', 'библиотека', 'театър', 'НВИМ', 'КОД:'] },
+];
+
+function detectCategory(title, content) {
+  const text = `${title} ${content}`.toLowerCase();
+  for (const rule of CATEGORY_RULES) {
+    if (rule.keywords.some(kw => text.includes(kw.toLowerCase()))) return rule.category;
+  }
+  return 'government';
+}
+
 export default async function scrape() {
   console.log('[rayon-oborishte] Scraping', SOURCE_URL);
 
@@ -50,7 +64,7 @@ export default async function scrape() {
           title: title.slice(0, 200),
           url: fullUrl,
           content: excerpt || title,
-          category: 'government',
+          category: detectCategory(title, excerpt || ''),
           date,
           source: 'rayon-oborishte',
         });

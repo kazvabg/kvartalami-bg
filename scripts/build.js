@@ -104,12 +104,13 @@ ${articles.map(articleCard).join('\n')}
     </section>`;
 }
 
-function archiveLinks(dates) {
+function archiveLinks(dates, fromArchive = false) {
   if (dates.length === 0) return '';
+  const prefix = fromArchive ? '.' : './archive';
   return `    <nav class="archive-nav">
       <h2>Архив</h2>
       <div class="archive-pills">
-${dates.map(d => `        <a href="/archive/${d}.html" class="pill">${formatDateShort(d)}</a>`).join('\n')}
+${dates.map(d => `        <a href="${prefix}/${d}.html" class="pill">${formatDateShort(d)}</a>`).join('\n')}
       </div>
     </nav>`;
 }
@@ -120,7 +121,9 @@ function htmlPage({ title, bodyContent, isArchive = false }) {
     hour: '2-digit', minute: '2-digit',
   });
 
-  const homeLink = isArchive ? `\n      <a href="/" class="back-link">&larr; Към днешните новини</a>` : '';
+  // Use relative paths so pages work both as file:// and on CDN
+  const base = isArchive ? '..' : '.';
+  const homeLink = isArchive ? `\n      <a href="${base}/index.html" class="back-link">&larr; Към днешните новини</a>` : '';
 
   return `<!DOCTYPE html>
 <html lang="bg">
@@ -128,8 +131,8 @@ function htmlPage({ title, bodyContent, isArchive = false }) {
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>${escapeHtml(title)} — ${escapeHtml(SITE.title)}</title>
-  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="/style.css">
+  <link rel="icon" href="${base}/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="${base}/style.css">
 </head>
 <body>
   <header>
@@ -150,13 +153,19 @@ ${bodyContent}
 // --- Build ---
 
 function buildIndex(articles, archiveDates) {
-  const today = todayKey();
-  let displayArticles = articles.filter(a => toDateKey(a.date || a.fetchedAt || '') === today);
+  // Show articles from the last 30 days (neighborhood news is slower-paced than city news)
+  const cutoff = new Date();
+  cutoff.setDate(cutoff.getDate() - 30);
+  const cutoffKey = cutoff.toISOString().slice(0, 10);
 
-  // If no articles today, show the most recent day's articles
-  if (displayArticles.length === 0 && archiveDates.length > 0) {
-    const latestDate = archiveDates[0];
-    displayArticles = articles.filter(a => toDateKey(a.date || a.fetchedAt || '') === latestDate);
+  let displayArticles = articles.filter(a => {
+    const dk = toDateKey(a.date || a.fetchedAt || '');
+    return dk >= cutoffKey;
+  });
+
+  // If nothing in 7 days, show whatever is most recent
+  if (displayArticles.length === 0) {
+    displayArticles = articles.slice().sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0)).slice(0, 20);
   }
 
   displayArticles.sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
