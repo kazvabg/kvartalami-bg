@@ -41,5 +41,29 @@ jobs:
           git config user.name "kvartalami-bot"
           git config user.email "bot@kvartalami.bg"
           git add data/ site/
-          git diff --staged --quiet || git commit -m "Update $(date -u +%Y-%m-%dT%H:%M)"
-          git push
+          git diff --staged --quiet && echo "no changes" && exit 0
+          git commit -m "Update $(date -u +%Y-%m-%dT%H:%M)"
+          # Retry push up to 3× — GitHub's git backend intermittently rejects with
+          # "remote: fatal error in commit_refs" (transient infrastructure issue).
+          for attempt in 1 2 3; do
+            if git push; then
+              echo "push succeeded on attempt $attempt"
+              break
+            fi
+            if [ "$attempt" -lt 3 ]; then
+              echo "push attempt $attempt failed, retrying in 30s..."
+              sleep 30
+              git pull --rebase origin main || true
+            else
+              echo "push failed after 3 attempts"
+              exit 1
+            fi
+          done
+
+      - name: Deploy to Cloudflare Pages
+        if: success()
+        uses: cloudflare/wrangler-action@v3.15.0
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy site --project-name=kvartalami --branch=main --commit-message=auto-deploy

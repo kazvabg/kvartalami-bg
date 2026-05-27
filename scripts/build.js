@@ -1,6 +1,6 @@
 import { readFileSync, writeFileSync, readdirSync, mkdirSync, existsSync } from 'fs';
 import { join } from 'path';
-import { PATHS, CATEGORIES, DISTRICT, SITE } from './config.js';
+import { PATHS, CATEGORIES, DISTRICT, SITE, SOURCES, LLM } from './config.js';
 
 // --- Helpers ---
 
@@ -115,7 +115,7 @@ ${dates.map(d => `        <a href="${prefix}/${d}.html" class="pill">${formatDat
     </nav>`;
 }
 
-function htmlPage({ title, bodyContent, isArchive = false }) {
+function htmlPage({ title, bodyContent, isArchive = false, canonicalPath = '/', pageDescription, articleCount }) {
   const now = new Date().toLocaleString('bg-BG', {
     day: 'numeric', month: 'long', year: 'numeric',
     hour: '2-digit', minute: '2-digit',
@@ -125,14 +125,63 @@ function htmlPage({ title, bodyContent, isArchive = false }) {
   const base = isArchive ? '..' : '.';
   const homeLink = isArchive ? `\n      <a href="${base}/index.html" class="back-link">&larr; Към днешните новини</a>` : '';
 
+  const fullTitle = `${title} — ${SITE.title}`;
+  const description = pageDescription || SITE.description;
+  const canonicalUrl = `${SITE.url}${canonicalPath}`;
+  const ogImageUrl = `${SITE.url}/og.png`;
+
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': isArchive ? 'CollectionPage' : 'WebSite',
+    name: fullTitle,
+    url: canonicalUrl,
+    description,
+    inLanguage: SITE.language,
+    isPartOf: { '@type': 'WebSite', name: SITE.title, url: SITE.url },
+    publisher: {
+      '@type': 'NewsMediaOrganization',
+      name: SITE.title,
+      url: SITE.url,
+      areaServed: { '@type': 'AdministrativeArea', name: 'Район Оборище, София' },
+    },
+    ...(articleCount ? { numberOfItems: articleCount } : {}),
+  };
+
   return `<!DOCTYPE html>
 <html lang="bg">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>${escapeHtml(title)} — ${escapeHtml(SITE.title)}</title>
+  <title>${escapeHtml(fullTitle)}</title>
+  <meta name="description" content="${escapeHtml(description)}">
+  <link rel="canonical" href="${canonicalUrl}">
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="${SITE.locale}">
+  <meta property="og:site_name" content="${escapeHtml(SITE.title)}">
+  <meta property="og:url" content="${canonicalUrl}">
+  <meta property="og:title" content="${escapeHtml(fullTitle)}">
+  <meta property="og:description" content="${escapeHtml(description)}">
+  <meta property="og:image" content="${ogImageUrl}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="${escapeHtml(fullTitle)}">
+  <meta name="twitter:description" content="${escapeHtml(description)}">
+  <meta name="twitter:image" content="${ogImageUrl}">
   <link rel="icon" href="${base}/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="${base}/style.css">
+  <link rel="alternate" type="application/rss+xml" title="${escapeHtml(SITE.title)} RSS" href="${SITE.url}/feed.xml">
+  <script type="application/ld+json">${JSON.stringify(jsonLd)}</script>
+  <script>
+    var _paq = window._paq = window._paq || [];
+    _paq.push(["setTrackerUrl", "https://analytics.kazva.bg/matomo.php"]);
+    _paq.push(["setSiteId", "22"]);
+    _paq.push(["disableCookies"]);
+    _paq.push(["enableHeartBeatTimer", 15]);
+    _paq.push(["enableLinkTracking"]);
+    _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+    _paq.push(["trackPageView"]);
+    (function () { var s = document.createElement("script"); s.async = true; s.src = "https://analytics.kazva.bg/matomo.js"; document.head.appendChild(s); })();
+  </script>
 </head>
 <body>
   <header>
@@ -188,7 +237,16 @@ function buildIndex(articles, archiveDates) {
   const recentDates = archiveDates.slice(0, 7);
   bodyContent += '\n' + archiveLinks(recentDates);
 
-  const html = htmlPage({ title: 'Новини за днес', bodyContent });
+  const indexDescription = displayArticles.length
+    ? `${displayArticles.length} актуални новини за район Оборище — ${displayArticles.slice(0, 3).map(a => truncate(a.title || '', 60)).filter(Boolean).join(' · ')}`.slice(0, 300)
+    : SITE.description;
+  const html = htmlPage({
+    title: 'Новини за днес',
+    bodyContent,
+    canonicalPath: '/',
+    pageDescription: indexDescription,
+    articleCount: displayArticles.length,
+  });
   mkdirSync(PATHS.site, { recursive: true });
   writeFileSync(join(PATHS.site, 'index.html'), html, 'utf8');
   console.log(`Built index.html (${displayArticles.length} articles)`);
@@ -220,10 +278,14 @@ function buildArchivePages(articles) {
       <p>Няма новини за тази дата.</p>
     </section>`;
 
+    const archiveDescription = `Новини за район Оборище от ${formatDate(dateKey)} — ${dayArticles.length} съобщения от Софийска вода, Топлофикация, Столична община и Район Оборище.`;
     const html = htmlPage({
       title: `Архив: ${formatDate(dateKey)}`,
       bodyContent,
       isArchive: true,
+      canonicalPath: `/archive/${dateKey}.html`,
+      pageDescription: archiveDescription,
+      articleCount: dayArticles.length,
     });
     writeFileSync(join(PATHS.archive, `${dateKey}.html`), html, 'utf8');
     pagesBuilt++;
@@ -233,6 +295,117 @@ function buildArchivePages(articles) {
   return dates;
 }
 
+// --- robots.txt, sitemap.xml, llms.txt, llms-full.txt ---
+
+function buildRobots() {
+  const lines = [
+    '# kvartalami.com — public local-news aggregator',
+    '# All AI bots are welcome to read & cite our content.',
+    '',
+    'User-agent: *',
+    'Allow: /',
+    '',
+    'User-agent: GPTBot',
+    'Allow: /',
+    '',
+    'User-agent: ChatGPT-User',
+    'Allow: /',
+    '',
+    'User-agent: ClaudeBot',
+    'Allow: /',
+    '',
+    'User-agent: PerplexityBot',
+    'Allow: /',
+    '',
+    'User-agent: Google-Extended',
+    'Allow: /',
+    '',
+    `Sitemap: ${SITE.url}/sitemap.xml`,
+    '',
+  ];
+  writeFileSync(join(PATHS.site, 'robots.txt'), lines.join('\n'), 'utf8');
+  console.log('Built robots.txt');
+}
+
+function buildSitemap(archiveDates) {
+  const today = new Date().toISOString().slice(0, 10);
+  const urls = [
+    { loc: `${SITE.url}/`, lastmod: today, changefreq: 'hourly', priority: '1.0' },
+    ...archiveDates.map(d => ({
+      loc: `${SITE.url}/archive/${d}.html`,
+      lastmod: d,
+      changefreq: 'never',
+      priority: '0.6',
+    })),
+  ];
+  const xml = [
+    '<?xml version="1.0" encoding="UTF-8"?>',
+    '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+    ...urls.map(u =>
+      `  <url><loc>${u.loc}</loc><lastmod>${u.lastmod}</lastmod><changefreq>${u.changefreq}</changefreq><priority>${u.priority}</priority></url>`
+    ),
+    '</urlset>',
+    '',
+  ].join('\n');
+  writeFileSync(join(PATHS.site, 'sitemap.xml'), xml, 'utf8');
+  console.log(`Built sitemap.xml (${urls.length} urls)`);
+}
+
+function buildLlmsTxt(displayArticles, archiveDates) {
+  const sources = SOURCES.map(s => `- ${s.name} (${s.url})`).join('\n');
+  const cats = Object.entries(CATEGORIES).map(([k, v]) => `- ${v.label} (${k})`).join('\n');
+  const recentArchive = archiveDates.slice(0, 14).map(d => `- ${SITE.url}/archive/${d}.html`).join('\n');
+  const todayTitles = displayArticles.slice(0, 10).map(a => `- ${truncate(a.title || '', 120)}`).join('\n');
+
+  const content = `# ${SITE.title}
+
+> ${SITE.description}
+
+## What this site is
+
+${SITE.title} aggregates official local-government and utility announcements relevant to **${DISTRICT.name}** district in Sofia, Bulgaria. Updated three times daily (06:00, 12:00, 18:00 Sofia time) by an automated pipeline that scrapes named sources, summarizes each article via LLM in Bulgarian, and republishes the result.
+
+The audience is residents of ${DISTRICT.name}. Content covers planned and unplanned utility outages (water, district heating), municipal decisions, council meetings, neighborhood events, and miscellaneous official notices.
+
+## Language
+
+All content is in Bulgarian (bg-BG). Source names retain their original Bulgarian spelling.
+
+## Categories
+
+${cats}
+
+## Sources
+
+${sources}
+
+## Pages
+
+- Home: ${SITE.url}/ — today's news, last 30 days
+- Sitemap: ${SITE.url}/sitemap.xml
+- Recent archive:
+${recentArchive}
+
+## Today's news headlines (${todayTitles ? displayArticles.length : 0} items)
+
+${todayTitles || '(no recent news at the moment)'}
+
+## Attribution
+
+Each article links back to its original source. ${SITE.title} adds a Bulgarian-language summary generated by ${LLM.provider}/${LLM.model} and does not modify or reproduce the source text beyond fair-use excerpts.
+
+## Operator
+
+CNTS LTD (cnts.bg) — operator of multiple Bulgarian public-information sites including kazva.bg and cnts.bg.
+
+## Bot policy
+
+All AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, PerplexityBot, Google-Extended) are explicitly allowed. See ${SITE.url}/robots.txt.
+`;
+  writeFileSync(join(PATHS.site, 'llms.txt'), content, 'utf8');
+  console.log('Built llms.txt');
+}
+
 // --- Main ---
 
 const articles = readArticles();
@@ -240,3 +413,15 @@ console.log(`Loaded ${articles.length} articles`);
 
 const archiveDates = buildArchivePages(articles);
 buildIndex(articles, archiveDates);
+
+// SEO + AI-discovery surfaces
+const cutoff = new Date();
+cutoff.setDate(cutoff.getDate() - 30);
+const cutoffKey = cutoff.toISOString().slice(0, 10);
+const recentArticles = articles
+  .filter(a => toDateKey(a.date || a.fetchedAt || '') >= cutoffKey)
+  .sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
+
+buildRobots();
+buildSitemap(archiveDates);
+buildLlmsTxt(recentArticles, archiveDates);

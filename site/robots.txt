@@ -1,0 +1,22 @@
+# kvartalami.com — public local-news aggregator
+# All AI bots are welcome to read & cite our content.
+
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://kvartalami.com/sitemap.xml
