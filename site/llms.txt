@@ -32,6 +32,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Home: https://kvartalami.com/ — today's news, last 30 days
 - Sitemap: https://kvartalami.com/sitemap.xml
 - Recent archive:
+- https://kvartalami.com/archive/2026-06-10.html
 - https://kvartalami.com/archive/2026-06-05.html
 - https://kvartalami.com/archive/2026-05-27.html
 - https://kvartalami.com/archive/2026-05-22.html
@@ -45,10 +46,11 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-04-24.html
 - https://kvartalami.com/archive/2026-04-22.html
 - https://kvartalami.com/archive/2026-04-17.html
-- https://kvartalami.com/archive/2026-04-16.html
 
-## Today's news headlines (12 items)
+## Today's news headlines (14 items)
 
+- Четвърто издание на Националния младежки конкурс „Аз за моята община“, организиран от НСОРБ
+- НАД 30 АТРАКЦИИ, СВОБОДЕН ВХОД И СЕМЕЙНИ ПРЕЖИВЯВАНИЯ  В ДЕНЯ НА БАЩАТА В НВИМ
 - Компенсации за периода м.март– м. април 2026 г. за разходи, направени от родители на деца, родени през 2023 г. и 2024 г.
 - Авария: Част от Оборище
 - МУЗИКА, КИНО И ИНТЕРАКТИВНИ ПРЕДИЗВИКАТЕЛСТВА  В НОЩТА НА МУЗЕИТЕ В НВИМ
@@ -57,8 +59,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Столична община, дирекция „Спорт и младежки дейности“ организира спортен празник „Сила, скорост, смях“ по повод 01 юни…
 - Над 35 организации обединяват сили за първия Софийски климатичен фестивал  „ЖЕГА ФЕСТ“ 2026
 - Актуална информация за обработката на зелени площи срещу кърлежи в район „Оборище“
-- Секретарят на Район „Оборище“ Иван Динчев е избран за председател        на НАСО РБ
-- „Празник на сърцето“ в столичния куклен театър
 
 ## Attribution
 
