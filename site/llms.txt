@@ -32,6 +32,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Home: https://kvartalami.com/ — today's news, last 30 days
 - Sitemap: https://kvartalami.com/sitemap.xml
 - Recent archive:
+- https://kvartalami.com/archive/2026-06-12.html
 - https://kvartalami.com/archive/2026-06-11.html
 - https://kvartalami.com/archive/2026-06-10.html
 - https://kvartalami.com/archive/2026-06-05.html
@@ -45,10 +46,10 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-04-29.html
 - https://kvartalami.com/archive/2026-04-28.html
 - https://kvartalami.com/archive/2026-04-24.html
-- https://kvartalami.com/archive/2026-04-22.html
 
-## Today's news headlines (16 items)
+## Today's news headlines (17 items)
 
+- Фестивал на младежки духови оркестри Sofia Brass Fest
 - Обявен е конкурс за заемане на 36 вакантни длъжности за матроси във военни формирования от състава на Военноморските…
 - Четвърто издание на Националния младежки конкурс „Аз за моята община“, организиран от НСОРБ
 - НАД 30 АТРАКЦИИ, СВОБОДЕН ВХОД И СЕМЕЙНИ ПРЕЖИВЯВАНИЯ  В ДЕНЯ НА БАЩАТА В НВИМ
@@ -58,7 +59,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - МУЗИКА, КИНО И ИНТЕРАКТИВНИ ПРЕДИЗВИКАТЕЛСТВА  В НОЩТА НА МУЗЕИТЕ В НВИМ
 - „Образование и умения на бъдещето“
 - Джуниър Ачийвмънт България ще връчи специалната награда Cultural Bees Signature Award по време на „Изгряващи звезди“…
-- Столична община, дирекция „Спорт и младежки дейности“ организира спортен празник „Сила, скорост, смях“ по повод 01 юни…
 
 ## Attribution
 
