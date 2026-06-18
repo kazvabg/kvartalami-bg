@@ -32,6 +32,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Home: https://kvartalami.com/ — today's news, last 30 days
 - Sitemap: https://kvartalami.com/sitemap.xml
 - Recent archive:
+- https://kvartalami.com/archive/2026-06-18.html
 - https://kvartalami.com/archive/2026-06-12.html
 - https://kvartalami.com/archive/2026-06-11.html
 - https://kvartalami.com/archive/2026-06-10.html
@@ -45,10 +46,11 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-05-13.html
 - https://kvartalami.com/archive/2026-04-29.html
 - https://kvartalami.com/archive/2026-04-28.html
-- https://kvartalami.com/archive/2026-04-24.html
 
-## Today's news headlines (14 items)
+## Today's news headlines (16 items)
 
+- Поетапното миене по карета продължава в районите „Възраждане“ и „Оборище“
+- Столична община: Дванадесетгодишната агония с плана за управление на Борисова градина е на път да приключи
 - Фестивал на младежки духови оркестри Sofia Brass Fest
 - Столична община засилва контрола за спазване на регламентираните правила за достъп до Борисова градина
 - Предстояща планова обработка срещу бълхи и комари в район „Оборище“
@@ -57,8 +59,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - НАД 30 АТРАКЦИИ, СВОБОДЕН ВХОД И СЕМЕЙНИ ПРЕЖИВЯВАНИЯ  В ДЕНЯ НА БАЩАТА В НВИМ
 - Провеждане на трето поред онлайн проучване сред младите хора на дирекция „Спорт и младежки дейности“ – Столична община
 - Компенсации за периода м.март– м. април 2026 г. за разходи, направени от родители на деца, родени през 2023 г. и 2024 г.
-- Авария: Част от Оборище
-- МУЗИКА, КИНО И ИНТЕРАКТИВНИ ПРЕДИЗВИКАТЕЛСТВА  В НОЩТА НА МУЗЕИТЕ В НВИМ
 
 ## Attribution
 
