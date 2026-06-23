@@ -32,6 +32,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Home: https://kvartalami.com/ — today's news, last 30 days
 - Sitemap: https://kvartalami.com/sitemap.xml
 - Recent archive:
+- https://kvartalami.com/archive/2026-06-23.html
 - https://kvartalami.com/archive/2026-06-22.html
 - https://kvartalami.com/archive/2026-06-19.html
 - https://kvartalami.com/archive/2026-06-18.html
@@ -45,10 +46,10 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-05-18.html
 - https://kvartalami.com/archive/2026-05-16.html
 - https://kvartalami.com/archive/2026-05-15.html
-- https://kvartalami.com/archive/2026-05-13.html
 
-## Today's news headlines (15 items)
+## Today's news headlines (16 items)
 
+- От 9 до 19 юли ще се проведе третото издание на „Девет слона“ – фестивал за изкуство в градска среда
 - Важно съобщение: Резитбата на ул. „Буная“ се отлага за 29 юни
 - Арх. Любо Георгиев: „Целта на ПУП Борисова градина е отчуждаването на всички частни имоти и връщането им на обществото“
 - Започва плановото миене на улици на територията на район „Оборище“
@@ -58,7 +59,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Фестивал на младежки духови оркестри Sofia Brass Fest
 - Столична община засилва контрола за спазване на регламентираните правила за достъп до Борисова градина
 - Предстояща планова обработка срещу бълхи и комари в район „Оборище“
-- Обявен е конкурс за заемане на 36 вакантни длъжности за матроси във военни формирования от състава на Военноморските…
 
 ## Attribution
 
