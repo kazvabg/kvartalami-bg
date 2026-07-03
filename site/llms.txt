@@ -32,6 +32,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Home: https://kvartalami.com/ — today's news, last 30 days
 - Sitemap: https://kvartalami.com/sitemap.xml
 - Recent archive:
+- https://kvartalami.com/archive/2026-07-02.html
 - https://kvartalami.com/archive/2026-06-26.html
 - https://kvartalami.com/archive/2026-06-24.html
 - https://kvartalami.com/archive/2026-06-23.html
@@ -45,10 +46,11 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-05-27.html
 - https://kvartalami.com/archive/2026-05-22.html
 - https://kvartalami.com/archive/2026-05-21.html
-- https://kvartalami.com/archive/2026-05-18.html
 
-## Today's news headlines (18 items)
+## Today's news headlines (20 items)
 
+- ДЪРЖАВНО ОТЛИЧИЕ ЗА НАЦИОНАЛНИЯ ВОЕННОИСТОРИЧЕСКИ МУЗЕЙ ПО ПОВОД НЕГОВИЯ 110-ГОДИШЕН ЮБИЛЕЙ
+- Столична община затяга мерките за безопасност заради влошаване на качеството на въздуха в района на пожара в „Люлин“
 - Поетапното миене по карета продължава в район „Оборище“
 - 110 ГОДИНИ НАЦИОНАЛЕН ВОЕННОИСТОРИЧЕСКИ МУЗЕЙ – МЯСТО, В КОЕТО ПАМЕТТА ИМА МНОГО ЛИЦА
 - Прекъсване на работата на отдел „Общински приходи“ - офис „Оборище“ на 29.06.2026 г. от 10.00 ч. до 14.00 ч.
@@ -57,8 +59,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Арх. Любо Георгиев: „Целта на ПУП Борисова градина е отчуждаването на всички частни имоти и връщането им на обществото“
 - Започва плановото миене на улици на територията на район „Оборище“
 - Важно съобщение!!!  Временно спиране на паркирането на ул. „Буная“
-- Поетапното миене по карета продължава в районите „Възраждане“ и „Оборище“
-- Столична община: Дванадесетгодишната агония с плана за управление на Борисова градина е на път да приключи
 
 ## Attribution
 
