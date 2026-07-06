@@ -35,8 +35,8 @@ scrape.js (Cheerio) → summarize.js (Gemini) → build.js (static HTML) → git
 |-------|--------|-------|--------|
 | Scrape | `scrape.js` | Source URLs from config | `data/raw/{source}/{date}.json` |
 | Summarize | `summarize.js` | Raw article JSON | `data/summaries/{date}.json` |
-| Build | `build.js` | Summary JSON | `dist/index.html`, `dist/{district}/index.html` |
-| Deploy | `git push` | `dist/` | Cloudflare Pages auto-deploy |
+| Build | `build.js` | Summary JSON | `site/index.html`, `site/{district}/index.html` |
+| Deploy | `git push` | `site/` | Cloudflare Pages auto-deploy |
 
 ### npm Scripts
 
@@ -71,7 +71,7 @@ npm run update      # scrape + summarize + build (full pipeline)
 
 ```json
 {
-  "district": "Лозенец",
+  "district": "Оборище",
   "sources": [
     { "name": "sofia.bg", "url": "...", "selector": "..." }
   ],

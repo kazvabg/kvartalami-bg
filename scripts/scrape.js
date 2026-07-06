@@ -45,6 +45,16 @@ async function loadScrapers() {
   return scrapers;
 }
 
+const HEALTH_PATH = PATHS.articles.replace(/articles$/, 'health.json');
+
+function loadHealth() {
+  try { return JSON.parse(readFileSync(HEALTH_PATH, 'utf-8')); } catch { return {}; }
+}
+
+function saveHealth(health) {
+  writeFileSync(HEALTH_PATH, JSON.stringify(health, null, 2));
+}
+
 function articleId(url) {
   return createHash('md5').update(url).digest('hex').slice(0, 12);
 }
@@ -104,6 +114,12 @@ async function main() {
   let newCount = 0;
   const newArticles = [];
 
+  // Per-source health: makes silent rot visible (a scraper can "succeed"
+  // while the district filter drops everything, or a site changes its markup
+  // and yields 0 items — both looked identical to "quiet news day" before).
+  const health = loadHealth();
+  const runAt = new Date().toISOString();
+
   for (const result of results) {
     if (result.status === 'rejected') {
       console.error('[scrape] Promise rejected:', result.reason);
@@ -111,6 +127,11 @@ async function main() {
     }
 
     const { id, articles } = result.value;
+
+    const h = health[id] = health[id] || {};
+    h.lastRunAt = runAt;
+    h.lastFetched = articles.length;
+    if (articles.length > 0) h.lastNonEmptyAt = runAt;
 
     for (const article of articles) {
       const aid = articleId(article.url);
@@ -120,6 +141,7 @@ async function main() {
       if (!isDistrictRelevant(article)) continue;
 
       seen[aid] = true;
+      health[article.source].lastSavedAt = runAt;
       newArticles.push({
         ...article,
         id: aid,
@@ -143,6 +165,17 @@ async function main() {
 
   // Update seen index
   saveSeen(seen);
+  saveHealth(health);
+
+  // WARN (not fail) when a source has fetched nothing for 14+ days — markup
+  // drift and "genuinely quiet source" need a human eye to tell apart.
+  const STALE_DAYS = 14;
+  for (const [id, h] of Object.entries(health)) {
+    const last = h.lastNonEmptyAt || 0;
+    const staleDays = (Date.now() - new Date(last).getTime()) / 86400000;
+    if (!h.lastNonEmptyAt || staleDays > STALE_DAYS)
+      console.warn(`[scrape] WARN: source ${id} has fetched 0 items for ${h.lastNonEmptyAt ? Math.floor(staleDays) + ' days' : 'as long as tracked'} — check its scraper/selectors`);
+  }
 
   console.log(`[scrape] Done. ${newCount} new articles, ${Object.keys(seen).length} total seen.`);
 }

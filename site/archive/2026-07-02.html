@@ -33,12 +33,13 @@
     _paq.push(["trackPageView"]);
     (function () { var s = document.createElement("script"); s.async = true; s.src = "https://analytics.kazva.bg/matomo.js"; document.head.appendChild(s); })();
   </script>
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
 </head>
 <body>
   <header>
     <h1>КВАРТАЛАМИ.bg</h1>
     <p class="subtitle">Хипер-локални новини за <span data-kazva="kvartalami-oborishte">район Оборище</span></p>
-    <p class="updated">Обновено: 6 юли 2026 г. в 20:11</p>
+    <p class="updated">Обновено: 6 юли 2026 г. в 20:25</p>
       <a href="../index.html" class="back-link">&larr; Към днешните новини</a>
   </header>
   <main>
@@ -72,5 +73,36 @@
   </footer>
   <!-- kazva-inline: тапни маркирана фраза, за да дадеш мнение (dogfood pilot) -->
   <script async src="/kazva/v1.js" data-publisher="kvartalami" crossorigin="anonymous"></script>
+  <script>
+  // „Моята улица" — filter repair notices to the reader's street (localStorage only)
+  (function () {
+    try {
+      var cards = Array.prototype.slice.call(document.querySelectorAll('.card[data-streets]'));
+      if (!cards.length) return;
+      var all = new Set();
+      cards.forEach(function (c) { c.getAttribute('data-streets').split('|').forEach(function (s) { all.add(s); }); });
+      var box = document.createElement('div');
+      box.className = 'street-filter';
+      box.innerHTML = '<label>Моята улица: <input list="kv-streets" placeholder="напр. Оборище" autocomplete="off"></label>'
+        + '<datalist id="kv-streets">' + Array.from(all).sort().map(function (s) { return '<option value="' + s.replace(/"/g, '&quot;') + '">'; }).join('') + '</datalist>'
+        + '<button type="button" class="street-clear" hidden>✕</button>';
+      var main = document.querySelector('main');
+      main.insertBefore(box, main.firstChild);
+      var input = box.querySelector('input'), clear = box.querySelector('button');
+      function apply(v) {
+        v = (v || '').trim().toLowerCase();
+        clear.hidden = !v;
+        cards.forEach(function (c) {
+          var hit = !v || c.getAttribute('data-streets').toLowerCase().indexOf(v) !== -1;
+          c.classList.toggle('street-dim', !hit);
+        });
+      }
+      input.addEventListener('input', function () { try { localStorage.setItem('kv:street', input.value); } catch (e) {} apply(input.value); });
+      clear.addEventListener('click', function () { input.value = ''; try { localStorage.removeItem('kv:street'); } catch (e) {} apply(''); });
+      var saved = null; try { saved = localStorage.getItem('kv:street'); } catch (e) {}
+      if (saved) { input.value = saved; apply(saved); }
+    } catch (e) { /* never break the page */ }
+  })();
+  </script>
 </body>
 </html>

@@ -77,14 +77,29 @@ function groupByDate(articles) {
 
 // --- HTML Templates ---
 
+// Pull street/boulevard/complex names out of a notice so readers can filter
+// by their own street („Моята улица"). Regex-level extraction — good enough
+// for official outage notices, which name streets in a standard way.
+function extractStreets(a) {
+  const text = `${a.title || ''} ${a.content || ''} ${a.summary || ''}`;
+  const found = new Set();
+  const re = /(?:ул\.|бул\.|ж\.к\.|пл\.|кв\.)\s*[„"']?([А-Я][А-Яа-я0-9 .\-]{2,40}?)[„"']?(?=\s*(?:[,;:.!?)\n№]|срещу|между|до |от |и |или|$))/g;
+  let m;
+  while ((m = re.exec(text)) !== null) found.add(m[1].trim().replace(/\s+/g, ' '));
+  return [...found].slice(0, 12);
+}
+
 function articleCard(a) {
   const cat = CATEGORIES[a.category] || CATEGORIES.other;
   const summary = a.summary || truncate(a.content);
   const source = a.sourceName || a.source || '';
   const date = a.date ? formatDate(a.date) : '';
   const url = a.url || '#';
+  const streets = extractStreets(a);
+  const streetsAttr = streets.length
+    ? ` data-streets="${streets.map(escapeHtml).join('|')}"` : '';
 
-  return `      <article class="card">
+  return `      <article class="card"${streetsAttr}>
         <h3>${escapeHtml(a.title)}</h3>
         <p>${escapeHtml(summary)}</p>
         <div class="card-meta">
@@ -193,7 +208,7 @@ function htmlPage({ title, bodyContent, isArchive = false, canonicalPath = '/', 
     _paq.push(["trackPageView"]);
     (function () { var s = document.createElement("script"); s.async = true; s.src = "https://analytics.kazva.bg/matomo.js"; document.head.appendChild(s); })();
   </script>
-</head>
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">\n</head>
 <body>
   <header>
     <h1>${escapeHtml(SITE.title)}</h1>
@@ -208,6 +223,37 @@ ${bodyContent}
   </footer>
   <!-- kazva-inline: тапни маркирана фраза, за да дадеш мнение (dogfood pilot) -->
   <script async src="/kazva/v1.js" data-publisher="kvartalami" crossorigin="anonymous"></script>
+  <script>
+  // „Моята улица" — filter repair notices to the reader's street (localStorage only)
+  (function () {
+    try {
+      var cards = Array.prototype.slice.call(document.querySelectorAll('.card[data-streets]'));
+      if (!cards.length) return;
+      var all = new Set();
+      cards.forEach(function (c) { c.getAttribute('data-streets').split('|').forEach(function (s) { all.add(s); }); });
+      var box = document.createElement('div');
+      box.className = 'street-filter';
+      box.innerHTML = '<label>Моята улица: <input list="kv-streets" placeholder="напр. Оборище" autocomplete="off"></label>'
+        + '<datalist id="kv-streets">' + Array.from(all).sort().map(function (s) { return '<option value="' + s.replace(/"/g, '&quot;') + '">'; }).join('') + '</datalist>'
+        + '<button type="button" class="street-clear" hidden>✕</button>';
+      var main = document.querySelector('main');
+      main.insertBefore(box, main.firstChild);
+      var input = box.querySelector('input'), clear = box.querySelector('button');
+      function apply(v) {
+        v = (v || '').trim().toLowerCase();
+        clear.hidden = !v;
+        cards.forEach(function (c) {
+          var hit = !v || c.getAttribute('data-streets').toLowerCase().indexOf(v) !== -1;
+          c.classList.toggle('street-dim', !hit);
+        });
+      }
+      input.addEventListener('input', function () { try { localStorage.setItem('kv:street', input.value); } catch (e) {} apply(input.value); });
+      clear.addEventListener('click', function () { input.value = ''; try { localStorage.removeItem('kv:street'); } catch (e) {} apply(''); });
+      var saved = null; try { saved = localStorage.getItem('kv:street'); } catch (e) {}
+      if (saved) { input.value = saved; apply(saved); }
+    } catch (e) { /* never break the page */ }
+  })();
+  </script>
 </body>
 </html>`;
 }
@@ -245,6 +291,9 @@ function buildIndex(articles, archiveDates) {
       .join('\n');
     bodyContent = sections;
   }
+
+  // Кварталният пулс — reader-feedback aggregates from the kazva-inline topics
+  bodyContent = pulseBox() + bodyContent;
 
   // Add last 7 days of archive links
   const recentDates = archiveDates.slice(0, 7);
@@ -419,6 +468,65 @@ All AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, PerplexityBot, Google-Extended
   console.log('Built llms.txt');
 }
 
+// --- Кварталният пулс (cached kazva aggregates; see scripts/kazva-pulse.mjs) ---
+
+function pulseBox() {
+  let pulse;
+  try {
+    pulse = JSON.parse(readFileSync(PATHS.articles.replace(/articles$/, 'kazva-pulse.json'), 'utf8'));
+  } catch { return ''; }
+  if (!pulse.topics || pulse.topics.length === 0) return '';
+
+  const rows = pulse.topics.map(t => `      <div class="pulse-row">
+        <span>${escapeHtml(t.label)}</span>
+        <span class="pulse-score">${t.avg !== null ? t.avg + '/10' : `още няма достатъчно гласове (${t.votes})`}</span>
+      </div>`).join('\n');
+
+  return `    <section class="pulse">
+      <h2>📊 Кварталният пулс</h2>
+${rows}
+      <p style="margin:8px 0 0;color:#888;font-size:0.8rem">Оценки от читатели чрез маркираните фрази на сайта.</p>
+    </section>
+`;
+}
+
+// --- RSS feed (the site had no subscription surface at all) ---
+
+function buildRss(recent) {
+  const items = recent.slice(0, 40).map(a => `    <item>
+      <title>${escapeHtml(a.title || '')}</title>
+      <link>${escapeHtml(a.url || SITE.url)}</link>
+      <guid isPermaLink="false">${escapeHtml(a.id || a.url || '')}</guid>
+      <pubDate>${new Date(a.date || a.fetchedAt || Date.now()).toUTCString()}</pubDate>
+      <category>${escapeHtml((CATEGORIES[a.category] || CATEGORIES.other).label)}</category>
+      <description>${escapeHtml(a.summary || truncate(a.content))}</description>
+    </item>`).join('\n');
+
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>${escapeHtml(SITE.title)}</title>
+    <link>${SITE.url}</link>
+    <description>${escapeHtml(SITE.description)}</description>
+    <language>bg</language>
+    <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
+${items}
+  </channel>
+</rss>`;
+  writeFileSync(join(PATHS.site, 'feed.xml'), xml, 'utf8');
+  console.log(`Built feed.xml (${Math.min(recent.length, 40)} items)`);
+}
+
+// --- Per-source pipeline health, published for monitoring ---
+
+function publishHealth() {
+  const src = PATHS.articles.replace(/articles$/, 'health.json');
+  if (existsSync(src)) {
+    writeFileSync(join(PATHS.site, 'health.json'), readFileSync(src, 'utf8'));
+    console.log('Published health.json');
+  }
+}
+
 // --- Main ---
 
 const articles = readArticles();
@@ -438,3 +546,5 @@ const recentArticles = articles
 buildRobots();
 buildSitemap(archiveDates);
 buildLlmsTxt(recentArticles, archiveDates);
+buildRss(recentArticles);
+publishHealth();
