@@ -32,33 +32,24 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Home: https://kvartalami.com/ — today's news, last 30 days
 - Sitemap: https://kvartalami.com/sitemap.xml
 - Recent archive:
-- https://kvartalami.com/archive/2026-07-03.html
-- https://kvartalami.com/archive/2026-07-02.html
-- https://kvartalami.com/archive/2026-06-26.html
-- https://kvartalami.com/archive/2026-06-24.html
-- https://kvartalami.com/archive/2026-06-23.html
-- https://kvartalami.com/archive/2026-06-22.html
-- https://kvartalami.com/archive/2026-06-19.html
-- https://kvartalami.com/archive/2026-06-18.html
-- https://kvartalami.com/archive/2026-06-12.html
-- https://kvartalami.com/archive/2026-06-11.html
-- https://kvartalami.com/archive/2026-06-10.html
-- https://kvartalami.com/archive/2026-06-05.html
-- https://kvartalami.com/archive/2026-05-27.html
 - https://kvartalami.com/archive/2026-05-22.html
+- https://kvartalami.com/archive/2026-05-21.html
+- https://kvartalami.com/archive/2026-05-18.html
+- https://kvartalami.com/archive/2026-05-16.html
+- https://kvartalami.com/archive/2026-05-15.html
+- https://kvartalami.com/archive/2026-05-13.html
+- https://kvartalami.com/archive/2026-04-29.html
+- https://kvartalami.com/archive/2026-04-28.html
+- https://kvartalami.com/archive/2026-04-24.html
+- https://kvartalami.com/archive/2026-04-22.html
+- https://kvartalami.com/archive/2026-04-17.html
+- https://kvartalami.com/archive/2026-04-16.html
+- https://kvartalami.com/archive/2026-04-15.html
+- https://kvartalami.com/archive/2026-04-07.html
 
-## Today's news headlines (20 items)
+## Today's news headlines (0 items)
 
-- Поетапното миене по карета продължава в районите „Оборище“ и „Средец“
-- ДЪРЖАВНО ОТЛИЧИЕ ЗА НАЦИОНАЛНИЯ ВОЕННОИСТОРИЧЕСКИ МУЗЕЙ ПО ПОВОД НЕГОВИЯ 110-ГОДИШЕН ЮБИЛЕЙ
-- Столична община затяга мерките за безопасност заради влошаване на качеството на въздуха в района на пожара в „Люлин“
-- Поетапното миене по карета продължава в район „Оборище“
-- 110 ГОДИНИ НАЦИОНАЛЕН ВОЕННОИСТОРИЧЕСКИ МУЗЕЙ – МЯСТО, В КОЕТО ПАМЕТТА ИМА МНОГО ЛИЦА
-- Прекъсване на работата на отдел „Общински приходи“ - офис „Оборище“ на 29.06.2026 г. от 10.00 ч. до 14.00 ч.
-- От 9 до 19 юли ще се проведе третото издание на „Девет слона“ – фестивал за изкуство в градска среда
-- Важно съобщение: Резитбата на ул. „Буная“ се отлага за 29 юни
-- Арх. Любо Георгиев: „Целта на ПУП Борисова градина е отчуждаването на всички частни имоти и връщането им на обществото“
-- Започва плановото миене на улици на територията на район „Оборище“
+(no recent news at the moment)
 
 ## Attribution
 

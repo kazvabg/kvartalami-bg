@@ -95,11 +95,22 @@ function articleCard(a) {
       </article>`;
 }
 
+// kazva-inline: standing feedback topics per category (kazva.bg entity 423);
+// the label becomes a tap target asking readers to rate that civic service
+const KAZVA_CATEGORY_TOPICS = {
+  repairs: 'kvartalami-oborishte-voda',
+  government: 'kvartalami-oborishte-obshtina',
+};
+
 function categorySection(key, articles) {
   if (articles.length === 0) return '';
   const cat = CATEGORIES[key];
+  const kazvaTopic = KAZVA_CATEGORY_TOPICS[key];
+  const label = kazvaTopic
+    ? `<span data-kazva="${kazvaTopic}">${escapeHtml(cat.label)}</span>`
+    : escapeHtml(cat.label);
   return `    <section class="category-section">
-      <h2>${cat.icon} ${escapeHtml(cat.label)}</h2>
+      <h2>${cat.icon} ${label}</h2>
 ${articles.map(articleCard).join('\n')}
     </section>`;
 }
@@ -186,7 +197,7 @@ function htmlPage({ title, bodyContent, isArchive = false, canonicalPath = '/', 
 <body>
   <header>
     <h1>${escapeHtml(SITE.title)}</h1>
-    <p class="subtitle">${escapeHtml(SITE.subtitle)}</p>
+    <p class="subtitle">Хипер-локални новини за <span data-kazva="kvartalami-oborishte">район Оборище</span></p>
     <p class="updated">Обновено: ${escapeHtml(now)}</p>${homeLink}
   </header>
   <main>
@@ -195,6 +206,8 @@ ${bodyContent}
   <footer>
     <p>Данните са от публични източници. ${escapeHtml(SITE.title)} &copy; ${new Date().getFullYear()}</p>
   </footer>
+  <!-- kazva-inline: тапни маркирана фраза, за да дадеш мнение (dogfood pilot) -->
+  <script async src="/kazva/v1.js" data-publisher="kvartalami" crossorigin="anonymous"></script>
 </body>
 </html>`;
 }
