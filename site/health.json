@@ -1,0 +1,26 @@
+{
+  "sofiyska-voda": {
+    "lastRunAt": "2026-07-06T17:24:31.126Z",
+    "lastFetched": 0
+  },
+  "toplofikacia": {
+    "lastRunAt": "2026-07-06T17:24:31.126Z",
+    "lastFetched": 22,
+    "lastNonEmptyAt": "2026-07-06T17:24:31.126Z"
+  },
+  "sofia-municipality": {
+    "lastRunAt": "2026-07-06T17:24:31.126Z",
+    "lastFetched": 10,
+    "lastNonEmptyAt": "2026-07-06T17:24:31.126Z"
+  },
+  "sofia-council": {
+    "lastRunAt": "2026-07-06T17:24:31.126Z",
+    "lastFetched": 6,
+    "lastNonEmptyAt": "2026-07-06T17:24:31.126Z"
+  },
+  "rayon-oborishte": {
+    "lastRunAt": "2026-07-06T17:24:31.126Z",
+    "lastFetched": 9,
+    "lastNonEmptyAt": "2026-07-06T17:24:31.126Z"
+  }
+}

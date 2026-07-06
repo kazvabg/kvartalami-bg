@@ -67,7 +67,7 @@ export const SOURCES = [
 
 export const LLM = {
   provider: 'gemini',
-  model: 'gemini-2.0-flash',
+  model: 'gemini-2.5-flash',  // 2.0-flash was retired; every call 404'd silently for weeks
   baseUrl: 'https://generativelanguage.googleapis.com/v1beta',
   maxTokens: 200,
   prompt: 'Обобщи следната новина в 2-3 кратки изречения на български. Бъди фактологичен и конкретен:\n\n',

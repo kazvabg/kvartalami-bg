@@ -5,12 +5,19 @@ import { PATHS, LLM } from './config.js';
 const API_KEY = process.env.GEMINI_API_KEY;
 const DELAY_MS = 500;
 
-function todayFile() {
-  const d = new Date();
-  const yyyy = d.getFullYear();
-  const mm = String(d.getMonth() + 1).padStart(2, '0');
-  const dd = String(d.getDate()).padStart(2, '0');
-  return join(PATHS.articles, `${yyyy}-${mm}-${dd}.json`);
+// Scrape files are keyed by scrape date; a run just after midnight (or a
+// previously failed run) leaves unsummarized articles in earlier files, so
+// look back a few days instead of only at today.
+function recentFiles(days = 3) {
+  const files = [];
+  for (let i = 0; i < days; i++) {
+    const d = new Date(Date.now() - i * 86400000);
+    const yyyy = d.getFullYear();
+    const mm = String(d.getMonth() + 1).padStart(2, '0');
+    const dd = String(d.getDate()).padStart(2, '0');
+    files.push(join(PATHS.articles, `${yyyy}-${mm}-${dd}.json`));
+  }
+  return files;
 }
 
 function sleep(ms) {
@@ -42,41 +49,47 @@ async function main() {
     return;
   }
 
-  const file = todayFile();
-
-  let raw;
-  try {
-    raw = await readFile(file, 'utf-8');
-  } catch {
-    console.log('No articles to summarize');
-    return;
-  }
-
-  const articles = JSON.parse(raw);
-  const unsummarized = articles.filter(a => !a.summary);
-
-  if (unsummarized.length === 0) {
-    console.log('All articles already summarized');
-    return;
-  }
-
-  console.log(`Summarizing ${unsummarized.length} articles...`);
-
+  let attempted = 0;
   let done = 0;
-  for (const article of unsummarized) {
+
+  for (const file of recentFiles()) {
+    let raw;
     try {
-      const content = article.content || article.title || '';
-      article.summary = await summarize(content);
-      done++;
-      console.log(`Summarized: ${article.title}`);
-    } catch (err) {
-      console.error(`Failed to summarize "${article.title}": ${err.message}`);
+      raw = await readFile(file, 'utf-8');
+    } catch {
+      continue;
     }
-    await sleep(DELAY_MS);
+
+    const articles = JSON.parse(raw);
+    const unsummarized = articles.filter(a => !a.summary);
+    if (unsummarized.length === 0) continue;
+
+    console.log(`Summarizing ${unsummarized.length} articles in ${file}...`);
+
+    for (const article of unsummarized) {
+      attempted++;
+      try {
+        const content = article.content || article.title || '';
+        article.summary = await summarize(content);
+        done++;
+        console.log(`Summarized: ${article.title}`);
+      } catch (err) {
+        console.error(`Failed to summarize "${article.title}": ${err.message}`);
+      }
+      await sleep(DELAY_MS);
+    }
+
+    await writeFile(file, JSON.stringify(articles, null, 2), 'utf-8');
   }
 
-  await writeFile(file, JSON.stringify(articles, null, 2), 'utf-8');
-  console.log(`Done: ${done}/${unsummarized.length}`);
+  console.log(`Done: ${done}/${attempted}`);
+
+  // Fail loud: silently shipping truncated raw text instead of summaries is
+  // exactly how this rotted unnoticed when the model name went stale.
+  if (attempted > 0 && done === 0) {
+    console.error('All summarization attempts failed — failing the run so CI shows it.');
+    process.exit(1);
+  }
 }
 
 main();
