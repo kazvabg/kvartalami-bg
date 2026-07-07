@@ -337,5 +337,17 @@
     "district": "oborishte",
     "sourceName": "ЕРМ Запад",
     "fetchedAt": "2026-07-07T07:28:21.180Z"
+  },
+  {
+    "title": "Авария: Част от Лозенец",
+    "url": "https://toplo.bg/accidents-and-maintenance#%D0%A7%D0%B0%D1%81%D1%82%20%D0%BE%D1%82%20%D0%9B%D0%BE%D0%B7%D0%B5%D0%BD%D0%B5%D1%86%7C%D1%83%D0%BB.%22%D0%A6%D0%B0%D0%BD%D0%BA%D0%BE%20%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%22%20%E2%84%9655",
+    "content": "Район: Част от Лозенец\nАдреси: ул.\"Цанко Церковски\" №55\nНачало: 6.07.2026 г., 13:50:00 ч.\nОчаквано възстановяване: 8.07.2026 г., 13:50:00 ч.",
+    "category": "repairs",
+    "date": "2026-07-06",
+    "source": "toplofikacia",
+    "id": "501b5e82508e",
+    "district": "lozenets",
+    "sourceName": "Топлофикация София",
+    "fetchedAt": "2026-07-07T17:51:10.177Z"
   }
 ]

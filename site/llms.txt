@@ -62,7 +62,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (25 items in the last 30 days):
+- Recent headlines (26 items in the last 30 days):
+- Авария: Част от Лозенец
 - Авария: Част от Лозенец
 - Авария: Част от Лозенец
 - Авария: Част от Лозенец
@@ -72,7 +73,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Временно ограничение на паркирането на ул. „Флора Кънева“
 - Обява за медицинска сестра за кабинет
 - Обява за подбор на кандидати за заемана на длъжността старши инспектор в районен инспекторат
-- Обявление по чл. 81а ЗДСл
 - Recent archive:
 - https://kvartalami.com/lozenets/archive/2026-07-06.html
 - https://kvartalami.com/lozenets/archive/2026-07-04.html
