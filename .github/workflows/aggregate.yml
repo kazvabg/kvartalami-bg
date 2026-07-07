@@ -33,6 +33,15 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
+      # Messenger distribution (fail-open by design; no secret ⇒ no-op).
+      # Runs after summarize so posts carry LLM summaries.
+      - name: Post to Telegram channels
+        run: node scripts/notify.mjs
+        timeout-minutes: 2
+        continue-on-error: true
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+
       # Keyless sensor.community API — safe in CI (unlike kazva-pulse, which
       # needs METABASE_API_KEY and stays local). A sensor outage must not
       # block the news pipeline; the build hides the air line when stale.

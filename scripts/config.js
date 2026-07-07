@@ -112,6 +112,8 @@ export const DISTRICTS = [
       'ул. Цар Освободител', 'Докторска градина', 'Борисова градина', 'Орлов мост',
     ],
     sources: [...CITYWIDE_SOURCES, 'rayon-oborishte'],
+    // Public Telegram channel notify.mjs posts to (bot must be channel admin).
+    telegram: '@kvartalami_oborishte',
     kazva: {
       districtTopic: 'kvartalami-oborishte',
       categoryTopics: {
@@ -137,6 +139,7 @@ export const DISTRICTS = [
       'Богатица', 'Златовръх', 'Сребърна',
     ],
     sources: [...CITYWIDE_SOURCES, 'rayon-lozenets'],
+    telegram: '@kvartalami_lozenets',
     kazva: {
       districtTopic: 'kvartalami-lozenets',
       categoryTopics: {

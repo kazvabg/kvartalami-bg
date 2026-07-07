@@ -162,6 +162,14 @@ async function main() {
     existing.push(...newArticles);
     writeFileSync(filepath, JSON.stringify(existing, null, 2));
     console.log(`[scrape] Saved ${newArticles.length} new articles to ${filepath}`);
+
+    // Outbox for messenger distribution (scripts/notify.mjs) — queue of newly
+    // saved articles; notify posts them and removes what it posted.
+    const outboxPath = PATHS.seen.replace(/seen\.json$/, 'outbox.json');
+    let outbox = [];
+    try { outbox = JSON.parse(readFileSync(outboxPath, 'utf-8')); } catch {}
+    outbox.push(...newArticles.map(a => ({ id: a.id, district: a.district, addedAt: runAt })));
+    writeFileSync(outboxPath, JSON.stringify(outbox, null, 2));
   } else {
     console.log('[scrape] No new articles found');
   }
