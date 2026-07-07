@@ -1,81 +1,108 @@
-import * as cheerio from 'cheerio';
-import { DISTRICT } from '../config.js';
-
-// The /water-stops page is an SPA that embeds a GIS portal iframe.
-// The GIS portal at gispx.sofiyskavoda.bg renders outage data in
-// server-side HTML tables that we can parse with cheerio.
-const GIS_URL = 'https://gispx.sofiyskavoda.bg/WebApp.InfoCenter/?a=0&tab=0';
+// The /water-stops page embeds a GIS portal that used to render outage tables
+// server-side. The portal is now a Dojo/ArcGIS SPA shell (verified 2026-07-07:
+// the old table.tableWaterStopInfo markup no longer exists — this scraper had
+// fetched 0 items ever per health.json). The data lives in an ArcGIS REST
+// service the app queries; we hit it directly. A Referer from the app origin
+// is required — without it the server answers 403.
+const APP_URL = 'https://gispx.sofiyskavoda.bg/WebApp.InfoCenter/';
 const SITE_URL = 'https://www.sofiyskavoda.bg/water-stops';
+const SERVICE_URL = 'https://gispx.sofiyskavoda.bg/arcgis/rest/services/WSI_PUBLIC/InfoCenter_Public/MapServer';
+
+// Layer + definition expression pairs come from the app's js/config.js:
+// layer 2 = „Текущи спирания" (In Progress), layer 3 = „Планирани спирания" (Confirmed).
+const LAYERS = [
+  { layer: 2, where: "ACTIVESTATUS = 'In Progress'" },
+  { layer: 3, where: "ACTIVESTATUS = 'Confirmed'" },
+];
+
+// Epoch millis → dd.mm.yyyy in Sofia local time (matches the app's display).
+function fmtDate(ms) {
+  if (!Number.isFinite(ms)) return '';
+  return new Date(ms).toLocaleDateString('bg-BG', { timeZone: 'Europe/Sofia' });
+}
+
+// Epoch millis → ISO yyyy-mm-dd for the article date field.
+function isoDate(ms) {
+  if (!Number.isFinite(ms)) return new Date().toISOString().slice(0, 10);
+  return new Date(ms).toISOString().slice(0, 10);
+}
+
+async function queryLayer({ layer, where }) {
+  const params = new URLSearchParams({
+    where,
+    outFields: '*',
+    returnGeometry: 'false',
+    f: 'json',
+  });
+  const res = await fetch(`${SERVICE_URL}/${layer}/query?${params}`, {
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+      'Referer': APP_URL,
+      'Accept': 'application/json',
+    },
+    signal: AbortSignal.timeout(15_000),
+  });
+  if (!res.ok) {
+    console.error(`[sofiyska-voda] Layer ${layer} HTTP ${res.status}`);
+    return [];
+  }
+  const data = await res.json();
+  if (data.error) {
+    console.error(`[sofiyska-voda] Layer ${layer} error: ${data.error.message || data.error.code}`);
+    return [];
+  }
+  return data.features || [];
+}
 
 export default async function scrape() {
-  console.log('[sofiyska-voda] Scraping GIS portal');
+  console.log('[sofiyska-voda] Querying ArcGIS layers', LAYERS.map(l => l.layer).join('+'));
 
   try {
-    const res = await fetch(GIS_URL, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-        'Accept-Language': 'bg,en;q=0.5',
-      },
-      signal: AbortSignal.timeout(15_000),
-    });
+    const articles = [];
+    for (const layerDef of LAYERS) {
+      const features = await queryLayer(layerDef);
+      console.log(`[sofiyska-voda] Layer ${layerDef.layer}: ${features.length} raw entries`);
 
-    if (!res.ok) {
-      console.error(`[sofiyska-voda] HTTP ${res.status}`);
-      return [];
+      for (const f of features) {
+        const a = f.attributes || {};
+        const location = (a.LOCATION || '').trim();
+        const type = (a.ALERTTYPE || '').trim();
+        const description = (a.DESCRIPTION || '').trim();
+        const alertId = (a.ALERTID || '').trim();
+        if (!location && !description) continue;
+
+        const start = `${fmtDate(a.START_)}${a.START_H ? `, ${a.START_H}:${a.START_M || '00'} ч.` : ''}`;
+        const end = `${fmtDate(a.ALERTEND)}${a.END_H ? `, ${a.END_H}:${a.END_M || '00'} ч.` : ''}`;
+
+        const title = type
+          ? `${type}: ${location}`.slice(0, 120)
+          : location.slice(0, 120) || 'Спиране на водата';
+
+        const content = [
+          location && `Местоположение: ${location}`,
+          type && `Тип: ${type}`,
+          description && `Описание: ${description}`,
+          start.trim() && `Начало: ${start}`,
+          end.trim() && `Край: ${end}`,
+        ].filter(Boolean).join('\n');
+
+        // Returns every Sofia outage — scrape.js filters per district by keyword.
+        // The ALERTID fragment gives each outage a unique, stable URL for dedup.
+        articles.push({
+          title,
+          url: `${SITE_URL}#${encodeURIComponent(alertId || location || title)}`,
+          content: content.slice(0, 2000),
+          category: 'repairs',
+          date: isoDate(a.START_),
+          source: 'sofiyska-voda',
+        });
+      }
     }
 
-    const html = await res.text();
-    const $ = cheerio.load(html);
-    const articles = [];
-    const district = DISTRICT.name;
-
-    // Structure: table.tableWaterStopInfo > tr.trRowDefault > td.tdBottomRowSeperator
-    // Each td contains <b>Label:</b> value<br> pairs:
-    //   Местоположение, Тип, Описание, Начало, Край
-    $('table.tableWaterStopInfo tr.trRowDefault').each((_, el) => {
-      const td = $(el).find('td.tdBottomRowSeperator');
-      if (!td.length) return;
-
-      const text = td.text().trim();
-      if (!text || !text.includes('Местоположение')) return;
-
-      // Only keep entries mentioning the district
-      if (!text.includes(district) && !text.includes('Оборище')) return;
-
-      const inner = td.html() || '';
-      const location = inner.match(/<b>Местоположение:<\/b>\s*(.*?)(?:<br>|$)/i)?.[1]?.trim() || '';
-      const type = inner.match(/<b>Тип:<\/b>\s*(.*?)(?:<br>|$)/i)?.[1]?.trim() || '';
-      const description = inner.match(/<b>Описание:<\/b>\s*(.*?)(?:<br>|$)/i)?.[1]?.trim() || '';
-      const startDate = inner.match(/<b>Начало:<\/b>\s*(.*?)(?:<br>|$)/i)?.[1]?.trim() || '';
-      const endDate = inner.match(/<b>Край:<\/b>\s*(.*?)(?:<br>|$)/i)?.[1]?.trim() || '';
-
-      const title = type
-        ? `${type}: ${location}`.slice(0, 120)
-        : location.slice(0, 120) || 'Спиране на водата';
-
-      const content = [
-        location && `Местоположение: ${location}`,
-        type && `Тип: ${type}`,
-        description && `Описание: ${description}`,
-        startDate && `Начало: ${startDate}`,
-        endDate && `Край: ${endDate}`,
-      ].filter(Boolean).join('\n');
-
-      articles.push({
-        title,
-        url: SITE_URL,
-        content: content.slice(0, 2000),
-        category: 'repairs',
-        date: new Date().toISOString().slice(0, 10),
-        source: 'sofiyska-voda',
-      });
-    });
-
     if (articles.length === 0) {
-      console.log('[sofiyska-voda] No entries for district (may be no current outages)');
+      console.log('[sofiyska-voda] No current or planned outages');
     } else {
-      console.log(`[sofiyska-voda] Found ${articles.length} relevant entries`);
+      console.log(`[sofiyska-voda] Found ${articles.length} entries`);
     }
     return articles;
   } catch (err) {

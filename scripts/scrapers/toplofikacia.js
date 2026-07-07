@@ -57,7 +57,8 @@ export default async function scrape() {
 
         articles.push({
           title: `Авария: ${name}`.slice(0, 120),
-          url: SOURCE_URL,
+          // Fragment gives each accident a unique URL so dedup keeps them all.
+          url: `${SOURCE_URL}#${encodeURIComponent(`${name}|${addr}`.slice(0, 120))}`,
           content: content.slice(0, 2000),
           category: 'repairs',
           date: dateStr,

@@ -1,43 +1,35 @@
 import { createHash } from 'crypto';
-import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'fs';
-import { PATHS, SOURCES, DISTRICT } from './config.js';
+import { readFileSync, writeFileSync, mkdirSync } from 'fs';
+import { PATHS, SOURCES, DISTRICTS, LEGACY_DISTRICT } from './config.js';
 
-// Sources that are inherently district-specific (all their content is relevant)
-// Only rayon-oborishte is fully district-specific. Utility sources cover all Sofia.
-const DISTRICT_SOURCES = new Set(['rayon-oborishte']);
+const SOURCE_BY_ID = Object.fromEntries(SOURCES.map(s => [s.id, s]));
 
-// Keywords that indicate district relevance for citywide sources
-const DISTRICT_KEYWORDS = [
-  DISTRICT.name,           // Оборище
-  'район Оборище',
-  'р-н Оборище',
-  'кв. Оборище',
-  'ул. Оборище',
-  'бул. Дондуков',
-  'бул. Васил Левски',
-  'ул. Шипка',
-  'ул. Раковски',
-  'ул. Цар Освободител',
-  'Докторска градина',
-  'Борисова градина',
-];
+// Is an article relevant to a district?
+// - district-specific sources (район sites) publish only their own content
+// - geo-sources (e.g. ЕРМ Запад) pre-compute an `article.districts` list
+// - everything else is a citywide source → match the district's keyword list
+function isRelevant(article, district) {
+  const src = SOURCE_BY_ID[article.source];
+  if (src && src.districtSpecific) return true;
+  if (Array.isArray(article.districts)) return article.districts.includes(district.id);
 
-function isDistrictRelevant(article) {
-  // District-specific sources are always relevant
-  if (DISTRICT_SOURCES.has(article.source)) return true;
-
-  // Check title and content for district keywords
   const text = `${article.title} ${article.content}`.toLowerCase();
-  return DISTRICT_KEYWORDS.some(kw => text.includes(kw.toLowerCase()));
+  return district.keywords.some(kw => text.includes(kw.toLowerCase()));
 }
 
-// Dynamic import of all scrapers
+// Load every scraper referenced by any district, once.
 async function loadScrapers() {
+  const ids = new Set(DISTRICTS.flatMap(d => d.sources));
   const scrapers = {};
-  for (const source of SOURCES) {
+  for (const id of ids) {
+    const source = SOURCE_BY_ID[id];
+    if (!source) {
+      console.error(`[scrape] Unknown source id ${id} referenced by a district`);
+      continue;
+    }
     try {
       const mod = await import(`./scrapers/${source.scraper}`);
-      scrapers[source.id] = mod.default;
+      scrapers[id] = mod.default;
     } catch (err) {
       console.error(`[scrape] Failed to load scraper ${source.scraper}:`, err.message);
     }
@@ -47,8 +39,16 @@ async function loadScrapers() {
 
 const HEALTH_PATH = PATHS.articles.replace(/articles$/, 'health.json');
 
+// Legacy seen/health keys were bare (single-district era). Namespace them to
+// the legacy district so multi-district keys (`x@district`) never collide.
+function migrateKeys(obj) {
+  const out = {};
+  for (const [k, v] of Object.entries(obj)) out[k.includes('@') ? k : `${k}@${LEGACY_DISTRICT}`] = v;
+  return out;
+}
+
 function loadHealth() {
-  try { return JSON.parse(readFileSync(HEALTH_PATH, 'utf-8')); } catch { return {}; }
+  try { return migrateKeys(JSON.parse(readFileSync(HEALTH_PATH, 'utf-8'))); } catch { return {}; }
 }
 
 function saveHealth(health) {
@@ -61,7 +61,7 @@ function articleId(url) {
 
 function loadSeen() {
   try {
-    return JSON.parse(readFileSync(PATHS.seen, 'utf-8'));
+    return migrateKeys(JSON.parse(readFileSync(PATHS.seen, 'utf-8')));
   } catch {
     return {};
   }
@@ -93,7 +93,8 @@ async function main() {
   const scrapers = await loadScrapers();
   const seen = loadSeen();
 
-  // Run all scrapers in parallel
+  // Run each unique scraper once (citywide sources feed multiple districts).
+  const rawBySource = {};
   const results = await Promise.allSettled(
     Object.entries(scrapers).map(async ([id, fn]) => {
       try {
@@ -105,50 +106,52 @@ async function main() {
       }
     })
   );
-
-  // Build source name lookup from config
-  const sourceNames = {};
-  for (const s of SOURCES) sourceNames[s.id] = s.name;
-
-  // Collect all new articles
-  let newCount = 0;
-  const newArticles = [];
-
-  // Per-source health: makes silent rot visible (a scraper can "succeed"
-  // while the district filter drops everything, or a site changes its markup
-  // and yields 0 items — both looked identical to "quiet news day" before).
-  const health = loadHealth();
-  const runAt = new Date().toISOString();
-
   for (const result of results) {
     if (result.status === 'rejected') {
       console.error('[scrape] Promise rejected:', result.reason);
       continue;
     }
+    rawBySource[result.value.id] = result.value.articles;
+  }
 
-    const { id, articles } = result.value;
+  const sourceNames = {};
+  for (const s of SOURCES) sourceNames[s.id] = s.name;
 
-    const h = health[id] = health[id] || {};
-    h.lastRunAt = runAt;
-    h.lastFetched = articles.length;
-    if (articles.length > 0) h.lastNonEmptyAt = runAt;
+  // Per-source-per-district health: makes silent rot visible (a scraper can
+  // "succeed" while a district's keyword filter drops everything, or a site
+  // changes its markup and yields 0 items — both looked like a quiet news day).
+  const health = loadHealth();
+  const runAt = new Date().toISOString();
 
-    for (const article of articles) {
-      const aid = articleId(article.url);
-      if (seen[aid]) continue;
+  let newCount = 0;
+  const newArticles = [];
 
-      // Filter: only keep district-relevant articles
-      if (!isDistrictRelevant(article)) continue;
+  for (const district of DISTRICTS) {
+    for (const sourceId of district.sources) {
+      const articles = rawBySource[sourceId] || [];
+      const hKey = `${sourceId}@${district.id}`;
+      const h = health[hKey] = health[hKey] || {};
+      h.lastRunAt = runAt;
+      h.lastFetched = articles.length;
+      if (articles.length > 0) h.lastNonEmptyAt = runAt;
 
-      seen[aid] = true;
-      health[article.source].lastSavedAt = runAt;
-      newArticles.push({
-        ...article,
-        id: aid,
-        sourceName: sourceNames[article.source] || article.source,
-        fetchedAt: new Date().toISOString(),
-      });
-      newCount++;
+      for (const article of articles) {
+        if (!isRelevant(article, district)) continue;
+
+        const key = `${articleId(article.url)}@${district.id}`;
+        if (seen[key]) continue;
+
+        seen[key] = true;
+        h.lastSavedAt = runAt;
+        newArticles.push({
+          ...article,
+          id: articleId(article.url),
+          district: district.id,
+          sourceName: sourceNames[article.source] || article.source,
+          fetchedAt: new Date().toISOString(),
+        });
+        newCount++;
+      }
     }
   }
 

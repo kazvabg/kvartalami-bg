@@ -1,6 +1,6 @@
 import { readFileSync, writeFileSync, readdirSync, mkdirSync, existsSync } from 'fs';
 import { join } from 'path';
-import { PATHS, CATEGORIES, DISTRICT, SITE, SOURCES, LLM } from './config.js';
+import { PATHS, CATEGORIES, DISTRICTS, LEGACY_DISTRICT, SITE, SOURCES, LLM } from './config.js';
 
 // --- Helpers ---
 
@@ -23,6 +23,12 @@ function readArticles() {
   return articles;
 }
 
+// Articles predating the multi-district refactor have no `district` field and
+// all belonged to Оборище.
+function articleDistrict(a) {
+  return a.district || LEGACY_DISTRICT;
+}
+
 function formatDate(dateStr) {
   const d = new Date(dateStr);
   return d.toLocaleDateString('bg-BG', { day: 'numeric', month: 'long', year: 'numeric' });
@@ -36,10 +42,6 @@ function formatDateShort(dateStr) {
 function toDateKey(dateStr) {
   const d = new Date(dateStr);
   return d.toISOString().slice(0, 10);
-}
-
-function todayKey() {
-  return new Date().toISOString().slice(0, 10);
 }
 
 function truncate(text, max = 200) {
@@ -73,6 +75,34 @@ function groupByDate(articles) {
     groups[key].push(a);
   }
   return groups;
+}
+
+// Last-30-days window, newest first — the index + SEO surfaces use this.
+function recentArticles(articles) {
+  const cutoff = new Date();
+  cutoff.setDate(cutoff.getDate() - 30);
+  const cutoffKey = cutoff.toISOString().slice(0, 10);
+  return articles
+    .filter(a => toDateKey(a.date || a.fetchedAt || '') >= cutoffKey)
+    .sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
+}
+
+// --- Per-district path/URL helpers ---
+
+function districtSiteDir(d) {
+  return d.outputDir ? join(PATHS.site, d.outputDir) : PATHS.site;
+}
+
+function districtArchiveDir(d) {
+  return join(districtSiteDir(d), 'archive');
+}
+
+function districtBaseUrl(d) {
+  return d.outputDir ? `${SITE.url}/${d.outputDir}` : SITE.url;
+}
+
+function districtFeedPath(d) {
+  return d.outputDir ? `${d.outputDir}/feed.xml` : 'feed.xml';
 }
 
 // --- HTML Templates ---
@@ -111,16 +141,12 @@ function articleCard(a) {
 }
 
 // kazva-inline: standing feedback topics per category (kazva.bg entity 423);
-// the label becomes a tap target asking readers to rate that civic service
-const KAZVA_CATEGORY_TOPICS = {
-  repairs: 'kvartalami-oborishte-voda',
-  government: 'kvartalami-oborishte-obshtina',
-};
-
-function categorySection(key, articles) {
+// the label becomes a tap target asking readers to rate that civic service.
+// Only districts whose kazva topics exist carry the tags (see config.DISTRICTS).
+function categorySection(key, articles, district) {
   if (articles.length === 0) return '';
   const cat = CATEGORIES[key];
-  const kazvaTopic = KAZVA_CATEGORY_TOPICS[key];
+  const kazvaTopic = district.kazva?.categoryTopics?.[key];
   const label = kazvaTopic
     ? `<span data-kazva="${kazvaTopic}">${escapeHtml(cat.label)}</span>`
     : escapeHtml(cat.label);
@@ -141,20 +167,43 @@ ${dates.map(d => `        <a href="${prefix}/${d}.html" class="pill">${formatDat
     </nav>`;
 }
 
-function htmlPage({ title, bodyContent, isArchive = false, canonicalPath = '/', pageDescription, articleCount }) {
+// Cross-link the districts in the header. Links are relative to the page's
+// depth below the site root so they work as file:// and on the CDN.
+function districtNav(district, base) {
+  const links = DISTRICTS.map(d => {
+    const href = `${base}/${d.outputDir ? d.outputDir + '/' : ''}index.html`;
+    return d.id === district.id
+      ? `<span class="district-nav-current">${escapeHtml(d.name)}</span>`
+      : `<a href="${href}">${escapeHtml(d.name)}</a>`;
+  });
+  return `    <nav class="district-nav">${links.join(' · ')}</nav>`;
+}
+
+function htmlPage({ district, title, bodyContent, isArchive = false, canonicalPath = '/', pageDescription, articleCount, airLine }) {
   const now = new Date().toLocaleString('bg-BG', {
     day: 'numeric', month: 'long', year: 'numeric',
     hour: '2-digit', minute: '2-digit',
   });
 
-  // Use relative paths so pages work both as file:// and on CDN
-  const base = isArchive ? '..' : '.';
-  const homeLink = isArchive ? `\n      <a href="${base}/index.html" class="back-link">&larr; Към днешните новини</a>` : '';
+  // Depth below the site root → relative path to shared assets (style.css etc.)
+  // Оборище index: 0 · Оборище archive / Лозенец index: 1 · Лозенец archive: 2
+  const depth = (district.outputDir ? 1 : 0) + (isArchive ? 1 : 0);
+  const base = depth === 0 ? '.' : Array(depth).fill('..').join('/');
+  // Archive pages sit exactly one level below their district's index.
+  const homeLink = isArchive ? `\n      <a href="../index.html" class="back-link">&larr; Към днешните новини</a>` : '';
 
   const fullTitle = `${title} — ${SITE.title}`;
   const description = pageDescription || SITE.description;
   const canonicalUrl = `${SITE.url}${canonicalPath}`;
   const ogImageUrl = `${SITE.url}/og.png`;
+  const feedUrl = `${SITE.url}/${districtFeedPath(district)}`;
+
+  // kazva-inline: the district phrase is a tap target only where its topic exists.
+  const subtitleTarget = district.kazva?.districtTopic
+    ? `<span data-kazva="${district.kazva.districtTopic}">район ${escapeHtml(district.name)}</span>`
+    : `район ${escapeHtml(district.name)}`;
+
+  const airHtml = airLine ? `\n    <p class="air">${escapeHtml(airLine)}</p>` : '';
 
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -168,7 +217,7 @@ function htmlPage({ title, bodyContent, isArchive = false, canonicalPath = '/', 
       '@type': 'NewsMediaOrganization',
       name: SITE.title,
       url: SITE.url,
-      areaServed: { '@type': 'AdministrativeArea', name: 'Район Оборище, София' },
+      areaServed: { '@type': 'AdministrativeArea', name: `Район ${district.name}, София` },
     },
     ...(articleCount ? { numberOfItems: articleCount } : {}),
   };
@@ -195,7 +244,7 @@ function htmlPage({ title, bodyContent, isArchive = false, canonicalPath = '/', 
   <meta name="twitter:image" content="${ogImageUrl}">
   <link rel="icon" href="${base}/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="${base}/style.css">
-  <link rel="alternate" type="application/rss+xml" title="${escapeHtml(SITE.title)} RSS" href="${SITE.url}/feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="${escapeHtml(SITE.title)} RSS" href="${feedUrl}">
   <script type="application/ld+json">${JSON.stringify(jsonLd)}</script>
   <script>
     var _paq = window._paq = window._paq || [];
@@ -208,12 +257,13 @@ function htmlPage({ title, bodyContent, isArchive = false, canonicalPath = '/', 
     _paq.push(["trackPageView"]);
     (function () { var s = document.createElement("script"); s.async = true; s.src = "https://analytics.kazva.bg/matomo.js"; document.head.appendChild(s); })();
   </script>
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">\n</head>
+</head>
 <body>
   <header>
     <h1>${escapeHtml(SITE.title)}</h1>
-    <p class="subtitle">Хипер-локални новини за <span data-kazva="kvartalami-oborishte">район Оборище</span></p>
-    <p class="updated">Обновено: ${escapeHtml(now)}</p>${homeLink}
+    <p class="subtitle">Хипер-локални новини за ${subtitleTarget}</p>
+${districtNav(district, base)}
+    <p class="updated">Обновено: ${escapeHtml(now)}</p>${airHtml}${homeLink}
   </header>
   <main>
 ${bodyContent}
@@ -221,7 +271,9 @@ ${bodyContent}
   <footer>
     <p>Данните са от публични източници. ${escapeHtml(SITE.title)} &copy; ${new Date().getFullYear()}</p>
   </footer>
-  <!-- kazva-inline: тапни маркирана фраза, за да дадеш мнение (dogfood pilot) -->
+  <!-- kazva-inline: тапни маркирана фраза, за да дадеш мнение (dogfood pilot).
+       Лозенец: TODO create kvartalami-lozenets* topics via kazva-topic-manager,
+       then set kazva.* in config so the header/category phrases get data-kazva tags. -->
   <script async src="/kazva/v1.js" data-publisher="kvartalami" crossorigin="anonymous"></script>
   <script>
   // „Моята улица" — filter repair notices to the reader's street (localStorage only)
@@ -258,9 +310,9 @@ ${bodyContent}
 </html>`;
 }
 
-// --- Build ---
+// --- Build (per district) ---
 
-function buildIndex(articles, archiveDates) {
+function buildDistrictIndex(district, articles, archiveDates) {
   // Show articles from the last 30 days (neighborhood news is slower-paced than city news)
   const cutoff = new Date();
   cutoff.setDate(cutoff.getDate() - 30);
@@ -271,7 +323,7 @@ function buildIndex(articles, archiveDates) {
     return dk >= cutoffKey;
   });
 
-  // If nothing in 7 days, show whatever is most recent
+  // If nothing in 30 days, show whatever is most recent
   if (displayArticles.length === 0) {
     displayArticles = articles.slice().sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0)).slice(0, 20);
   }
@@ -286,35 +338,38 @@ function buildIndex(articles, archiveDates) {
   } else {
     const grouped = groupByCategory(displayArticles);
     const sections = Object.keys(CATEGORIES)
-      .map(key => categorySection(key, grouped[key]))
+      .map(key => categorySection(key, grouped[key], district))
       .filter(Boolean)
       .join('\n');
     bodyContent = sections;
   }
 
-  // Кварталният пулс — reader-feedback aggregates from the kazva-inline topics
-  bodyContent = pulseBox() + bodyContent;
+  // Кварталният пулс — reader-feedback aggregates (only where kazva topics exist)
+  if (district.kazva) bodyContent = pulseBox() + bodyContent;
 
   // Add last 7 days of archive links
   const recentDates = archiveDates.slice(0, 7);
   bodyContent += '\n' + archiveLinks(recentDates);
 
   const indexDescription = displayArticles.length
-    ? `${displayArticles.length} актуални новини за район Оборище — ${displayArticles.slice(0, 3).map(a => truncate(a.title || '', 60)).filter(Boolean).join(' · ')}`.slice(0, 300)
+    ? `${displayArticles.length} актуални новини за район ${district.name} — ${displayArticles.slice(0, 3).map(a => truncate(a.title || '', 60)).filter(Boolean).join(' · ')}`.slice(0, 300)
     : SITE.description;
   const html = htmlPage({
-    title: 'Новини за днес',
+    district,
+    title: `Новини за днес — район ${district.name}`,
     bodyContent,
-    canonicalPath: '/',
+    canonicalPath: district.outputDir ? `/${district.outputDir}/` : '/',
     pageDescription: indexDescription,
     articleCount: displayArticles.length,
+    airLine: readAirLine(district.id),
   });
-  mkdirSync(PATHS.site, { recursive: true });
-  writeFileSync(join(PATHS.site, 'index.html'), html, 'utf8');
-  console.log(`Built index.html (${displayArticles.length} articles)`);
+  const dir = districtSiteDir(district);
+  mkdirSync(dir, { recursive: true });
+  writeFileSync(join(dir, 'index.html'), html, 'utf8');
+  console.log(`Built ${district.id} index.html (${displayArticles.length} articles)`);
 }
 
-function buildArchivePages(articles) {
+function buildDistrictArchive(district, articles) {
   const grouped = groupByDate(articles);
   const cutoff = new Date();
   cutoff.setDate(cutoff.getDate() - SITE.archiveDays);
@@ -325,14 +380,15 @@ function buildArchivePages(articles) {
     .filter(d => d >= cutoffKey)
     .sort((a, b) => b.localeCompare(a));
 
-  mkdirSync(PATHS.archive, { recursive: true });
+  const archiveDir = districtArchiveDir(district);
+  mkdirSync(archiveDir, { recursive: true });
 
   let pagesBuilt = 0;
   for (const dateKey of dates) {
     const dayArticles = grouped[dateKey].sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
     const byCategory = groupByCategory(dayArticles);
     const sections = Object.keys(CATEGORIES)
-      .map(key => categorySection(key, byCategory[key]))
+      .map(key => categorySection(key, byCategory[key], district))
       .filter(Boolean)
       .join('\n');
 
@@ -340,24 +396,25 @@ function buildArchivePages(articles) {
       <p>Няма новини за тази дата.</p>
     </section>`;
 
-    const archiveDescription = `Новини за район Оборище от ${formatDate(dateKey)} — ${dayArticles.length} съобщения от Софийска вода, Топлофикация, Столична община и Район Оборище.`;
+    const archiveDescription = `Новини за район ${district.name} от ${formatDate(dateKey)} — ${dayArticles.length} съобщения от официални източници.`;
     const html = htmlPage({
+      district,
       title: `Архив: ${formatDate(dateKey)}`,
       bodyContent,
       isArchive: true,
-      canonicalPath: `/archive/${dateKey}.html`,
+      canonicalPath: `${district.outputDir ? '/' + district.outputDir : ''}/archive/${dateKey}.html`,
       pageDescription: archiveDescription,
       articleCount: dayArticles.length,
     });
-    writeFileSync(join(PATHS.archive, `${dateKey}.html`), html, 'utf8');
+    writeFileSync(join(archiveDir, `${dateKey}.html`), html, 'utf8');
     pagesBuilt++;
   }
 
-  console.log(`Built ${pagesBuilt} archive pages`);
+  console.log(`Built ${pagesBuilt} archive pages for ${district.id}`);
   return dates;
 }
 
-// --- robots.txt, sitemap.xml, llms.txt, llms-full.txt ---
+// --- robots.txt, sitemap.xml, llms.txt (site-wide) ---
 
 function buildRobots() {
   const lines = [
@@ -389,17 +446,21 @@ function buildRobots() {
   console.log('Built robots.txt');
 }
 
-function buildSitemap(archiveDates) {
+function buildSitemap(perDistrict) {
   const today = new Date().toISOString().slice(0, 10);
-  const urls = [
-    { loc: `${SITE.url}/`, lastmod: today, changefreq: 'hourly', priority: '1.0' },
-    ...archiveDates.map(d => ({
-      loc: `${SITE.url}/archive/${d}.html`,
-      lastmod: d,
-      changefreq: 'never',
-      priority: '0.6',
-    })),
-  ];
+  const urls = [];
+  for (const { district, archiveDates } of perDistrict) {
+    const home = district.outputDir ? `${SITE.url}/${district.outputDir}/` : `${SITE.url}/`;
+    urls.push({ loc: home, lastmod: today, changefreq: 'hourly', priority: district.outputDir ? '0.9' : '1.0' });
+    for (const d of archiveDates) {
+      urls.push({
+        loc: `${districtBaseUrl(district)}/archive/${d}.html`,
+        lastmod: d,
+        changefreq: 'never',
+        priority: '0.6',
+      });
+    }
+  }
   const xml = [
     '<?xml version="1.0" encoding="UTF-8"?>',
     '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
@@ -413,11 +474,23 @@ function buildSitemap(archiveDates) {
   console.log(`Built sitemap.xml (${urls.length} urls)`);
 }
 
-function buildLlmsTxt(displayArticles, archiveDates) {
+function buildLlmsTxt(perDistrict) {
   const sources = SOURCES.map(s => `- ${s.name} (${s.url})`).join('\n');
   const cats = Object.entries(CATEGORIES).map(([k, v]) => `- ${v.label} (${k})`).join('\n');
-  const recentArchive = archiveDates.slice(0, 14).map(d => `- ${SITE.url}/archive/${d}.html`).join('\n');
-  const todayTitles = displayArticles.slice(0, 10).map(a => `- ${truncate(a.title || '', 120)}`).join('\n');
+  const districtNames = DISTRICTS.map(d => d.name).join(' и ');
+
+  const districtBlocks = perDistrict.map(({ district, recentArticles: recent, archiveDates }) => {
+    const home = district.outputDir ? `${SITE.url}/${district.outputDir}/` : `${SITE.url}/`;
+    const titles = recent.slice(0, 10).map(a => `- ${truncate(a.title || '', 120)}`).join('\n');
+    const archive = archiveDates.slice(0, 10).map(d => `- ${districtBaseUrl(district)}/archive/${d}.html`).join('\n');
+    return `### Район ${district.name}
+
+- Home: ${home}
+- Recent headlines (${recent.length} items in the last 30 days):
+${titles || '(no recent news at the moment)'}
+- Recent archive:
+${archive || '(none)'}`;
+  }).join('\n\n');
 
   const content = `# ${SITE.title}
 
@@ -425,9 +498,9 @@ function buildLlmsTxt(displayArticles, archiveDates) {
 
 ## What this site is
 
-${SITE.title} aggregates official local-government and utility announcements relevant to **${DISTRICT.name}** district in Sofia, Bulgaria. Updated three times daily (06:00, 12:00, 18:00 Sofia time) by an automated pipeline that scrapes named sources, summarizes each article via LLM in Bulgarian, and republishes the result.
+${SITE.title} aggregates official local-government and utility announcements relevant to the Sofia districts **${districtNames}** in Bulgaria. Updated three times daily (06:00, 12:00, 18:00 Sofia time) by an automated pipeline that scrapes named sources, summarizes each article via LLM in Bulgarian, and republishes the result.
 
-The audience is residents of ${DISTRICT.name}. Content covers planned and unplanned utility outages (water, district heating), municipal decisions, council meetings, neighborhood events, and miscellaneous official notices.
+The audience is residents of these districts. Content covers planned and unplanned utility outages (water, district heating, power), traffic and public-transport changes, municipal decisions, council meetings, neighborhood events, and miscellaneous official notices.
 
 ## Language
 
@@ -441,16 +514,13 @@ ${cats}
 
 ${sources}
 
-## Pages
+## Districts
 
-- Home: ${SITE.url}/ — today's news, last 30 days
-- Sitemap: ${SITE.url}/sitemap.xml
-- Recent archive:
-${recentArchive}
+${districtBlocks}
 
-## Today's news headlines (${todayTitles ? displayArticles.length : 0} items)
+## Sitemap
 
-${todayTitles || '(no recent news at the moment)'}
+${SITE.url}/sitemap.xml
 
 ## Attribution
 
@@ -473,7 +543,7 @@ All AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, PerplexityBot, Google-Extended
 function pulseBox() {
   let pulse;
   try {
-    pulse = JSON.parse(readFileSync(PATHS.articles.replace(/articles$/, 'kazva-pulse.json'), 'utf8'));
+    pulse = JSON.parse(readFileSync(join(PATHS.data, 'kazva-pulse.json'), 'utf8'));
   } catch { return ''; }
   if (!pulse.topics || pulse.topics.length === 0) return '';
 
@@ -490,12 +560,23 @@ ${rows}
 `;
 }
 
-// --- RSS feed (the site had no subscription surface at all) ---
+// --- Air quality (cached; see scripts/air-quality.mjs) ---
+// One-line status per district; hidden if missing or stale > 2h.
+function readAirLine(districtId) {
+  try {
+    const air = JSON.parse(readFileSync(join(PATHS.data, `air-${districtId}.json`), 'utf8'));
+    if (!air.updatedAt || !air.line) return null;
+    if (Date.now() - new Date(air.updatedAt).getTime() > 2 * 3600 * 1000) return null;
+    return air.line;
+  } catch { return null; }
+}
 
-function buildRss(recent) {
+// --- RSS feed (per district) ---
+
+function buildDistrictRss(district, recent) {
   const items = recent.slice(0, 40).map(a => `    <item>
       <title>${escapeHtml(a.title || '')}</title>
-      <link>${escapeHtml(a.url || SITE.url)}</link>
+      <link>${escapeHtml(a.url || districtBaseUrl(district))}</link>
       <guid isPermaLink="false">${escapeHtml(a.id || a.url || '')}</guid>
       <pubDate>${new Date(a.date || a.fetchedAt || Date.now()).toUTCString()}</pubDate>
       <category>${escapeHtml((CATEGORIES[a.category] || CATEGORIES.other).label)}</category>
@@ -505,16 +586,18 @@ function buildRss(recent) {
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>${escapeHtml(SITE.title)}</title>
-    <link>${SITE.url}</link>
-    <description>${escapeHtml(SITE.description)}</description>
+    <title>${escapeHtml(SITE.title)} — ${escapeHtml(district.name)}</title>
+    <link>${districtBaseUrl(district)}</link>
+    <description>Хипер-локални новини за район ${escapeHtml(district.name)}</description>
     <language>bg</language>
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
 ${items}
   </channel>
 </rss>`;
-  writeFileSync(join(PATHS.site, 'feed.xml'), xml, 'utf8');
-  console.log(`Built feed.xml (${Math.min(recent.length, 40)} items)`);
+  const dir = districtSiteDir(district);
+  mkdirSync(dir, { recursive: true });
+  writeFileSync(join(dir, 'feed.xml'), xml, 'utf8');
+  console.log(`Built ${district.id} feed.xml (${Math.min(recent.length, 40)} items)`);
 }
 
 // --- Per-source pipeline health, published for monitoring ---
@@ -532,19 +615,18 @@ function publishHealth() {
 const articles = readArticles();
 console.log(`Loaded ${articles.length} articles`);
 
-const archiveDates = buildArchivePages(articles);
-buildIndex(articles, archiveDates);
+const perDistrict = [];
+for (const district of DISTRICTS) {
+  const dArticles = articles.filter(a => articleDistrict(a) === district.id);
+  const archiveDates = buildDistrictArchive(district, dArticles);
+  buildDistrictIndex(district, dArticles, archiveDates);
+  const recent = recentArticles(dArticles);
+  buildDistrictRss(district, recent);
+  perDistrict.push({ district, recentArticles: recent, archiveDates });
+}
 
-// SEO + AI-discovery surfaces
-const cutoff = new Date();
-cutoff.setDate(cutoff.getDate() - 30);
-const cutoffKey = cutoff.toISOString().slice(0, 10);
-const recentArticles = articles
-  .filter(a => toDateKey(a.date || a.fetchedAt || '') >= cutoffKey)
-  .sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
-
+// SEO + AI-discovery surfaces (site-wide)
 buildRobots();
-buildSitemap(archiveDates);
-buildLlmsTxt(recentArticles, archiveDates);
-buildRss(recentArticles);
+buildSitemap(perDistrict);
+buildLlmsTxt(perDistrict);
 publishHealth();
