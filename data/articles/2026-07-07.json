@@ -322,5 +322,20 @@
     "district": "lozenets",
     "sourceName": "Район Лозенец",
     "fetchedAt": "2026-07-07T05:01:50.819Z"
+  },
+  {
+    "title": "Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF36%7C07.07.2026%2010%3A06%7C%D0%A6%D0%95%D0%9D%D0%A2%D0%A0%D0%90%D0%9B%D0%9D%D0%90%20%D0%93%D0%A0.%D0%A7%D0%90%D0%A1%D0%A2%20%D0%A1%D0%9E%D0%A4%D0%98%D0%AF%20%D0%BE%D0%B1%D1%89.%D0%9E%D0%B1%D0%BE%D1%80%D0%B8%D1%89%D0%B5",
+    "content": "Тип: планово прекъсване\nНаселено място: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище\nНачало: 07.07.2026 10:06\nОчаквано възстановяване: 07.07.2026 15:15",
+    "category": "repairs",
+    "date": "2026-07-07",
+    "source": "erm-zapad",
+    "districts": [
+      "oborishte"
+    ],
+    "id": "1f9792289d96",
+    "district": "oborishte",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-07-07T07:28:21.180Z"
   }
 ]
