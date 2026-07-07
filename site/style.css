@@ -219,3 +219,12 @@ footer {
 .pulse h2 { font-size: 1rem; margin: 0 0 8px; }
 .pulse .pulse-row { display: flex; justify-content: space-between; gap: 12px; padding: 2px 0; }
 .pulse .pulse-score { font-weight: 700; }
+
+/* --- District cross-links --- */
+.district-nav { margin-top: 0.5rem; font-size: 0.9rem; color: #888; }
+.district-nav a { color: #1a73e8; text-decoration: none; }
+.district-nav a:hover { text-decoration: underline; }
+.district-nav-current { font-weight: 700; color: #222; }
+
+/* --- Air quality status line --- */
+.air { font-size: 0.8rem; color: #666; margin-top: 0.4rem; }

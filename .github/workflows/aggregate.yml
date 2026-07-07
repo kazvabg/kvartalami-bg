@@ -33,6 +33,14 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
+      # Keyless sensor.community API — safe in CI (unlike kazva-pulse, which
+      # needs METABASE_API_KEY and stays local). A sensor outage must not
+      # block the news pipeline; the build hides the air line when stale.
+      - name: Air quality snapshot
+        run: node scripts/air-quality.mjs
+        timeout-minutes: 2
+        continue-on-error: true
+
       - name: Build static site
         run: node scripts/build.js
 

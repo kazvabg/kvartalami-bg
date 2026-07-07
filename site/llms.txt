@@ -1,12 +1,12 @@
 # КВАРТАЛАМИ.bg
 
-> Ежедневен преглед на новините за район Оборище в София — ремонти, водни и топлинни аварии, решения на местната власт и събития. Автоматично събиране от Софийска вода, Топлофикация, Столична община и Район Оборище.
+> Ежедневен преглед на хипер-локалните новини за софийските квартали Оборище и Лозенец — ремонти, водни, топлинни и електро аварии, промени в движението, решения на местната власт и събития. Автоматично събиране от официални източници.
 
 ## What this site is
 
-КВАРТАЛАМИ.bg aggregates official local-government and utility announcements relevant to **Оборище** district in Sofia, Bulgaria. Updated three times daily (06:00, 12:00, 18:00 Sofia time) by an automated pipeline that scrapes named sources, summarizes each article via LLM in Bulgarian, and republishes the result.
+КВАРТАЛАМИ.bg aggregates official local-government and utility announcements relevant to the Sofia districts **Оборище и Лозенец** in Bulgaria. Updated three times daily (06:00, 12:00, 18:00 Sofia time) by an automated pipeline that scrapes named sources, summarizes each article via LLM in Bulgarian, and republishes the result.
 
-The audience is residents of Оборище. Content covers planned and unplanned utility outages (water, district heating), municipal decisions, council meetings, neighborhood events, and miscellaneous official notices.
+The audience is residents of these districts. Content covers planned and unplanned utility outages (water, district heating, power), traffic and public-transport changes, municipal decisions, council meetings, neighborhood events, and miscellaneous official notices.
 
 ## Language
 
@@ -16,6 +16,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 
 - Ремонти (repairs)
 - Местна власт (government)
+- Транспорт (transport)
 - Събития (events)
 - Други (other)
 
@@ -23,14 +24,29 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 
 - Софийска вода (https://www.sofiyskavoda.bg/water-stops)
 - Топлофикация София (https://toplo.bg/accidents-and-maintenance)
+- ЕРМ Запад (https://ermzapad.bg/bg/za-klienta/prekusvania/)
+- Столична община — движение (https://www.sofia.bg/bg/repairs-and-traffic-changes)
 - Столична община (https://www.sofia.bg/news)
 - Столичен общински съвет (https://council.sofia.bg/)
 - Район Оборище (https://rayon-oborishte.bg)
+- Район Лозенец (https://lozenets.sofia.bg)
 
-## Pages
+## Districts
 
-- Home: https://kvartalami.com/ — today's news, last 30 days
-- Sitemap: https://kvartalami.com/sitemap.xml
+### Район Оборище
+
+- Home: https://kvartalami.com/
+- Recent headlines (22 items in the last 30 days):
+- Поетапното миене по карета продължава в районите „Оборище“ и „Средец“
+- Изграден е разделителен остров на кръстовището на Орлов мост
+- ДЪРЖАВНО ОТЛИЧИЕ ЗА НАЦИОНАЛНИЯ ВОЕННОИСТОРИЧЕСКИ МУЗЕЙ ПО ПОВОД НЕГОВИЯ 110-ГОДИШЕН ЮБИЛЕЙ
+- Столична община затяга мерките за безопасност заради влошаване на качеството на въздуха в района на пожара в „Люлин“
+- Столична община поставя разделителен остров на кръстовището на Орлов мост
+- Поетапното миене по карета продължава в район „Оборище“
+- 110 ГОДИНИ НАЦИОНАЛЕН ВОЕННОИСТОРИЧЕСКИ МУЗЕЙ – МЯСТО, В КОЕТО ПАМЕТТА ИМА МНОГО ЛИЦА
+- Прекъсване на работата на отдел „Общински приходи“ - офис „Оборище“ на 29.06.2026 г. от 10.00 ч. до 14.00 ч.
+- От 9 до 19 юли ще се проведе третото издание на „Девет слона“ – фестивал за изкуство в градска среда
+- Важно съобщение: Резитбата на ул. „Буная“ се отлага за 29 юни
 - Recent archive:
 - https://kvartalami.com/archive/2026-07-03.html
 - https://kvartalami.com/archive/2026-07-02.html
@@ -42,23 +58,35 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-06-18.html
 - https://kvartalami.com/archive/2026-06-12.html
 - https://kvartalami.com/archive/2026-06-11.html
-- https://kvartalami.com/archive/2026-06-10.html
-- https://kvartalami.com/archive/2026-06-05.html
-- https://kvartalami.com/archive/2026-05-27.html
-- https://kvartalami.com/archive/2026-05-22.html
 
-## Today's news headlines (20 items)
+### Район Лозенец
 
-- Поетапното миене по карета продължава в районите „Оборище“ и „Средец“
-- ДЪРЖАВНО ОТЛИЧИЕ ЗА НАЦИОНАЛНИЯ ВОЕННОИСТОРИЧЕСКИ МУЗЕЙ ПО ПОВОД НЕГОВИЯ 110-ГОДИШЕН ЮБИЛЕЙ
-- Столична община затяга мерките за безопасност заради влошаване на качеството на въздуха в района на пожара в „Люлин“
-- Поетапното миене по карета продължава в район „Оборище“
-- 110 ГОДИНИ НАЦИОНАЛЕН ВОЕННОИСТОРИЧЕСКИ МУЗЕЙ – МЯСТО, В КОЕТО ПАМЕТТА ИМА МНОГО ЛИЦА
-- Прекъсване на работата на отдел „Общински приходи“ - офис „Оборище“ на 29.06.2026 г. от 10.00 ч. до 14.00 ч.
-- От 9 до 19 юли ще се проведе третото издание на „Девет слона“ – фестивал за изкуство в градска среда
-- Важно съобщение: Резитбата на ул. „Буная“ се отлага за 29 юни
-- Арх. Любо Георгиев: „Целта на ПУП Борисова градина е отчуждаването на всички частни имоти и връщането им на обществото“
-- Започва плановото миене на улици на територията на район „Оборище“
+- Home: https://kvartalami.com/lozenets/
+- Recent headlines (25 items in the last 30 days):
+- Авария: Част от Лозенец
+- Авария: Част от Лозенец
+- Авария: Част от Лозенец
+- Авария: Част от Лозенец
+- Организация на движението за престой и паркиране по бул. „Драган Цанков“ за летния сезон на 2026 г.
+- Заповед № РA30-2/12.06.2026
+- Временно ограничение на паркирането на ул. „Флора Кънева“
+- Обява за медицинска сестра за кабинет
+- Обява за подбор на кандидати за заемана на длъжността старши инспектор в районен инспекторат
+- Обявление по чл. 81а ЗДСл
+- Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-07-06.html
+- https://kvartalami.com/lozenets/archive/2026-07-04.html
+- https://kvartalami.com/lozenets/archive/2026-07-01.html
+- https://kvartalami.com/lozenets/archive/2026-06-30.html
+- https://kvartalami.com/lozenets/archive/2026-06-25.html
+- https://kvartalami.com/lozenets/archive/2026-06-22.html
+- https://kvartalami.com/lozenets/archive/2026-06-17.html
+- https://kvartalami.com/lozenets/archive/2026-06-16.html
+- https://kvartalami.com/lozenets/archive/2026-06-15.html
+
+## Sitemap
+
+https://kvartalami.com/sitemap.xml
 
 ## Attribution
 

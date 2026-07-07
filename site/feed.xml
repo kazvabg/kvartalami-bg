@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>КВАРТАЛАМИ.bg</title>
+    <title>КВАРТАЛАМИ.bg — Оборище</title>
     <link>https://kvartalami.com</link>
-    <description>Ежедневен преглед на новините за район Оборище в София — ремонти, водни и топлинни аварии, решения на местната власт и събития. Автоматично събиране от Софийска вода, Топлофикация, Столична община и Район Оборище.</description>
+    <description>Хипер-локални новини за район Оборище</description>
     <language>bg</language>
-    <lastBuildDate>Mon, 06 Jul 2026 18:04:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 05:06:20 GMT</lastBuildDate>
     <item>
       <title>Поетапното миене по карета продължава в районите „Оборище“ и „Средец“</title>
       <link>https://www.sofia.bg/w/7620069</link>
@@ -13,6 +13,14 @@
       <pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
       <category>Местна власт</category>
       <description>Поетапното миене по карета продължава в районите „Оборище“ и „Средец“</description>
+    </item>
+    <item>
+      <title>Изграден е разделителен остров на кръстовището на Орлов мост</title>
+      <link>https://www.sofia.bg/w/7620023</link>
+      <guid isPermaLink="false">6296a80ddf56</guid>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Местна власт</category>
+      <description>Изграден е разделителен остров на кръстовището на Орлов мост</description>
     </item>
     <item>
       <title>ДЪРЖАВНО ОТЛИЧИЕ ЗА НАЦИОНАЛНИЯ ВОЕННОИСТОРИЧЕСКИ МУЗЕЙ ПО ПОВОД НЕГОВИЯ 110-ГОДИШЕН ЮБИЛЕЙ</title>
@@ -29,6 +37,15 @@
       <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
       <category>Местна власт</category>
       <description>❗️Столична община затяга мерките за безопасност заради влошаване на качеството…</description>
+    </item>
+    <item>
+      <title>Столична община поставя разделителен остров на кръстовището на Орлов мост</title>
+      <link>https://www.sofia.bg/bg/repairs-and-traffic-changes/-/asset_publisher/utdu/content/id/77556556</link>
+      <guid isPermaLink="false">6b9fd06105d9</guid>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Транспорт</category>
+      <description>Столична община поставя разделителен остров на кръстовището на Орлов мост. Мярката има за цел  безопасност, по-добра организация на движение  и 
+превенция от инциденти на пътя</description>
     </item>
     <item>
       <title>Поетапното миене по карета продължава в район „Оборище“</title>
