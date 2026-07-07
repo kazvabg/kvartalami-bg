@@ -137,10 +137,13 @@ export const DISTRICTS = [
       'Богатица', 'Златовръх', 'Сребърна',
     ],
     sources: [...CITYWIDE_SOURCES, 'rayon-lozenets'],
-    // TODO: create kvartalami-lozenets* topics via kazva-topic-manager, then set
-    // kazva.districtTopic + kazva.categoryTopics here so the header/category phrases
-    // get data-kazva tags like Оборище's. Until then the kazva script loads but tags nothing.
-    kazva: null,
+    kazva: {
+      districtTopic: 'kvartalami-lozenets',
+      categoryTopics: {
+        repairs: 'kvartalami-lozenets-voda',
+        government: 'kvartalami-lozenets-obshtina',
+      },
+    },
   },
 ];
 

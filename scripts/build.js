@@ -271,9 +271,7 @@ ${bodyContent}
   <footer>
     <p>Данните са от публични източници. ${escapeHtml(SITE.title)} &copy; ${new Date().getFullYear()}</p>
   </footer>
-  <!-- kazva-inline: тапни маркирана фраза, за да дадеш мнение (dogfood pilot).
-       Лозенец: TODO create kvartalami-lozenets* topics via kazva-topic-manager,
-       then set kazva.* in config so the header/category phrases get data-kazva tags. -->
+  <!-- kazva-inline: тапни маркирана фраза, за да дадеш мнение (dogfood pilot) -->
   <script async src="/kazva/v1.js" data-publisher="kvartalami" crossorigin="anonymous"></script>
   <script>
   // „Моята улица" — filter repair notices to the reader's street (localStorage only)
@@ -345,7 +343,7 @@ function buildDistrictIndex(district, articles, archiveDates) {
   }
 
   // Кварталният пулс — reader-feedback aggregates (only where kazva topics exist)
-  if (district.kazva) bodyContent = pulseBox() + bodyContent;
+  if (district.kazva) bodyContent = pulseBox(district) + bodyContent;
 
   // Add last 7 days of archive links
   const recentDates = archiveDates.slice(0, 7);
@@ -540,12 +538,15 @@ All AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, PerplexityBot, Google-Extended
 
 // --- Кварталният пулс (cached kazva aggregates; see scripts/kazva-pulse.mjs) ---
 
-function pulseBox() {
+function pulseBox(district) {
   let pulse;
   try {
     pulse = JSON.parse(readFileSync(join(PATHS.data, 'kazva-pulse.json'), 'utf8'));
   } catch { return ''; }
-  if (!pulse.topics || pulse.topics.length === 0) return '';
+  // Only this district's topics (slugs are kvartalami-{district} / kvartalami-{district}-*)
+  pulse = { ...pulse, topics: (pulse.topics || []).filter(t =>
+    t.slug === `kvartalami-${district.id}` || t.slug.startsWith(`kvartalami-${district.id}-`)) };
+  if (pulse.topics.length === 0) return '';
 
   const rows = pulse.topics.map(t => `      <div class="pulse-row">
         <span>${escapeHtml(t.label)}</span>

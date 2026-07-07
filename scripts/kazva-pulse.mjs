@@ -36,6 +36,9 @@ const LABELS = {
   'kvartalami-oborishte': 'Животът в Оборище',
   'kvartalami-oborishte-voda': 'ВиК услуги',
   'kvartalami-oborishte-obshtina': 'Районна администрация',
+  'kvartalami-lozenets': 'Животът в Лозенец',
+  'kvartalami-lozenets-voda': 'ВиК услуги',
+  'kvartalami-lozenets-obshtina': 'Районна администрация',
 };
 
 const pulse = {

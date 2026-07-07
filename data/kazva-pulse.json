@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-07-06T17:24:18.041Z",
+  "updatedAt": "2026-07-07T05:15:25.294Z",
   "topics": [
+    {
+      "slug": "kvartalami-lozenets",
+      "label": "Животът в Лозенец",
+      "votes": 0,
+      "avg": null
+    },
+    {
+      "slug": "kvartalami-lozenets-obshtina",
+      "label": "Районна администрация",
+      "votes": 0,
+      "avg": null
+    },
+    {
+      "slug": "kvartalami-lozenets-voda",
+      "label": "ВиК услуги",
+      "votes": 0,
+      "avg": null
+    },
     {
       "slug": "kvartalami-oborishte",
       "label": "Животът в Оборище",
