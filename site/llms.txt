@@ -36,7 +36,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (24 items in the last 30 days):
+- Recent headlines (25 items in the last 30 days):
+- Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
 - Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
 - Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
 - Поетапното миене по карета продължава в районите „Оборище“ и „Средец“
@@ -46,8 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Столична община поставя разделителен остров на кръстовището на Орлов мост
 - Поетапното миене по карета продължава в район „Оборище“
 - 110 ГОДИНИ НАЦИОНАЛЕН ВОЕННОИСТОРИЧЕСКИ МУЗЕЙ – МЯСТО, В КОЕТО ПАМЕТТА ИМА МНОГО ЛИЦА
-- Прекъсване на работата на отдел „Общински приходи“ - офис „Оборище“ на 29.06.2026 г. от 10.00 ч. до 14.00 ч.
 - Recent archive:
+- https://kvartalami.com/archive/2026-07-10.html
 - https://kvartalami.com/archive/2026-07-09.html
 - https://kvartalami.com/archive/2026-07-07.html
 - https://kvartalami.com/archive/2026-07-03.html
@@ -57,12 +58,12 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-06-23.html
 - https://kvartalami.com/archive/2026-06-22.html
 - https://kvartalami.com/archive/2026-06-19.html
-- https://kvartalami.com/archive/2026-06-18.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (29 items in the last 30 days):
+- Recent headlines (30 items in the last 30 days):
+- Планово прекъсване на тока: кв. ВИТОША - общ.Лозенец
 - Важна информация за земеделските стопани
 - ВАЖНА ИНФОРМАЦИЯ ЗА ЖИВУЩИТЕ В ЖИЛИЩЕН КОМПЛЕКС „СИТИ ЖАРДЕН“, УЛ.“ГЕОРГИ РАЙЧЕВ“ №21 ОТНОСНО КАЧЕСТВОТО НА ПИТЕЙНАТА…
 - Авария: Част от Лозенец
@@ -72,8 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария: Част от Лозенец
 - Авария: Част от Лозенец
 - Организация на движението за престой и паркиране по бул. „Драган Цанков“ за летния сезон на 2026 г.
-- Заповед № РA30-2/12.06.2026
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-07-10.html
 - https://kvartalami.com/lozenets/archive/2026-07-08.html
 - https://kvartalami.com/lozenets/archive/2026-07-06.html
 - https://kvartalami.com/lozenets/archive/2026-07-04.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-06-22.html
 - https://kvartalami.com/lozenets/archive/2026-06-17.html
 - https://kvartalami.com/lozenets/archive/2026-06-16.html
-- https://kvartalami.com/lozenets/archive/2026-06-15.html
 
 ## Sitemap
 
