@@ -62,7 +62,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (30 items in the last 30 days):
+- Recent headlines (31 items in the last 30 days):
+- Авария по тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ
 - Планово прекъсване на тока: кв. ВИТОША - общ.Лозенец
 - Важна информация за земеделските стопани
 - ВАЖНА ИНФОРМАЦИЯ ЗА ЖИВУЩИТЕ В ЖИЛИЩЕН КОМПЛЕКС „СИТИ ЖАРДЕН“, УЛ.“ГЕОРГИ РАЙЧЕВ“ №21 ОТНОСНО КАЧЕСТВОТО НА ПИТЕЙНАТА…
@@ -72,8 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария: Част от Лозенец
 - Авария: Част от Лозенец
 - Авария: Част от Лозенец
-- Организация на движението за престой и паркиране по бул. „Драган Цанков“ за летния сезон на 2026 г.
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-07-11.html
 - https://kvartalami.com/lozenets/archive/2026-07-10.html
 - https://kvartalami.com/lozenets/archive/2026-07-08.html
 - https://kvartalami.com/lozenets/archive/2026-07-06.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-06-25.html
 - https://kvartalami.com/lozenets/archive/2026-06-22.html
 - https://kvartalami.com/lozenets/archive/2026-06-17.html
-- https://kvartalami.com/lozenets/archive/2026-06-16.html
 
 ## Sitemap
 

@@ -10,5 +10,20 @@
     "district": "oborishte",
     "sourceName": "Топлофикация София",
     "fetchedAt": "2026-07-11T10:54:46.687Z"
+  },
+  {
+    "title": "Авария по тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF44%7C11.07.2026%2018%3A59%7C%D0%B2.%D0%B7.%D0%A1%D0%98%D0%9C%D0%95%D0%9E%D0%9D%D0%9E%D0%92%D0%9E-%D0%94%D0%A0%D0%90%D0%93%D0%90%D0%9B%D0%95%D0%92%D0%A6%D0%98",
+    "content": "Тип: аварийно прекъсване\nНаселено място: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ\nНачало: 11.07.2026 18:59\nОчаквано възстановяване: 11.07.2026 20:15",
+    "category": "repairs",
+    "date": "2026-07-11",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "6fe9a946188b",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-07-11T16:42:35.869Z"
   }
 ]
