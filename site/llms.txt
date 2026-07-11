@@ -36,7 +36,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (22 items in the last 30 days):
+- Recent headlines (23 items in the last 30 days):
+- Авария: Оборище
 - Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
 - Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
 - Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
@@ -46,8 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Столична община затяга мерките за безопасност заради влошаване на качеството на въздуха в района на пожара в „Люлин“
 - Столична община поставя разделителен остров на кръстовището на Орлов мост
 - Поетапното миене по карета продължава в район „Оборище“
-- 110 ГОДИНИ НАЦИОНАЛЕН ВОЕННОИСТОРИЧЕСКИ МУЗЕЙ – МЯСТО, В КОЕТО ПАМЕТТА ИМА МНОГО ЛИЦА
 - Recent archive:
+- https://kvartalami.com/archive/2026-07-11.html
 - https://kvartalami.com/archive/2026-07-10.html
 - https://kvartalami.com/archive/2026-07-09.html
 - https://kvartalami.com/archive/2026-07-07.html
@@ -57,7 +58,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-06-24.html
 - https://kvartalami.com/archive/2026-06-23.html
 - https://kvartalami.com/archive/2026-06-22.html
-- https://kvartalami.com/archive/2026-06-19.html
 
 ### Район Лозенец
 
