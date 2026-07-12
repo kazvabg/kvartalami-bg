@@ -36,7 +36,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (23 items in the last 30 days):
+- Recent headlines (22 items in the last 30 days):
 - Авария: Оборище
 - Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
 - Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
@@ -62,7 +62,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (31 items in the last 30 days):
+- Recent headlines (32 items in the last 30 days):
+- Аварийно спиране: зона за спиране -ж.к. Лозенец- Ул.Бабуна планина от ул.Галичице до ул.Кораб планина.
 - Авария по тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ
 - Планово прекъсване на тока: кв. ВИТОША - общ.Лозенец
 - Важна информация за земеделските стопани
@@ -72,8 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария: Част от Лозенец
 - Авария: Част от Лозенец
 - Авария: Част от Лозенец
-- Авария: Част от Лозенец
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-07-12.html
 - https://kvartalami.com/lozenets/archive/2026-07-11.html
 - https://kvartalami.com/lozenets/archive/2026-07-10.html
 - https://kvartalami.com/lozenets/archive/2026-07-08.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-06-30.html
 - https://kvartalami.com/lozenets/archive/2026-06-25.html
 - https://kvartalami.com/lozenets/archive/2026-06-22.html
-- https://kvartalami.com/lozenets/archive/2026-06-17.html
 
 ## Sitemap
 
