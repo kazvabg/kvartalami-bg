@@ -5,7 +5,7 @@
     <link>https://kvartalami.com/lozenets</link>
     <description>Хипер-локални новини за район Лозенец</description>
     <language>bg</language>
-    <lastBuildDate>Thu, 16 Jul 2026 11:26:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 17:03:07 GMT</lastBuildDate>
     <item>
       <title>Аварийно спиране: Зона на спиране-кв.Симеоново Ул. Погледец от ул. Момин кладенец до Симеоновско шосе.</title>
       <link>https://www.sofiyskavoda.bg/water-stops#1414681</link>
@@ -28,6 +28,28 @@
 Адреси: ул. &quot;Йоан Екзарх&quot; № 14
 Начало: 16.07.2026 г., 09:10:00 ч.
 Очаквано възстановяване: 16.07.2026 г., 18:30:00 ч.</description>
+    </item>
+    <item>
+      <title>Аварийно спиране: зона за  спиране-  кв.  Симеоново- Ул. Погледец от ул. Момин кладенец до Симеоновско шосе.</title>
+      <link>https://www.sofiyskavoda.bg/water-stops#1414847</link>
+      <guid isPermaLink="false">b4d4f076d189</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Ремонти</category>
+      <description>Местоположение: зона за  спиране-  кв.  Симеоново- Ул. Погледец от ул. Момин кладенец до Симеоновско шосе.
+Тип: Аварийно спиране
+Описание: Ремонт на уличен водопровод
+Начало: 16.07.2026 г., 17:25 ч.…</description>
+    </item>
+    <item>
+      <title>Авария: Част от Лозенец</title>
+      <link>https://toplo.bg/accidents-and-maintenance#%D0%A7%D0%B0%D1%81%D1%82%20%D0%BE%D1%82%20%D0%9B%D0%BE%D0%B7%D0%B5%D0%BD%D0%B5%D1%86%7C%D1%83%D0%BB.%20%D0%99%D0%BE%D0%B0%D0%BD%20%D0%95%D0%BA%D0%B7%D0%B0%D1%80%D1%85%2014%5Cr%5Cn</link>
+      <guid isPermaLink="false">882958fe87a1</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Ремонти</category>
+      <description>Район: Част от Лозенец
+Адреси: ул. Йоан Екзарх 14\r\n
+Начало: 16.07.2026 г., 09:10:00 ч.
+Очаквано възстановяване: 16.07.2026 г., 15:30:00 ч.</description>
     </item>
     <item>
       <title>Авария: Част от Изток</title>
@@ -361,14 +383,6 @@
       <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
       <category>Местна власт</category>
       <description>Заповед № РД56-35/17.03.2026 за ИУМПС</description>
-    </item>
-    <item>
-      <title>Съобщение – покана № РЛЦ26-РА30-2/12.06.2026 г.</title>
-      <link>https://lozenets.sofia.bg/%d1%81%d1%8a%d0%be%d0%b1%d1%89%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bf%d0%be%d0%ba%d0%b0%d0%bd%d0%b0-%e2%84%96-%d1%80%d0%bb%d1%8626-%d1%80%d0%b030-2-12-06-2026-%d0%b3/</link>
-      <guid isPermaLink="false">448a77672f2f</guid>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
-      <category>Местна власт</category>
-      <description>Съобщение – покана № РЛЦ26-РА30-2/12.06.2026 г.</description>
     </item>
   </channel>
 </rss>
