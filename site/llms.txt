@@ -63,6 +63,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 
 - Home: https://kvartalami.com/lozenets/
 - Recent headlines (37 items in the last 30 days):
+- Авария: Част от Изток
 - Аварийно спиране: зона на спиране: кв. Кръстова вада - ул.Н.К.Чолака - 14,16,18.ул. Емилиян Станев 70-78
 - Аварийно спиране: зона за спиране-  ж.к. Лозенец- района между ул. Кръстю Сарафов, ул. Милин камък,ул.  Миджур и ул. Янк
 - Авария по тока: БЪРДО
@@ -72,8 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария по тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ
 - Планово прекъсване на тока: кв. ВИТОША - общ.Лозенец
 - Важна информация за земеделските стопани
-- ВАЖНА ИНФОРМАЦИЯ ЗА ЖИВУЩИТЕ В ЖИЛИЩЕН КОМПЛЕКС „СИТИ ЖАРДЕН“, УЛ.“ГЕОРГИ РАЙЧЕВ“ №21 ОТНОСНО КАЧЕСТВОТО НА ПИТЕЙНАТА…
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-07-15.html
 - https://kvartalami.com/lozenets/archive/2026-07-14.html
 - https://kvartalami.com/lozenets/archive/2026-07-13.html
 - https://kvartalami.com/lozenets/archive/2026-07-12.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-07-06.html
 - https://kvartalami.com/lozenets/archive/2026-07-04.html
 - https://kvartalami.com/lozenets/archive/2026-07-01.html
-- https://kvartalami.com/lozenets/archive/2026-06-30.html
 
 ## Sitemap
 
