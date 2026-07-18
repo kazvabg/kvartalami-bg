@@ -62,7 +62,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (31 items in the last 30 days):
+- Recent headlines (28 items in the last 30 days):
 - Миенето по карета продължава в район „Лозенец“
 - Аварийно спиране: Зона на спиране-кв.Симеоново Ул. Погледец от ул. Момин кладенец до Симеоновско шосе.
 - Авария: Част от Лозенец
