@@ -62,7 +62,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (28 items in the last 30 days):
+- Recent headlines (29 items in the last 30 days):
+- Авария: Част от Лозенец
 - Миенето по карета продължава в район „Лозенец“
 - Аварийно спиране: Зона на спиране-кв.Симеоново Ул. Погледец от ул. Момин кладенец до Симеоновско шосе.
 - Авария: Част от Лозенец
@@ -72,8 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Аварийно спиране: зона на спиране: кв. Кръстова вада - ул.Н.К.Чолака - 14,16,18.ул. Емилиян Станев 70-78
 - Аварийно спиране: зона за спиране-  ж.к. Лозенец- района между ул. Кръстю Сарафов, ул. Милин камък,ул.  Миджур и ул. Янк
 - Авария по тока: БЪРДО
-- Авария по тока: БЕЛИЦА, общ. Ихтиман
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-07-19.html
 - https://kvartalami.com/lozenets/archive/2026-07-17.html
 - https://kvartalami.com/lozenets/archive/2026-07-16.html
 - https://kvartalami.com/lozenets/archive/2026-07-15.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-07-11.html
 - https://kvartalami.com/lozenets/archive/2026-07-10.html
 - https://kvartalami.com/lozenets/archive/2026-07-08.html
-- https://kvartalami.com/lozenets/archive/2026-07-06.html
 
 ## Sitemap
 
