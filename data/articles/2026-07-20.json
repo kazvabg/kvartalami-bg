@@ -25,5 +25,50 @@
     "district": "lozenets",
     "sourceName": "ЕРМ Запад",
     "fetchedAt": "2026-07-20T12:08:34.711Z"
+  },
+  {
+    "title": "Авария по тока: ЛУКОВО",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SFO43%7C20.07.2026%2020%3A14%7C%D0%9B%D0%A3%D0%9A%D0%9E%D0%92%D0%9E",
+    "content": "Тип: аварийно прекъсване\nНаселено място: ЛУКОВО\nНачало: 20.07.2026 20:14\nОчаквано възстановяване: 20.07.2026 20:45",
+    "category": "repairs",
+    "date": "2026-07-20",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "fd4d017eb539",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-07-20T17:22:25.600Z"
+  },
+  {
+    "title": "Авария по тока: БЪРДО",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SFO20%7C20.07.2026%2020%3A14%7C%D0%91%D0%AA%D0%A0%D0%94%D0%9E",
+    "content": "Тип: аварийно прекъсване\nНаселено място: БЪРДО\nНачало: 20.07.2026 20:14\nОчаквано възстановяване: 20.07.2026 21:30",
+    "category": "repairs",
+    "date": "2026-07-20",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "d1ca1e5c9a37",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-07-20T17:22:25.600Z"
+  },
+  {
+    "title": "Авария по тока: БЕЛИЦА, общ. Ихтиман",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SFO20%7C20.07.2026%2020%3A14%7C%D0%91%D0%95%D0%9B%D0%98%D0%A6%D0%90%2C%20%D0%BE%D0%B1%D1%89.%20%D0%98%D1%85%D1%82%D0%B8%D0%BC%D0%B0%D0%BD",
+    "content": "Тип: аварийно прекъсване\nНаселено място: БЕЛИЦА, общ. Ихтиман\nНачало: 20.07.2026 20:14\nОчаквано възстановяване: 20.07.2026 21:30",
+    "category": "repairs",
+    "date": "2026-07-20",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "75d2d396d0d8",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-07-20T17:22:25.600Z"
   }
 ]
