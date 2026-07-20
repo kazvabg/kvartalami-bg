@@ -1,0 +1,29 @@
+[
+  {
+    "title": "„ФИЛМОВА ВАКАНЦИЯ В ПАРКА“ се завръща с ново издание в два районни парка",
+    "url": "https://rayon-oborishte.bg/%d1%84%d0%b8%d0%bb%d0%bc%d0%be%d0%b2%d0%b0-%d0%b2%d0%b0%d0%ba%d0%b0%d0%bd%d1%86%d0%b8%d1%8f-%d0%b2-%d0%bf%d0%b0%d1%80%d0%ba%d0%b0-%d1%81%d0%b5-%d0%b7%d0%b0%d0%b2%d1%80%d1%8a%d1%89/",
+    "content": "След няколко успешни издания, „Филмова ваканция в парка: Лято без…",
+    "category": "government",
+    "date": "2026-07-17",
+    "source": "rayon-oborishte",
+    "id": "43154ba5ec7d",
+    "district": "oborishte",
+    "sourceName": "Район Оборище",
+    "fetchedAt": "2026-07-20T12:08:34.710Z"
+  },
+  {
+    "title": "Планово прекъсване на тока: КОСТЕНЕЦ, общ. Костенец",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SFO25%7C20.07.2026%2008%3A59%7C%D0%9A%D0%9E%D0%A1%D0%A2%D0%95%D0%9D%D0%95%D0%A6%2C%20%D0%BE%D0%B1%D1%89.%20%D0%9A%D0%BE%D1%81%D1%82%D0%B5%D0%BD%D0%B5%D1%86",
+    "content": "Тип: планово прекъсване\nНаселено място: КОСТЕНЕЦ, общ. Костенец\nНачало: 20.07.2026 08:59\nОчаквано възстановяване: 20.07.2026 16:15",
+    "category": "repairs",
+    "date": "2026-07-20",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "1d921c388e7f",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-07-20T12:08:34.711Z"
+  }
+]

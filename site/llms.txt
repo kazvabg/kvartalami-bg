@@ -36,7 +36,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (16 items in the last 30 days):
+- Recent headlines (17 items in the last 30 days):
+- „ФИЛМОВА ВАКАНЦИЯ В ПАРКА“ се завръща с ново издание в два районни парка
 - Авария: Оборище
 - Авария: Част от Оборище
 - Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
@@ -46,8 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Изграден е разделителен остров на кръстовището на Орлов мост
 - ДЪРЖАВНО ОТЛИЧИЕ ЗА НАЦИОНАЛНИЯ ВОЕННОИСТОРИЧЕСКИ МУЗЕЙ ПО ПОВОД НЕГОВИЯ 110-ГОДИШЕН ЮБИЛЕЙ
 - Столична община затяга мерките за безопасност заради влошаване на качеството на въздуха в района на пожара в „Люлин“
-- Столична община поставя разделителен остров на кръстовището на Орлов мост
 - Recent archive:
+- https://kvartalami.com/archive/2026-07-17.html
 - https://kvartalami.com/archive/2026-07-11.html
 - https://kvartalami.com/archive/2026-07-10.html
 - https://kvartalami.com/archive/2026-07-09.html
@@ -57,12 +58,12 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-06-26.html
 - https://kvartalami.com/archive/2026-06-24.html
 - https://kvartalami.com/archive/2026-06-23.html
-- https://kvartalami.com/archive/2026-06-22.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (29 items in the last 30 days):
+- Recent headlines (30 items in the last 30 days):
+- Планово прекъсване на тока: КОСТЕНЕЦ, общ. Костенец
 - Авария: Част от Лозенец
 - Миенето по карета продължава в район „Лозенец“
 - Аварийно спиране: Зона на спиране-кв.Симеоново Ул. Погледец от ул. Момин кладенец до Симеоновско шосе.
@@ -72,8 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария: Част от Изток
 - Аварийно спиране: зона на спиране: кв. Кръстова вада - ул.Н.К.Чолака - 14,16,18.ул. Емилиян Станев 70-78
 - Аварийно спиране: зона за спиране-  ж.к. Лозенец- района между ул. Кръстю Сарафов, ул. Милин камък,ул.  Миджур и ул. Янк
-- Авария по тока: БЪРДО
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-07-20.html
 - https://kvartalami.com/lozenets/archive/2026-07-19.html
 - https://kvartalami.com/lozenets/archive/2026-07-17.html
 - https://kvartalami.com/lozenets/archive/2026-07-16.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-07-12.html
 - https://kvartalami.com/lozenets/archive/2026-07-11.html
 - https://kvartalami.com/lozenets/archive/2026-07-10.html
-- https://kvartalami.com/lozenets/archive/2026-07-08.html
 
 ## Sitemap
 
