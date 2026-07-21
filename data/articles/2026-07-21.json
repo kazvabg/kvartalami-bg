@@ -75,5 +75,20 @@
     "district": "lozenets",
     "sourceName": "ЕРМ Запад",
     "fetchedAt": "2026-07-21T11:41:36.183Z"
+  },
+  {
+    "title": "Авария по тока: ЛУКОВО",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SFO43%7C21.07.2026%2019%3A56%7C%D0%9B%D0%A3%D0%9A%D0%9E%D0%92%D0%9E",
+    "content": "Тип: аварийно прекъсване\nНаселено място: ЛУКОВО\nНачало: 21.07.2026 19:56\nОчаквано възстановяване: 21.07.2026 20:30",
+    "category": "repairs",
+    "date": "2026-07-21",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "c0c2dbf4ecf9",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-07-21T17:05:59.123Z"
   }
 ]

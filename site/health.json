@@ -1,80 +1,80 @@
 {
   "sofiyska-voda@oborishte": {
-    "lastRunAt": "2026-07-21T11:41:36.181Z",
-    "lastFetched": 4,
-    "lastNonEmptyAt": "2026-07-21T11:41:36.181Z"
+    "lastRunAt": "2026-07-21T17:05:59.122Z",
+    "lastFetched": 3,
+    "lastNonEmptyAt": "2026-07-21T17:05:59.122Z"
   },
   "toplofikacia@oborishte": {
-    "lastRunAt": "2026-07-21T11:41:36.181Z",
-    "lastFetched": 14,
-    "lastNonEmptyAt": "2026-07-21T11:41:36.181Z",
+    "lastRunAt": "2026-07-21T17:05:59.122Z",
+    "lastFetched": 13,
+    "lastNonEmptyAt": "2026-07-21T17:05:59.122Z",
     "lastSavedAt": "2026-07-13T12:25:46.181Z"
   },
   "sofia-municipality@oborishte": {
-    "lastRunAt": "2026-07-21T11:41:36.181Z",
+    "lastRunAt": "2026-07-21T17:05:59.122Z",
     "lastFetched": 10,
-    "lastNonEmptyAt": "2026-07-21T11:41:36.181Z"
+    "lastNonEmptyAt": "2026-07-21T17:05:59.122Z"
   },
   "sofia-council@oborishte": {
-    "lastRunAt": "2026-07-21T11:41:36.181Z",
+    "lastRunAt": "2026-07-21T17:05:59.122Z",
     "lastFetched": 6,
-    "lastNonEmptyAt": "2026-07-21T11:41:36.181Z"
+    "lastNonEmptyAt": "2026-07-21T17:05:59.122Z"
   },
   "rayon-oborishte@oborishte": {
-    "lastRunAt": "2026-07-21T11:41:36.181Z",
+    "lastRunAt": "2026-07-21T17:05:59.122Z",
     "lastFetched": 9,
-    "lastNonEmptyAt": "2026-07-21T11:41:36.181Z",
+    "lastNonEmptyAt": "2026-07-21T17:05:59.122Z",
     "lastSavedAt": "2026-07-20T12:08:34.709Z"
   },
   "erm-zapad@oborishte": {
-    "lastRunAt": "2026-07-21T11:41:36.181Z",
-    "lastFetched": 11,
-    "lastNonEmptyAt": "2026-07-21T11:41:36.181Z",
+    "lastRunAt": "2026-07-21T17:05:59.122Z",
+    "lastFetched": 1,
+    "lastNonEmptyAt": "2026-07-21T17:05:59.122Z",
     "lastSavedAt": "2026-07-21T11:41:36.181Z"
   },
   "sofia-traffic@oborishte": {
-    "lastRunAt": "2026-07-21T11:41:36.181Z",
+    "lastRunAt": "2026-07-21T17:05:59.122Z",
     "lastFetched": 20,
-    "lastNonEmptyAt": "2026-07-21T11:41:36.181Z"
+    "lastNonEmptyAt": "2026-07-21T17:05:59.122Z"
   },
   "sofiyska-voda@lozenets": {
-    "lastRunAt": "2026-07-21T11:41:36.181Z",
-    "lastFetched": 4,
-    "lastNonEmptyAt": "2026-07-21T11:41:36.181Z",
+    "lastRunAt": "2026-07-21T17:05:59.122Z",
+    "lastFetched": 3,
+    "lastNonEmptyAt": "2026-07-21T17:05:59.122Z",
     "lastSavedAt": "2026-07-16T17:03:05.330Z"
   },
   "toplofikacia@lozenets": {
-    "lastRunAt": "2026-07-21T11:41:36.181Z",
-    "lastFetched": 14,
-    "lastNonEmptyAt": "2026-07-21T11:41:36.181Z",
+    "lastRunAt": "2026-07-21T17:05:59.122Z",
+    "lastFetched": 13,
+    "lastNonEmptyAt": "2026-07-21T17:05:59.122Z",
     "lastSavedAt": "2026-07-19T11:03:53.863Z"
   },
   "erm-zapad@lozenets": {
-    "lastRunAt": "2026-07-21T11:41:36.181Z",
-    "lastFetched": 11,
-    "lastNonEmptyAt": "2026-07-21T11:41:36.181Z",
-    "lastSavedAt": "2026-07-21T11:41:36.181Z"
+    "lastRunAt": "2026-07-21T17:05:59.122Z",
+    "lastFetched": 1,
+    "lastNonEmptyAt": "2026-07-21T17:05:59.122Z",
+    "lastSavedAt": "2026-07-21T17:05:59.122Z"
   },
   "sofia-traffic@lozenets": {
-    "lastRunAt": "2026-07-21T11:41:36.181Z",
+    "lastRunAt": "2026-07-21T17:05:59.122Z",
     "lastFetched": 20,
-    "lastNonEmptyAt": "2026-07-21T11:41:36.181Z"
+    "lastNonEmptyAt": "2026-07-21T17:05:59.122Z"
   },
   "sofia-municipality@lozenets": {
-    "lastRunAt": "2026-07-21T11:41:36.181Z",
+    "lastRunAt": "2026-07-21T17:05:59.122Z",
     "lastFetched": 10,
-    "lastNonEmptyAt": "2026-07-21T11:41:36.181Z",
+    "lastNonEmptyAt": "2026-07-21T17:05:59.122Z",
     "lastSavedAt": "2026-07-17T16:59:42.623Z"
   },
   "sofia-council@lozenets": {
-    "lastRunAt": "2026-07-21T11:41:36.181Z",
+    "lastRunAt": "2026-07-21T17:05:59.122Z",
     "lastFetched": 6,
-    "lastNonEmptyAt": "2026-07-21T11:41:36.181Z"
+    "lastNonEmptyAt": "2026-07-21T17:05:59.122Z"
   },
   "rayon-lozenets@lozenets": {
-    "lastRunAt": "2026-07-21T11:41:36.181Z",
+    "lastRunAt": "2026-07-21T17:05:59.122Z",
     "lastFetched": 20,
-    "lastNonEmptyAt": "2026-07-21T11:41:36.181Z",
+    "lastNonEmptyAt": "2026-07-21T17:05:59.122Z",
     "lastSavedAt": "2026-07-08T17:19:03.323Z"
   }
 }
