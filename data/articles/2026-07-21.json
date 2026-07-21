@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Планово прекъсване на тока: ЦЕНТЪР - СОФИЯ общ.Средец",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF12%7C21.07.2026%2009%3A43%7C%D0%A6%D0%95%D0%9D%D0%A2%D0%AA%D0%A0%20-%20%D0%A1%D0%9E%D0%A4%D0%98%D0%AF%20%D0%BE%D0%B1%D1%89.%D0%A1%D1%80%D0%B5%D0%B4%D0%B5%D1%86",
+    "content": "Тип: планово прекъсване\nНаселено място: ЦЕНТЪР - СОФИЯ общ.Средец\nНачало: 21.07.2026 09:43\nОчаквано възстановяване: 21.07.2026 16:30",
+    "category": "repairs",
+    "date": "2026-07-21",
+    "source": "erm-zapad",
+    "districts": [
+      "oborishte",
+      "lozenets"
+    ],
+    "id": "bb068c49e7db",
+    "district": "oborishte",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-07-21T11:41:36.182Z"
+  },
+  {
+    "title": "Планово прекъсване на тока: ЦЕНТЪР - СОФИЯ общ.Средец",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF12%7C21.07.2026%2009%3A43%7C%D0%A6%D0%95%D0%9D%D0%A2%D0%AA%D0%A0%20-%20%D0%A1%D0%9E%D0%A4%D0%98%D0%AF%20%D0%BE%D0%B1%D1%89.%D0%A1%D1%80%D0%B5%D0%B4%D0%B5%D1%86",
+    "content": "Тип: планово прекъсване\nНаселено място: ЦЕНТЪР - СОФИЯ общ.Средец\nНачало: 21.07.2026 09:43\nОчаквано възстановяване: 21.07.2026 16:30",
+    "category": "repairs",
+    "date": "2026-07-21",
+    "source": "erm-zapad",
+    "districts": [
+      "oborishte",
+      "lozenets"
+    ],
+    "id": "bb068c49e7db",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-07-21T11:41:36.183Z"
+  },
+  {
+    "title": "Планово прекъсване на тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ, кв. ДРАГАЛЕВЦИ",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF44%7C21.07.2026%2010%3A08%7C%D0%B2.%D0%B7.%D0%A1%D0%98%D0%9C%D0%95%D0%9E%D0%9D%D0%9E%D0%92%D0%9E-%D0%94%D0%A0%D0%90%D0%93%D0%90%D0%9B%D0%95%D0%92%D0%A6%D0%98%2C%20%D0%BA%D0%B2.%20%D0%94%D0%A0%D0%90%D0%93%D0%90%D0%9B%D0%95%D0%92%D0%A6%D0%98",
+    "content": "Тип: планово прекъсване\nНаселено място: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ, кв. ДРАГАЛЕВЦИ\nНачало: 21.07.2026 10:08\nОчаквано възстановяване: 21.07.2026 16:15",
+    "category": "repairs",
+    "date": "2026-07-21",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "61b9fce88c72",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-07-21T11:41:36.183Z"
+  },
+  {
+    "title": "Планово прекъсване на тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF44%7C21.07.2026%2010%3A08%7C%D0%B2.%D0%B7.%D0%A1%D0%98%D0%9C%D0%95%D0%9E%D0%9D%D0%9E%D0%92%D0%9E-%D0%94%D0%A0%D0%90%D0%93%D0%90%D0%9B%D0%95%D0%92%D0%A6%D0%98",
+    "content": "Тип: планово прекъсване\nНаселено място: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ\nНачало: 21.07.2026 10:08\nОчаквано възстановяване: 21.07.2026 16:15",
+    "category": "repairs",
+    "date": "2026-07-21",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "21ec49693153",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-07-21T11:41:36.183Z"
+  },
+  {
+    "title": "Планово прекъсване на тока: кв. ДРАГАЛЕВЦИ",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF44%7C21.07.2026%2010%3A08%7C%D0%BA%D0%B2.%20%D0%94%D0%A0%D0%90%D0%93%D0%90%D0%9B%D0%95%D0%92%D0%A6%D0%98",
+    "content": "Тип: планово прекъсване\nНаселено място: кв. ДРАГАЛЕВЦИ\nНачало: 21.07.2026 10:08\nОчаквано възстановяване: 21.07.2026 16:15",
+    "category": "repairs",
+    "date": "2026-07-21",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "14ff70735e37",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-07-21T11:41:36.183Z"
+  }
+]

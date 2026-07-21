@@ -36,7 +36,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (17 items in the last 30 days):
+- Recent headlines (18 items in the last 30 days):
+- Планово прекъсване на тока: ЦЕНТЪР - СОФИЯ общ.Средец
 - „ФИЛМОВА ВАКАНЦИЯ В ПАРКА“ се завръща с ново издание в два районни парка
 - Авария: Оборище
 - Авария: Част от Оборище
@@ -46,8 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Поетапното миене по карета продължава в районите „Оборище“ и „Средец“
 - Изграден е разделителен остров на кръстовището на Орлов мост
 - ДЪРЖАВНО ОТЛИЧИЕ ЗА НАЦИОНАЛНИЯ ВОЕННОИСТОРИЧЕСКИ МУЗЕЙ ПО ПОВОД НЕГОВИЯ 110-ГОДИШЕН ЮБИЛЕЙ
-- Столична община затяга мерките за безопасност заради влошаване на качеството на въздуха в района на пожара в „Люлин“
 - Recent archive:
+- https://kvartalami.com/archive/2026-07-21.html
 - https://kvartalami.com/archive/2026-07-17.html
 - https://kvartalami.com/archive/2026-07-11.html
 - https://kvartalami.com/archive/2026-07-10.html
@@ -57,23 +58,23 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-07-02.html
 - https://kvartalami.com/archive/2026-06-26.html
 - https://kvartalami.com/archive/2026-06-24.html
-- https://kvartalami.com/archive/2026-06-23.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (33 items in the last 30 days):
+- Recent headlines (37 items in the last 30 days):
+- Планово прекъсване на тока: ЦЕНТЪР - СОФИЯ общ.Средец
+- Планово прекъсване на тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ, кв. ДРАГАЛЕВЦИ
+- Планово прекъсване на тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ
+- Планово прекъсване на тока: кв. ДРАГАЛЕВЦИ
 - Планово прекъсване на тока: КОСТЕНЕЦ, общ. Костенец
 - Авария по тока: ЛУКОВО
 - Авария по тока: БЪРДО
 - Авария по тока: БЕЛИЦА, общ. Ихтиман
 - Авария: Част от Лозенец
 - Миенето по карета продължава в район „Лозенец“
-- Аварийно спиране: Зона на спиране-кв.Симеоново Ул. Погледец от ул. Момин кладенец до Симеоновско шосе.
-- Авария: Част от Лозенец
-- Аварийно спиране: зона за  спиране-  кв.  Симеоново- Ул. Погледец от ул. Момин кладенец до Симеоновско шосе.
-- Авария: Част от Лозенец
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-07-21.html
 - https://kvartalami.com/lozenets/archive/2026-07-20.html
 - https://kvartalami.com/lozenets/archive/2026-07-19.html
 - https://kvartalami.com/lozenets/archive/2026-07-17.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-07-13.html
 - https://kvartalami.com/lozenets/archive/2026-07-12.html
 - https://kvartalami.com/lozenets/archive/2026-07-11.html
-- https://kvartalami.com/lozenets/archive/2026-07-10.html
 
 ## Sitemap
 
