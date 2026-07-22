@@ -62,7 +62,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (38 items in the last 30 days):
+- Recent headlines (39 items in the last 30 days):
+- Авария по тока: жк.ЛОЗЕНЕЦ
 - Планово прекъсване на тока: ЦЕНТЪР - СОФИЯ общ.Средец
 - Планово прекъсване на тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ, кв. ДРАГАЛЕВЦИ
 - Планово прекъсване на тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ
@@ -72,8 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария по тока: ЛУКОВО
 - Авария по тока: БЪРДО
 - Авария по тока: БЕЛИЦА, общ. Ихтиман
-- Авария: Част от Лозенец
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-07-22.html
 - https://kvartalami.com/lozenets/archive/2026-07-21.html
 - https://kvartalami.com/lozenets/archive/2026-07-20.html
 - https://kvartalami.com/lozenets/archive/2026-07-19.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-07-14.html
 - https://kvartalami.com/lozenets/archive/2026-07-13.html
 - https://kvartalami.com/lozenets/archive/2026-07-12.html
-- https://kvartalami.com/lozenets/archive/2026-07-11.html
 
 ## Sitemap
 
