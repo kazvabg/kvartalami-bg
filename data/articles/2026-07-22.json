@@ -13,5 +13,32 @@
     "district": "lozenets",
     "sourceName": "ЕРМ Запад",
     "fetchedAt": "2026-07-22T06:21:17.312Z"
+  },
+  {
+    "title": "Планирани прекъсвания на електрозахранването на 23.07.2026",
+    "url": "https://rayon-oborishte.bg/%d0%bf%d0%bb%d0%b0%d0%bd%d0%b8%d1%80%d0%b0%d0%bd%d0%b8-%d0%bf%d1%80%d0%b5%d0%ba%d1%8a%d1%81%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f-%d0%bd%d0%b0-%d0%b5%d0%bb%d0%b5%d0%ba%d1%82%d1%80%d0%be%d0%b7%d0%b0%d1%85/",
+    "content": "Уведомяваме ви, че във връзка с планирани прекъсвания на електрозахранването…",
+    "category": "government",
+    "date": "2026-07-22",
+    "source": "rayon-oborishte",
+    "id": "2d9976f4c88c",
+    "district": "oborishte",
+    "sourceName": "Район Оборище",
+    "fetchedAt": "2026-07-22T11:41:25.686Z"
+  },
+  {
+    "title": "Планово прекъсване на тока: жк.НАДЕЖДА - VI ЧАСТ",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF22%7C22.07.2026%2011%3A57%7C%D0%B6%D0%BA.%D0%9D%D0%90%D0%94%D0%95%D0%96%D0%94%D0%90%20-%20VI%20%D0%A7%D0%90%D0%A1%D0%A2",
+    "content": "Тип: планово прекъсване\nНаселено място: жк.НАДЕЖДА - VI ЧАСТ\nНачало: 22.07.2026 11:57\nОчаквано възстановяване: 22.07.2026 16:00",
+    "category": "repairs",
+    "date": "2026-07-22",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "ff269e5eb511",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-07-22T11:41:25.686Z"
   }
 ]

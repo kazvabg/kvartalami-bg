@@ -36,7 +36,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (18 items in the last 30 days):
+- Recent headlines (19 items in the last 30 days):
+- Планирани прекъсвания на електрозахранването на 23.07.2026
 - Планово прекъсване на тока: ЦЕНТЪР - СОФИЯ общ.Средец
 - „ФИЛМОВА ВАКАНЦИЯ В ПАРКА“ се завръща с ново издание в два районни парка
 - Авария: Оборище
@@ -46,8 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
 - Поетапното миене по карета продължава в районите „Оборище“ и „Средец“
 - Изграден е разделителен остров на кръстовището на Орлов мост
-- ДЪРЖАВНО ОТЛИЧИЕ ЗА НАЦИОНАЛНИЯ ВОЕННОИСТОРИЧЕСКИ МУЗЕЙ ПО ПОВОД НЕГОВИЯ 110-ГОДИШЕН ЮБИЛЕЙ
 - Recent archive:
+- https://kvartalami.com/archive/2026-07-22.html
 - https://kvartalami.com/archive/2026-07-21.html
 - https://kvartalami.com/archive/2026-07-17.html
 - https://kvartalami.com/archive/2026-07-11.html
@@ -57,13 +58,13 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-07-03.html
 - https://kvartalami.com/archive/2026-07-02.html
 - https://kvartalami.com/archive/2026-06-26.html
-- https://kvartalami.com/archive/2026-06-24.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (39 items in the last 30 days):
+- Recent headlines (40 items in the last 30 days):
 - Авария по тока: жк.ЛОЗЕНЕЦ
+- Планово прекъсване на тока: жк.НАДЕЖДА - VI ЧАСТ
 - Планово прекъсване на тока: ЦЕНТЪР - СОФИЯ общ.Средец
 - Планово прекъсване на тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ, кв. ДРАГАЛЕВЦИ
 - Планово прекъсване на тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ
@@ -72,7 +73,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Планово прекъсване на тока: КОСТЕНЕЦ, общ. Костенец
 - Авария по тока: ЛУКОВО
 - Авария по тока: БЪРДО
-- Авария по тока: БЕЛИЦА, общ. Ихтиман
 - Recent archive:
 - https://kvartalami.com/lozenets/archive/2026-07-22.html
 - https://kvartalami.com/lozenets/archive/2026-07-21.html
