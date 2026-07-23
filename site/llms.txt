@@ -36,7 +36,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (19 items in the last 30 days):
+- Recent headlines (17 items in the last 30 days):
 - Планирани прекъсвания на електрозахранването на 23.07.2026
 - Планово прекъсване на тока: ЦЕНТЪР - СОФИЯ общ.Средец
 - „ФИЛМОВА ВАКАНЦИЯ В ПАРКА“ се завръща с ново издание в два районни парка
@@ -62,7 +62,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (42 items in the last 30 days):
+- Recent headlines (39 items in the last 30 days):
 - Авария по тока: жк.ЛОЗЕНЕЦ
 - Планово прекъсване на тока: жк.НАДЕЖДА - VI ЧАСТ
 - Авария по тока: БЕЛИЦА, общ. Ихтиман
