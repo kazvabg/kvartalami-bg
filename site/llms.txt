@@ -36,7 +36,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (16 items in the last 30 days):
+- Recent headlines (17 items in the last 30 days):
+- Авария по тока: жк.ЛОЗЕНЕЦ
 - Планирани прекъсвания на електрозахранването на 23.07.2026
 - Планово прекъсване на тока: ЦЕНТЪР - СОФИЯ общ.Средец
 - „ФИЛМОВА ВАКАНЦИЯ В ПАРКА“ се завръща с ново издание в два районни парка
@@ -46,8 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
 - Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
 - Поетапното миене по карета продължава в районите „Оборище“ и „Средец“
-- Изграден е разделителен остров на кръстовището на Орлов мост
 - Recent archive:
+- https://kvartalami.com/archive/2026-07-24.html
 - https://kvartalami.com/archive/2026-07-22.html
 - https://kvartalami.com/archive/2026-07-21.html
 - https://kvartalami.com/archive/2026-07-17.html
@@ -57,23 +58,23 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-07-07.html
 - https://kvartalami.com/archive/2026-07-03.html
 - https://kvartalami.com/archive/2026-07-02.html
-- https://kvartalami.com/archive/2026-06-26.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (39 items in the last 30 days):
+- Recent headlines (44 items in the last 30 days):
+- Аварийно спиране: зона за  спиране ж.к. Дианабад - бул.  Симеоновско шосе № 9
+- Авария по тока: жк.ЛОЗЕНЕЦ
+- Авария по тока: жк.ЛОЗЕНЕЦ
+- Авария по тока: БЪРДО
+- Авария по тока: БЕЛИЦА, общ. Ихтиман
 - Авария по тока: жк.ЛОЗЕНЕЦ
 - Планово прекъсване на тока: жк.НАДЕЖДА - VI ЧАСТ
 - Авария по тока: БЕЛИЦА, общ. Ихтиман
 - Авария по тока: БЪРДО
 - Планово прекъсване на тока: ЦЕНТЪР - СОФИЯ общ.Средец
-- Планово прекъсване на тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ, кв. ДРАГАЛЕВЦИ
-- Планово прекъсване на тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ
-- Планово прекъсване на тока: кв. ДРАГАЛЕВЦИ
-- Авария по тока: ЛУКОВО
-- Планово прекъсване на тока: КОСТЕНЕЦ, общ. Костенец
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-07-24.html
 - https://kvartalami.com/lozenets/archive/2026-07-22.html
 - https://kvartalami.com/lozenets/archive/2026-07-21.html
 - https://kvartalami.com/lozenets/archive/2026-07-20.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-07-15.html
 - https://kvartalami.com/lozenets/archive/2026-07-14.html
 - https://kvartalami.com/lozenets/archive/2026-07-13.html
-- https://kvartalami.com/lozenets/archive/2026-07-12.html
 
 ## Sitemap
 

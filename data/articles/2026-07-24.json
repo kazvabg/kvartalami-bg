@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Авария по тока: жк.ЛОЗЕНЕЦ",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF41%7C24.07.2026%2014%3A23%7C%D0%B6%D0%BA.%D0%9B%D0%9E%D0%97%D0%95%D0%9D%D0%95%D0%A6",
+    "content": "Тип: аварийно прекъсване\nНаселено място: жк.ЛОЗЕНЕЦ\nНачало: 24.07.2026 14:23\nОчаквано възстановяване: 24.07.2026 15:15",
+    "category": "repairs",
+    "date": "2026-07-24",
+    "source": "erm-zapad",
+    "districts": [
+      "oborishte",
+      "lozenets"
+    ],
+    "id": "9686fdeab111",
+    "district": "oborishte",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-07-24T11:29:54.845Z"
+  },
+  {
+    "title": "Аварийно спиране: зона за  спиране ж.к. Дианабад - бул.  Симеоновско шосе № 9",
+    "url": "https://www.sofiyskavoda.bg/water-stops#1415861",
+    "content": "Местоположение: зона за  спиране ж.к. Дианабад - бул.  Симеоновско шосе № 9\nТип: Аварийно спиране\nОписание: Ремонт на уличен водопровод\nНачало: 24.07.2026 г., 12:35 ч.\nКрай: 24.07.2026 г., 16:35 ч.",
+    "category": "repairs",
+    "date": "2026-07-24",
+    "source": "sofiyska-voda",
+    "id": "20fac86d1c37",
+    "district": "lozenets",
+    "sourceName": "Софийска вода",
+    "fetchedAt": "2026-07-24T11:29:54.846Z"
+  },
+  {
+    "title": "Авария по тока: жк.ЛОЗЕНЕЦ",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF41%7C24.07.2026%2014%3A14%7C%D0%B6%D0%BA.%D0%9B%D0%9E%D0%97%D0%95%D0%9D%D0%95%D0%A6",
+    "content": "Тип: аварийно прекъсване\nНаселено място: жк.ЛОЗЕНЕЦ\nНачало: 24.07.2026 14:14\nОчаквано възстановяване: 24.07.2026 15:15",
+    "category": "repairs",
+    "date": "2026-07-24",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "6c4e26c60835",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-07-24T11:29:54.846Z"
+  },
+  {
+    "title": "Авария по тока: жк.ЛОЗЕНЕЦ",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF41%7C24.07.2026%2014%3A23%7C%D0%B6%D0%BA.%D0%9B%D0%9E%D0%97%D0%95%D0%9D%D0%95%D0%A6",
+    "content": "Тип: аварийно прекъсване\nНаселено място: жк.ЛОЗЕНЕЦ\nНачало: 24.07.2026 14:23\nОчаквано възстановяване: 24.07.2026 15:15",
+    "category": "repairs",
+    "date": "2026-07-24",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "9686fdeab111",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-07-24T11:29:54.846Z"
+  },
+  {
+    "title": "Авария по тока: БЪРДО",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SFO20%7C24.07.2026%2013%3A42%7C%D0%91%D0%AA%D0%A0%D0%94%D0%9E",
+    "content": "Тип: аварийно прекъсване\nНаселено място: БЪРДО\nНачало: 24.07.2026 13:42\nОчаквано възстановяване: 24.07.2026 15:00",
+    "category": "repairs",
+    "date": "2026-07-24",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "ef149ded3757",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-07-24T11:29:54.846Z"
+  },
+  {
+    "title": "Авария по тока: БЕЛИЦА, общ. Ихтиман",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SFO20%7C24.07.2026%2013%3A40%7C%D0%91%D0%95%D0%9B%D0%98%D0%A6%D0%90%2C%20%D0%BE%D0%B1%D1%89.%20%D0%98%D1%85%D1%82%D0%B8%D0%BC%D0%B0%D0%BD",
+    "content": "Тип: аварийно прекъсване\nНаселено място: БЕЛИЦА, общ. Ихтиман\nНачало: 24.07.2026 13:40\nОчаквано възстановяване: 24.07.2026 14:45",
+    "category": "repairs",
+    "date": "2026-07-24",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "ed2c03d83509",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-07-24T11:29:54.846Z"
+  }
+]
