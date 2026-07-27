@@ -36,7 +36,9 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (14 items in the last 30 days):
+- Recent headlines (16 items in the last 30 days):
+- От днес започват ремонтни дейности на входа на Центъра за административно обслужване на Столична община на ул.…
+- Започва набирането на заявления за участие в кампанията на Столична община  „Компостирай вкъщи“
 - Авария по тока: жк.ЛОЗЕНЕЦ
 - Планирани прекъсвания на електрозахранването на 23.07.2026
 - Планово прекъсване на тока: ЦЕНТЪР - СОФИЯ общ.Средец
@@ -45,9 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария: Част от Оборище
 - Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
 - Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
-- Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
-- Поетапното миене по карета продължава в районите „Оборище“ и „Средец“
 - Recent archive:
+- https://kvartalami.com/archive/2026-07-27.html
 - https://kvartalami.com/archive/2026-07-24.html
 - https://kvartalami.com/archive/2026-07-22.html
 - https://kvartalami.com/archive/2026-07-21.html
@@ -57,12 +58,13 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-07-09.html
 - https://kvartalami.com/archive/2026-07-07.html
 - https://kvartalami.com/archive/2026-07-03.html
-- https://kvartalami.com/archive/2026-07-02.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (44 items in the last 30 days):
+- Recent headlines (46 items in the last 30 days):
+- Аварийно спиране: Зона на спиране: жк. Лозенец - ул. Липа
+- Заповед № РД91-27/16.07.2026
 - Аварийно спиране: зона за  спиране ж.к. Дианабад - бул.  Симеоновско шосе № 9
 - Авария по тока: жк.ЛОЗЕНЕЦ
 - Авария по тока: жк.ЛОЗЕНЕЦ
@@ -71,9 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Миенето по карета продължава в районите „Лозенец“ и „Триадица“
 - Авария по тока: жк.ЛОЗЕНЕЦ
 - Планово прекъсване на тока: жк.НАДЕЖДА - VI ЧАСТ
-- Авария по тока: БЕЛИЦА, общ. Ихтиман
-- Авария по тока: БЪРДО
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-07-27.html
 - https://kvartalami.com/lozenets/archive/2026-07-24.html
 - https://kvartalami.com/lozenets/archive/2026-07-22.html
 - https://kvartalami.com/lozenets/archive/2026-07-21.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-07-16.html
 - https://kvartalami.com/lozenets/archive/2026-07-15.html
 - https://kvartalami.com/lozenets/archive/2026-07-14.html
-- https://kvartalami.com/lozenets/archive/2026-07-13.html
 
 ## Sitemap
 
