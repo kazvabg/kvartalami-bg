@@ -62,7 +62,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (46 items in the last 30 days):
+- Recent headlines (47 items in the last 30 days):
+- Аварийно спиране: зона на спиране-кв.Кръстова вада-ул.Никола Крушкин-Чолака от №10 до №30 иул.Емилиян Станев от №70до №7
 - Аварийно спиране: Зона на спиране: жк. Лозенец - ул. Липа
 - Заповед № РД91-27/16.07.2026
 - Аварийно спиране: зона за  спиране ж.к. Дианабад - бул.  Симеоновско шосе № 9
@@ -72,8 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария по тока: БЕЛИЦА, общ. Ихтиман
 - Миенето по карета продължава в районите „Лозенец“ и „Триадица“
 - Авария по тока: жк.ЛОЗЕНЕЦ
-- Планово прекъсване на тока: жк.НАДЕЖДА - VI ЧАСТ
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-07-28.html
 - https://kvartalami.com/lozenets/archive/2026-07-27.html
 - https://kvartalami.com/lozenets/archive/2026-07-24.html
 - https://kvartalami.com/lozenets/archive/2026-07-22.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-07-17.html
 - https://kvartalami.com/lozenets/archive/2026-07-16.html
 - https://kvartalami.com/lozenets/archive/2026-07-15.html
-- https://kvartalami.com/lozenets/archive/2026-07-14.html
 
 ## Sitemap
 
