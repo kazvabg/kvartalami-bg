@@ -36,7 +36,9 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (16 items in the last 30 days):
+- Recent headlines (18 items in the last 30 days):
+- Авария: Част от Център
+- Преобразена детска площадка на ул. „Султан тепе“
 - От днес започват ремонтни дейности на входа на Центъра за административно обслужване на Столична община на ул.…
 - Започва набирането на заявления за участие в кампанията на Столична община  „Компостирай вкъщи“
 - Авария по тока: жк.ЛОЗЕНЕЦ
@@ -45,9 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - „ФИЛМОВА ВАКАНЦИЯ В ПАРКА“ се завръща с ново издание в два районни парка
 - Авария: Оборище
 - Авария: Част от Оборище
-- Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
-- Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
 - Recent archive:
+- https://kvartalami.com/archive/2026-07-28.html
 - https://kvartalami.com/archive/2026-07-27.html
 - https://kvartalami.com/archive/2026-07-24.html
 - https://kvartalami.com/archive/2026-07-22.html
@@ -57,23 +58,23 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-07-10.html
 - https://kvartalami.com/archive/2026-07-09.html
 - https://kvartalami.com/archive/2026-07-07.html
-- https://kvartalami.com/archive/2026-07-03.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (47 items in the last 30 days):
+- Recent headlines (51 items in the last 30 days):
+- Планирано спиране: Зона за спиране : кв. Кръстова вада - района между  ул. „Александър Бръзицов “, ул. „Генчо Скордев“, 
 - Аварийно спиране: зона на спиране-кв.Кръстова вада-ул.Никола Крушкин-Чолака от №10 до №30 иул.Емилиян Станев от №70до №7
+- Авария по тока: жк.ХИПОДРУМА, кв. БЕЛИТЕ БРЕЗИ
+- Авария по тока: жк.ХИПОДРУМА
+- Авария по тока: СТУДЕНТСКИ ГРАД
 - Аварийно спиране: Зона на спиране: жк. Лозенец - ул. Липа
 - Заповед № РД91-27/16.07.2026
 - Аварийно спиране: зона за  спиране ж.к. Дианабад - бул.  Симеоновско шосе № 9
 - Авария по тока: жк.ЛОЗЕНЕЦ
 - Авария по тока: жк.ЛОЗЕНЕЦ
-- Авария по тока: БЪРДО
-- Авария по тока: БЕЛИЦА, общ. Ихтиман
-- Миенето по карета продължава в районите „Лозенец“ и „Триадица“
-- Авария по тока: жк.ЛОЗЕНЕЦ
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-07-30.html
 - https://kvartalami.com/lozenets/archive/2026-07-28.html
 - https://kvartalami.com/lozenets/archive/2026-07-27.html
 - https://kvartalami.com/lozenets/archive/2026-07-24.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-07-19.html
 - https://kvartalami.com/lozenets/archive/2026-07-17.html
 - https://kvartalami.com/lozenets/archive/2026-07-16.html
-- https://kvartalami.com/lozenets/archive/2026-07-15.html
 
 ## Sitemap
 
