@@ -5,7 +5,7 @@
     <link>https://kvartalami.com/lozenets</link>
     <description>Хипер-локални новини за район Лозенец</description>
     <language>bg</language>
-    <lastBuildDate>Wed, 29 Jul 2026 11:53:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 17:04:08 GMT</lastBuildDate>
     <item>
       <title>Планирано спиране: Зона за спиране : кв. Кръстова вада - района между  ул. „Александър Бръзицов “, ул. „Генчо Скордев“, </title>
       <link>https://www.sofiyskavoda.bg/water-stops#%D0%9F%D0%A1100</link>
@@ -46,6 +46,28 @@
 Адреси: ул. &quot;Бряст&quot; № 1, 4, 5, 7, 6, 8, 10, 9, 11, 12, 14, 15, 17, 20; ул. &quot;Света гора&quot; № 20; ул. &quot;Кръстьо Сарафов&quot; № 24.
 Начало: 29.07.2026 г., 09:50:00 ч.
 Очаквано…</description>
+    </item>
+    <item>
+      <title>Авария по тока: жк.ЛЮЛИН -III</title>
+      <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF26%7C29.07.2026%2018%3A59%7C%D0%B6%D0%BA.%D0%9B%D0%AE%D0%9B%D0%98%D0%9D%20-III</link>
+      <guid isPermaLink="false">b76ae31ca00b</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Ремонти</category>
+      <description>Тип: аварийно прекъсване
+Населено място: жк.ЛЮЛИН -III
+Начало: 29.07.2026 18:59
+Очаквано възстановяване: 29.07.2026 20:45</description>
+    </item>
+    <item>
+      <title>Авария по тока: жк.ЛЮЛИН -III</title>
+      <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF26%7C29.07.2026%2019%3A45%7C%D0%B6%D0%BA.%D0%9B%D0%AE%D0%9B%D0%98%D0%9D%20-III</link>
+      <guid isPermaLink="false">9706c0873fe2</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Ремонти</category>
+      <description>Тип: аварийно прекъсване
+Населено място: жк.ЛЮЛИН -III
+Начало: 29.07.2026 19:45
+Очаквано възстановяване: 29.07.2026 21:15</description>
     </item>
     <item>
       <title>Аварийно спиране: зона на спиране-кв.Кръстова вада-ул.Никола Крушкин-Чолака от №10 до №30 иул.Емилиян Станев от №70до №7</title>
@@ -413,28 +435,6 @@
       <description>Местоположение: зона за спиране-  ж.к. Лозенец- района между ул. Кръстю Сарафов, ул. Милин камък,ул.  Миджур и ул. Янко  Софийски войвода
 Тип: Аварийно спиране
 Описание: Ремонт на уличен водопровод…</description>
-    </item>
-    <item>
-      <title>Авария по тока: БЪРДО</title>
-      <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SFO20%7C13.07.2026%2013%3A02%7C%D0%91%D0%AA%D0%A0%D0%94%D0%9E</link>
-      <guid isPermaLink="false">c3a241225fc6</guid>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
-      <category>Ремонти</category>
-      <description>Тип: аварийно прекъсване
-Населено място: БЪРДО
-Начало: 13.07.2026 13:02
-Очаквано възстановяване: 13.07.2026 16:45</description>
-    </item>
-    <item>
-      <title>Авария по тока: БЕЛИЦА, общ. Ихтиман</title>
-      <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SFO20%7C13.07.2026%2013%3A02%7C%D0%91%D0%95%D0%9B%D0%98%D0%A6%D0%90%2C%20%D0%BE%D0%B1%D1%89.%20%D0%98%D1%85%D1%82%D0%B8%D0%BC%D0%B0%D0%BD</link>
-      <guid isPermaLink="false">a7dd3a3055af</guid>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
-      <category>Ремонти</category>
-      <description>Тип: аварийно прекъсване
-Населено място: БЕЛИЦА, общ. Ихтиман
-Начало: 13.07.2026 13:02
-Очаквано възстановяване: 13.07.2026 16:45</description>
     </item>
   </channel>
 </rss>

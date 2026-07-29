@@ -46,5 +46,35 @@
     "district": "lozenets",
     "sourceName": "Топлофикация София",
     "fetchedAt": "2026-07-29T11:53:45.506Z"
+  },
+  {
+    "title": "Авария по тока: жк.ЛЮЛИН -III",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF26%7C29.07.2026%2018%3A59%7C%D0%B6%D0%BA.%D0%9B%D0%AE%D0%9B%D0%98%D0%9D%20-III",
+    "content": "Тип: аварийно прекъсване\nНаселено място: жк.ЛЮЛИН -III\nНачало: 29.07.2026 18:59\nОчаквано възстановяване: 29.07.2026 20:45",
+    "category": "repairs",
+    "date": "2026-07-29",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "b76ae31ca00b",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-07-29T17:04:05.656Z"
+  },
+  {
+    "title": "Авария по тока: жк.ЛЮЛИН -III",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF26%7C29.07.2026%2019%3A45%7C%D0%B6%D0%BA.%D0%9B%D0%AE%D0%9B%D0%98%D0%9D%20-III",
+    "content": "Тип: аварийно прекъсване\nНаселено място: жк.ЛЮЛИН -III\nНачало: 29.07.2026 19:45\nОчаквано възстановяване: 29.07.2026 21:15",
+    "category": "repairs",
+    "date": "2026-07-29",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "9706c0873fe2",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-07-29T17:04:05.656Z"
   }
 ]
