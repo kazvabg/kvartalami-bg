@@ -5,7 +5,7 @@
     <link>https://kvartalami.com/lozenets</link>
     <description>Хипер-локални новини за район Лозенец</description>
     <language>bg</language>
-    <lastBuildDate>Tue, 28 Jul 2026 17:18:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 06:23:37 GMT</lastBuildDate>
     <item>
       <title>Планирано спиране: Зона за спиране : кв. Кръстова вада - района между  ул. „Александър Бръзицов “, ул. „Генчо Скордев“, </title>
       <link>https://www.sofiyskavoda.bg/water-stops#%D0%9F%D0%A1100</link>
@@ -13,6 +13,17 @@
       <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
       <category>Ремонти</category>
       <description>Местоположение: Зона за спиране : кв. Кръстова вада - района между  ул. „Александър Бръзицов “, ул. „Генчо Скордев“, ул. „ Елена Варакаджиева“ , ул. „ Д-р Харалан Попов“, ул. „ Ген. Иван Колев“  и…</description>
+    </item>
+    <item>
+      <title>Аварийно спиране: Зона за спиране : кв. Кръстова вада - ул.Никола Крушкин-Чолака от №10 до №30 иул.Емилиян Станев от №70</title>
+      <link>https://www.sofiyskavoda.bg/water-stops#1416496</link>
+      <guid isPermaLink="false">df9906134e86</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Ремонти</category>
+      <description>Местоположение: Зона за спиране : кв. Кръстова вада - ул.Никола Крушкин-Чолака от №10 до №30 иул.Емилиян Станев от №70до №76
+Тип: Аварийно спиране
+Описание: Ремонт на уличен водопровод
+Начало:…</description>
     </item>
     <item>
       <title>Аварийно спиране: зона на спиране-кв.Кръстова вада-ул.Никола Крушкин-Чолака от №10 до №30 иул.Емилиян Станев от №70до №7</title>
@@ -425,17 +436,6 @@
 Населено място: БЕЛИЦА, общ. Ихтиман
 Начало: 12.07.2026 18:38
 Очаквано възстановяване: 12.07.2026 20:15</description>
-    </item>
-    <item>
-      <title>Авария по тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ</title>
-      <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF44%7C11.07.2026%2018%3A59%7C%D0%B2.%D0%B7.%D0%A1%D0%98%D0%9C%D0%95%D0%9E%D0%9D%D0%9E%D0%92%D0%9E-%D0%94%D0%A0%D0%90%D0%93%D0%90%D0%9B%D0%95%D0%92%D0%A6%D0%98</link>
-      <guid isPermaLink="false">6fe9a946188b</guid>
-      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
-      <category>Ремонти</category>
-      <description>Тип: аварийно прекъсване
-Населено място: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ
-Начало: 11.07.2026 18:59
-Очаквано възстановяване: 11.07.2026 20:15</description>
     </item>
   </channel>
 </rss>
