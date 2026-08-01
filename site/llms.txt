@@ -62,7 +62,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (57 items in the last 30 days):
+- Recent headlines (56 items in the last 30 days):
 - Планирано спиране: Зона за спиране : кв. Кръстова вада - района между  ул. „Александър Бръзицов “, ул. „Генчо Скордев“, 
 - Авария: Част от Лозенец
 - Аварийно спиране: Зона за спиране : кв. Кръстова вада - ул.Никола Крушкин-Чолака от №10 до №30 иул.Емилиян Станев от №70
