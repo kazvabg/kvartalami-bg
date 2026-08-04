@@ -62,7 +62,9 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (54 items in the last 30 days):
+- Recent headlines (56 items in the last 30 days):
+- Заповед № РД91-31/30.07.2026
+- Заповед № РД91-30/28.07.2026
 - Авария: Част от Лозенец
 - Планирано спиране: Зона за спиране : кв. Кръстова вада - района между  ул. „Александър Бръзицов “, ул. „Генчо Скордев“, 
 - Авария: Част от Лозенец
@@ -71,9 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария: Част от Лозенец
 - Авария по тока: жк.ЛЮЛИН -III
 - Авария по тока: жк.ЛЮЛИН -III
-- Авария: Част от Лозенец
-- Аварийно спиране: зона на спиране-кв.Кръстова вада-ул.Никола Крушкин-Чолака от №10 до №30 иул.Емилиян Станев от №70до №7
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-08-04.html
 - https://kvartalami.com/lozenets/archive/2026-08-03.html
 - https://kvartalami.com/lozenets/archive/2026-07-30.html
 - https://kvartalami.com/lozenets/archive/2026-07-29.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-07-22.html
 - https://kvartalami.com/lozenets/archive/2026-07-21.html
 - https://kvartalami.com/lozenets/archive/2026-07-20.html
-- https://kvartalami.com/lozenets/archive/2026-07-19.html
 
 ## Sitemap
 
