@@ -5,7 +5,7 @@
     <link>https://kvartalami.com/lozenets</link>
     <description>Хипер-локални новини за район Лозенец</description>
     <language>bg</language>
-    <lastBuildDate>Wed, 05 Aug 2026 11:50:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 17:19:43 GMT</lastBuildDate>
     <item>
       <title>Планирано спиране: Зона на спиране: кв. Кръстова вада - ул. Винсент ван Гог и ул. Борис Руменов</title>
       <link>https://www.sofiyskavoda.bg/water-stops#%D0%9F%D0%A178</link>
@@ -36,6 +36,14 @@
       <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
       <category>Местна власт</category>
       <description>Заповед № РД91-32/05.08.2026</description>
+    </item>
+    <item>
+      <title>РАЗРЕШЕНИЕ за строеж Б-232/29.07.2026 г.</title>
+      <link>https://lozenets.sofia.bg/%d1%80%d0%b0%d0%b7%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b7%d0%b0-%d1%81%d1%82%d1%80%d0%be%d0%b5%d0%b6-%d0%b1-195-11-06-2026-%d0%b3-2/</link>
+      <guid isPermaLink="false">bed174bc729b</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Местна власт</category>
+      <description>РАЗРЕШЕНИЕ за строеж Б-232/29.07.2026 г.</description>
     </item>
     <item>
       <title>Заповед № РД91-31/30.07.2026</title>
@@ -417,17 +425,6 @@
 Населено място: БЕЛИЦА, общ. Ихтиман
 Начало: 20.07.2026 20:14
 Очаквано възстановяване: 20.07.2026 21:30</description>
-    </item>
-    <item>
-      <title>Авария: Част от Лозенец</title>
-      <link>https://toplo.bg/accidents-and-maintenance#%D0%A7%D0%B0%D1%81%D1%82%20%D0%BE%D1%82%20%D0%9B%D0%BE%D0%B7%D0%B5%D0%BD%D0%B5%D1%86%7C%D1%83%D0%BB.%22%D0%93%D0%BE%D1%80%D1%81%D0%BA%D0%B8%20%D0%BF%D1%8A%D1%82%D0%BD%D0%B8%D0%BA%22%20%E2%84%9613%2C%20%E2%84%9613%D0%90%20</link>
-      <guid isPermaLink="false">6bb55e77d233</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 GMT</pubDate>
-      <category>Ремонти</category>
-      <description>Район: Част от Лозенец
-Адреси: ул.&quot;Горски пътник&quot; №13, №13А 
-Начало: 19.07.2026 г., 09:30:00 ч.
-Очаквано възстановяване: 21.07.2026 г., 09:30:00 ч.</description>
     </item>
   </channel>
 </rss>
