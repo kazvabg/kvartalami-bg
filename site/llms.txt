@@ -36,7 +36,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (15 items in the last 30 days):
+- Recent headlines (16 items in the last 30 days):
+- Авария: Оборище
 - Прекъсване на работата на отдел „Общински приходи“ - офис „Оборище“, на 07.08.2026 г. от 10:00 ч. до 14:00 ч. поради…
 - Авария: Част от Център
 - Преобразена детска площадка на ул. „Султан тепе“
@@ -46,8 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария по тока: жк.ЛОЗЕНЕЦ
 - Планирани прекъсвания на електрозахранването на 23.07.2026
 - Планово прекъсване на тока: ЦЕНТЪР - СОФИЯ общ.Средец
-- „ФИЛМОВА ВАКАНЦИЯ В ПАРКА“ се завръща с ново издание в два районни парка
 - Recent archive:
+- https://kvartalami.com/archive/2026-08-06.html
 - https://kvartalami.com/archive/2026-07-31.html
 - https://kvartalami.com/archive/2026-07-28.html
 - https://kvartalami.com/archive/2026-07-27.html
@@ -57,7 +58,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-07-17.html
 - https://kvartalami.com/archive/2026-07-11.html
 - https://kvartalami.com/archive/2026-07-10.html
-- https://kvartalami.com/archive/2026-07-09.html
 
 ### Район Лозенец
 
