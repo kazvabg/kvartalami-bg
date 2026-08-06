@@ -62,7 +62,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (60 items in the last 30 days):
+- Recent headlines (57 items in the last 30 days):
 - Планирано спиране: Зона на спиране: кв. Кръстова вада - ул. Винсент ван Гог и ул. Борис Руменов
 - Авария по тока: жк.СТРЕЛБИЩЕ
 - Заповед № РД91-32/05.08.2026
