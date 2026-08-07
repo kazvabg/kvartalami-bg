@@ -36,7 +36,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (16 items in the last 30 days):
+- Recent headlines (15 items in the last 30 days):
 - Авария: Оборище
 - Прекъсване на работата на отдел „Общински приходи“ - офис „Оборище“, на 07.08.2026 г. от 10:00 ч. до 14:00 ч. поради…
 - Авария: Част от Център
