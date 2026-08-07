@@ -10,5 +10,41 @@
     "district": "oborishte",
     "sourceName": "Район Оборище",
     "fetchedAt": "2026-08-07T10:42:03.863Z"
+  },
+  {
+    "title": "ОБЯВА за провеждане на конкурс в Национална гвардейска част, гр. София",
+    "url": "https://lozenets.sofia.bg/%d0%be%d0%b1%d1%8f%d0%b2%d0%b0-%d0%b7%d0%b0-%d0%bf%d1%80%d0%be%d0%b2%d0%b5%d0%b6%d0%b4%d0%b0%d0%bd%d0%b5-%d0%bd%d0%b0-%d0%ba%d0%be%d0%bd%d0%ba%d1%83%d1%80%d1%81-%d0%b2-%d0%bd%d0%b0%d1%86%d0%b8%d0%be-4/",
+    "content": "за заемане на вакантни длъжности за сержанти/старшини от лица, завършили граждански средни или висши училища в страната или в чужбина на 28.09.2026 г. и 29.09.2026 г. СПИСЪК НА ВАКАНТНИТЕ ДЛЪЖНОСТИ",
+    "category": "events",
+    "date": "2026-08-07",
+    "source": "rayon-lozenets",
+    "id": "b970a48ef68a",
+    "district": "lozenets",
+    "sourceName": "Район Лозенец",
+    "fetchedAt": "2026-08-07T16:41:20.564Z"
+  },
+  {
+    "title": "ОБЯВА за вакантни длъжности в Сухопътни войски",
+    "url": "https://lozenets.sofia.bg/%d0%be%d0%b1%d1%8f%d0%b2%d0%b0-%d0%b7%d0%b0-%d0%b2%d0%b0%d0%ba%d0%b0%d0%bd%d1%82%d0%bd%d0%b8-%d0%b4%d0%bb%d1%8a%d0%b6%d0%bd%d0%be%d1%81%d1%82%d0%b8-%d0%b2-%d1%81%d1%83%d1%85%d0%be%d0%bf%d1%8a%d1%82/",
+    "content": "за приемане навоенна служба на лица, изпълнявали военна служба (кадрова военна служба)",
+    "category": "government",
+    "date": "2026-07-21",
+    "source": "rayon-lozenets",
+    "id": "aad478629be4",
+    "district": "lozenets",
+    "sourceName": "Район Лозенец",
+    "fetchedAt": "2026-08-07T16:41:20.564Z"
+  },
+  {
+    "title": "ОБЯВА за провеждане на конкурс за войнишки длъжности във военни формирования от Военновъздушните сили",
+    "url": "https://lozenets.sofia.bg/%d0%be%d0%b1%d1%8f%d0%b2%d0%b0-%d0%b7%d0%b0-%d0%bf%d1%80%d0%be%d0%b2%d0%b5%d0%b6%d0%b4%d0%b0%d0%bd%d0%b5-%d0%bd%d0%b0-%d0%ba%d0%be%d0%bd%d0%ba%d1%83%d1%80%d1%81-%d0%b7%d0%b0-%d0%b2%d0%be%d0%b9-39/",
+    "content": "за приемане на военна служба на лица, завършили граждански средни или висши уилища в страната и в чужбина",
+    "category": "events",
+    "date": "2026-07-20",
+    "source": "rayon-lozenets",
+    "id": "061d5b27621e",
+    "district": "lozenets",
+    "sourceName": "Район Лозенец",
+    "fetchedAt": "2026-08-07T16:41:20.564Z"
   }
 ]
