@@ -36,7 +36,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (15 items in the last 30 days):
+- Recent headlines (13 items in the last 30 days):
 - Ремонт на тротоара на ул.“Цар Симеон“
 - Предстоящи обработки на зелените площи срещу комари и кърлежи
 - Авария: Оборище
@@ -62,7 +62,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (57 items in the last 30 days):
+- Recent headlines (56 items in the last 30 days):
 - ОБЯВА за провеждане на конкурс в Национална гвардейска част, гр. София
 - Планирано спиране: Зона на спиране: кв. Кръстова вада - ул. Винсент ван Гог и ул. Борис Руменов
 - Авария по тока: жк.СТРЕЛБИЩЕ
