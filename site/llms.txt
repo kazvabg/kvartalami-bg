@@ -62,7 +62,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (56 items in the last 30 days):
+- Recent headlines (57 items in the last 30 days):
+- Авария: Част от Лозенец
 - ОБЯВА за провеждане на конкурс в Национална гвардейска част, гр. София
 - Планирано спиране: Зона на спиране: кв. Кръстова вада - ул. Винсент ван Гог и ул. Борис Руменов
 - Авария по тока: жк.СТРЕЛБИЩЕ
@@ -72,8 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Заповед № РД91-30/28.07.2026
 - Авария: Част от Лозенец
 - Планирано спиране: Зона за спиране : кв. Кръстова вада - района между  ул. „Александър Бръзицов “, ул. „Генчо Скордев“, 
-- Авария: Част от Лозенец
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-08-11.html
 - https://kvartalami.com/lozenets/archive/2026-08-07.html
 - https://kvartalami.com/lozenets/archive/2026-08-06.html
 - https://kvartalami.com/lozenets/archive/2026-08-05.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-07-29.html
 - https://kvartalami.com/lozenets/archive/2026-07-28.html
 - https://kvartalami.com/lozenets/archive/2026-07-27.html
-- https://kvartalami.com/lozenets/archive/2026-07-24.html
 
 ## Sitemap
 
