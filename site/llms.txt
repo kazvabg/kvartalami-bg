@@ -62,7 +62,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (57 items in the last 30 days):
+- Recent headlines (55 items in the last 30 days):
 - Авария: Част от Лозенец
 - ОБЯВА за провеждане на конкурс в Национална гвардейска част, гр. София
 - Планирано спиране: Зона на спиране: кв. Кръстова вада - ул. Винсент ван Гог и ул. Борис Руменов
