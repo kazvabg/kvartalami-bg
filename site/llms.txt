@@ -62,7 +62,9 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (53 items in the last 30 days):
+- Recent headlines (55 items in the last 30 days):
+- Аварийно спиране: Зона на спиране:ж.к. Лозенец - ул. Бабуна планина от ул. Бигла до ул. Кораб планина
+- РАЗРЕШЕНИЕ за строеж Б-238/05.08.2026 г.
 - Авария: Част от Лозенец
 - Васил Терзиев откри обновената ДГ № 141 „Славейкова поляна“ в район „Лозенец“
 - Авария: Част от Лозенец
@@ -71,9 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария по тока: жк.СТРЕЛБИЩЕ
 - Заповед № РД91-32/05.08.2026
 - РАЗРЕШЕНИЕ за строеж Б-232/29.07.2026 г.
-- Заповед № РД91-31/30.07.2026
-- Заповед № РД91-30/28.07.2026
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-08-14.html
 - https://kvartalami.com/lozenets/archive/2026-08-12.html
 - https://kvartalami.com/lozenets/archive/2026-08-11.html
 - https://kvartalami.com/lozenets/archive/2026-08-07.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-08-03.html
 - https://kvartalami.com/lozenets/archive/2026-07-30.html
 - https://kvartalami.com/lozenets/archive/2026-07-29.html
-- https://kvartalami.com/lozenets/archive/2026-07-28.html
 
 ## Sitemap
 
