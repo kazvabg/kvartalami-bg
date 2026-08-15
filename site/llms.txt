@@ -62,18 +62,19 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (57 items in the last 30 days):
+- Recent headlines (60 items in the last 30 days):
+- Авария по тока: кв. ДРАГАЛЕВЦИ, кв. КИНОЦЕНТЪР, в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ
+- Авария по тока: кв. ДРАГАЛЕВЦИ
+- Авария по тока: кв. КИНОЦЕНТЪР
+- Авария по тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ
 - Аварийно спиране: Зона на спиране:ж.к. Лозенец - ул. Бабуна планина от ул. Бигла до ул. Кораб планина
 - РАЗРЕШЕНИЕ за строеж Б-238/05.08.2026 г.
 - Разчистване и подготовка на строителната площадка за изграждане на градина „Яна Язова“
 - Авария: Част от Лозенец
 - Васил Терзиев откри обновената ДГ № 141 „Славейкова поляна“ в район „Лозенец“
 - Авария: Част от Лозенец
-- ОБЯВА за провеждане на конкурс в Национална гвардейска част, гр. София
-- Планирано спиране: Зона на спиране: кв. Кръстова вада - ул. Винсент ван Гог и ул. Борис Руменов
-- Авария по тока: жк.СТРЕЛБИЩЕ
-- Заповед № РД91-32/05.08.2026
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-08-15.html
 - https://kvartalami.com/lozenets/archive/2026-08-14.html
 - https://kvartalami.com/lozenets/archive/2026-08-12.html
 - https://kvartalami.com/lozenets/archive/2026-08-11.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-08-04.html
 - https://kvartalami.com/lozenets/archive/2026-08-03.html
 - https://kvartalami.com/lozenets/archive/2026-07-30.html
-- https://kvartalami.com/lozenets/archive/2026-07-29.html
 
 ## Sitemap
 

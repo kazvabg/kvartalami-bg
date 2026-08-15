@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Авария по тока: кв. ДРАГАЛЕВЦИ, кв. КИНОЦЕНТЪР, в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF44%7C15.08.2026%2007%3A17%7C%D0%BA%D0%B2.%20%D0%94%D0%A0%D0%90%D0%93%D0%90%D0%9B%D0%95%D0%92%D0%A6%D0%98%2C%20%D0%BA%D0%B2.%20%D0%9A%D0%98%D0%9D%D0%9E%D0%A6%D0%95%D0%9D%D0%A2%D0%AA%D0%A0%2C%20%D0%B2.%D0%B7.%D0%A1%D0%98%D0%9C%D0%95%D0%9E%D0%9D%D0%9E%D0%92%D0%9E-%D0%94%D0%A0%D0%90%D0%93%D0%90%D0%9B%D0%95%D0%92%D0%A6%D0%98",
+    "content": "Тип: аварийно прекъсване\nНаселено място: кв. ДРАГАЛЕВЦИ, кв. КИНОЦЕНТЪР, в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ\nНачало: 15.08.2026 07:17\nОчаквано възстановяване: 15.08.2026 09:15",
+    "category": "repairs",
+    "date": "2026-08-15",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "cf0e1cb7501e",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-08-15T04:19:48.065Z"
+  },
+  {
+    "title": "Авария по тока: кв. ДРАГАЛЕВЦИ",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF44%7C15.08.2026%2007%3A17%7C%D0%BA%D0%B2.%20%D0%94%D0%A0%D0%90%D0%93%D0%90%D0%9B%D0%95%D0%92%D0%A6%D0%98",
+    "content": "Тип: аварийно прекъсване\nНаселено място: кв. ДРАГАЛЕВЦИ\nНачало: 15.08.2026 07:17\nОчаквано възстановяване: 15.08.2026 09:15",
+    "category": "repairs",
+    "date": "2026-08-15",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "8f08299ea51d",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-08-15T04:19:48.065Z"
+  },
+  {
+    "title": "Авария по тока: кв. КИНОЦЕНТЪР",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF44%7C15.08.2026%2007%3A17%7C%D0%BA%D0%B2.%20%D0%9A%D0%98%D0%9D%D0%9E%D0%A6%D0%95%D0%9D%D0%A2%D0%AA%D0%A0",
+    "content": "Тип: аварийно прекъсване\nНаселено място: кв. КИНОЦЕНТЪР\nНачало: 15.08.2026 07:17\nОчаквано възстановяване: 15.08.2026 09:15",
+    "category": "repairs",
+    "date": "2026-08-15",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "12d7b096a553",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-08-15T04:19:48.065Z"
+  },
+  {
+    "title": "Авария по тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF44%7C15.08.2026%2007%3A17%7C%D0%B2.%D0%B7.%D0%A1%D0%98%D0%9C%D0%95%D0%9E%D0%9D%D0%9E%D0%92%D0%9E-%D0%94%D0%A0%D0%90%D0%93%D0%90%D0%9B%D0%95%D0%92%D0%A6%D0%98",
+    "content": "Тип: аварийно прекъсване\nНаселено място: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ\nНачало: 15.08.2026 07:17\nОчаквано възстановяване: 15.08.2026 09:15",
+    "category": "repairs",
+    "date": "2026-08-15",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "20ac86b7833f",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-08-15T04:19:48.065Z"
+  }
+]
