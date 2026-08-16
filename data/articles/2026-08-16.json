@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Авария по тока: кв. КИНОЦЕНТЪР",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF44%7C16.08.2026%2012%3A02%7C%D0%BA%D0%B2.%20%D0%9A%D0%98%D0%9D%D0%9E%D0%A6%D0%95%D0%9D%D0%A2%D0%AA%D0%A0",
+    "content": "Тип: аварийно прекъсване\nНаселено място: кв. КИНОЦЕНТЪР\nНачало: 16.08.2026 12:02\nОчаквано възстановяване: 16.08.2026 13:30",
+    "category": "repairs",
+    "date": "2026-08-16",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "9ce6f86899f7",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-08-16T10:12:58.905Z"
+  },
+  {
+    "title": "Авария по тока: кв. БОЯНА",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF44%7C16.08.2026%2012%3A02%7C%D0%BA%D0%B2.%20%D0%91%D0%9E%D0%AF%D0%9D%D0%90",
+    "content": "Тип: аварийно прекъсване\nНаселено място: кв. БОЯНА\nНачало: 16.08.2026 12:02\nОчаквано възстановяване: 16.08.2026 13:30",
+    "category": "repairs",
+    "date": "2026-08-16",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "941ac0df8dd4",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-08-16T10:12:58.905Z"
+  },
+  {
+    "title": "Авария по тока: кв. КРЪСТОВА ВАДА",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF42%7C16.08.2026%2012%3A02%7C%D0%BA%D0%B2.%20%D0%9A%D0%A0%D0%AA%D0%A1%D0%A2%D0%9E%D0%92%D0%90%20%D0%92%D0%90%D0%94%D0%90",
+    "content": "Тип: аварийно прекъсване\nНаселено място: кв. КРЪСТОВА ВАДА\nНачало: 16.08.2026 12:02\nОчаквано възстановяване: 16.08.2026 13:30",
+    "category": "repairs",
+    "date": "2026-08-16",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "cb6e84495f12",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-08-16T10:12:58.905Z"
+  }
+]
