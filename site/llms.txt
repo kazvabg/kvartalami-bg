@@ -36,7 +36,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (16 items in the last 30 days):
+- Recent headlines (15 items in the last 30 days):
 - Авария: Част от Оборище
 - Авария: Част от Оборище
 - Компенсации за периода м.май – м. юни 2026 г. за разходи, направени от родители на деца, родени през 2023 г. ,2024 г. и…
@@ -62,7 +62,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (61 items in the last 30 days):
+- Recent headlines (60 items in the last 30 days):
 - Авария по тока: кв. КИНОЦЕНТЪР
 - Авария по тока: кв. БОЯНА
 - Авария по тока: кв. КРЪСТОВА ВАДА
