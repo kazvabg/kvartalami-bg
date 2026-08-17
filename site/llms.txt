@@ -62,7 +62,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (60 items in the last 30 days):
+- Recent headlines (61 items in the last 30 days):
+- Авария: Част от Лозенец
 - Авария по тока: кв. КИНОЦЕНТЪР
 - Авария по тока: кв. БОЯНА
 - Авария по тока: кв. КРЪСТОВА ВАДА
@@ -72,8 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария по тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ
 - Авария: Част от Лозенец
 - Авария: Част от Лозенец
-- Аварийно спиране: Зона на спиране:ж.к. Лозенец - ул. Бабуна планина от ул. Бигла до ул. Кораб планина
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-08-17.html
 - https://kvartalami.com/lozenets/archive/2026-08-16.html
 - https://kvartalami.com/lozenets/archive/2026-08-15.html
 - https://kvartalami.com/lozenets/archive/2026-08-14.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-08-06.html
 - https://kvartalami.com/lozenets/archive/2026-08-05.html
 - https://kvartalami.com/lozenets/archive/2026-08-04.html
-- https://kvartalami.com/lozenets/archive/2026-08-03.html
 
 ## Sitemap
 
