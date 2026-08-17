@@ -62,8 +62,9 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (61 items in the last 30 days):
+- Recent headlines (63 items in the last 30 days):
 - Авария: Част от Лозенец
+- Планов ремонт на ТР „София Изток“ от 28.08.2026 г. до 13.09.2026 г.
 - Авария по тока: кв. КИНОЦЕНТЪР
 - Авария по тока: кв. БОЯНА
 - Авария по тока: кв. КРЪСТОВА ВАДА
@@ -71,7 +72,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария по тока: кв. ДРАГАЛЕВЦИ
 - Авария по тока: кв. КИНОЦЕНТЪР
 - Авария по тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ
-- Авария: Част от Лозенец
 - Авария: Част от Лозенец
 - Recent archive:
 - https://kvartalami.com/lozenets/archive/2026-08-17.html
