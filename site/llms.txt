@@ -36,18 +36,19 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (16 items in the last 30 days):
+- Recent headlines (18 items in the last 30 days):
+- Престоящи аварийни ремонти на топлопроводи
 - Авария: Част от Оборище
 - Авария: Част от Оборище
 - Авария: Част от Оборище
+- Уведомление за предстоящи затваряния на улица „Васил Априлов“
 - Компенсации за периода м.май – м. юни 2026 г. за разходи, направени от родители на деца, родени през 2023 г. ,2024 г. и…
 - Ремонт на тротоара на ул.“Цар Симеон“
 - Предстоящи обработки на зелените площи срещу комари и кърлежи
 - Авария: Оборище
 - Прекъсване на работата на отдел „Общински приходи“ - офис „Оборище“, на 07.08.2026 г. от 10:00 ч. до 14:00 ч. поради…
-- Авария: Част от Център
-- Преобразена детска площадка на ул. „Султан тепе“
 - Recent archive:
+- https://kvartalami.com/archive/2026-08-18.html
 - https://kvartalami.com/archive/2026-08-17.html
 - https://kvartalami.com/archive/2026-08-14.html
 - https://kvartalami.com/archive/2026-08-11.html
@@ -57,7 +58,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-07-31.html
 - https://kvartalami.com/archive/2026-07-28.html
 - https://kvartalami.com/archive/2026-07-27.html
-- https://kvartalami.com/archive/2026-07-24.html
 
 ### Район Лозенец
 
