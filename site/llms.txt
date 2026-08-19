@@ -62,7 +62,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (63 items in the last 30 days):
+- Recent headlines (62 items in the last 30 days):
 - Авария: Част от Лозенец
 - Планов ремонт на ТР „София Изток“ от 28.08.2026 г. до 13.09.2026 г.
 - Авария по тока: кв. КИНОЦЕНТЪР
