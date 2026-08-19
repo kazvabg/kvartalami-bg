@@ -5,7 +5,7 @@
     <link>https://kvartalami.com/lozenets</link>
     <description>Хипер-локални новини за район Лозенец</description>
     <language>bg</language>
-    <lastBuildDate>Wed, 19 Aug 2026 10:18:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 16:19:04 GMT</lastBuildDate>
     <item>
       <title>Планово прекъсване на тока: кв. ПАВЛОВО</title>
       <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF44%7C19.08.2026%2010%3A16%7C%D0%BA%D0%B2.%20%D0%9F%D0%90%D0%92%D0%9B%D0%9E%D0%92%D0%9E</link>
@@ -16,6 +16,14 @@
 Населено място: кв. ПАВЛОВО
 Начало: 19.08.2026 10:16
 Очаквано възстановяване: 19.08.2026 16:30</description>
+    </item>
+    <item>
+      <title>Заповед № РД91-34/18.08.2026</title>
+      <link>https://lozenets.sofia.bg/%d0%b7%d0%b0%d0%bf%d0%be%d0%b2%d0%b5%d0%b4-%e2%84%96-%d1%80%d0%b491-34-18-08-2026/</link>
+      <guid isPermaLink="false">e38c1ec7c041</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Местна власт</category>
+      <description>на основание чл. 46, ал. 1 от ЗМСМА, чл. 99б от ЗГР</description>
     </item>
     <item>
       <title>Авария: Част от Лозенец</title>
@@ -396,17 +404,6 @@
       <description>Тип: аварийно прекъсване
 Населено място: жк.ХИПОДРУМА
 Начало: 28.07.2026 14:45
-Очаквано възстановяване: 28.07.2026 16:45</description>
-    </item>
-    <item>
-      <title>Авария по тока: СТУДЕНТСКИ ГРАД</title>
-      <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF13%7C28.07.2026%2014%3A48%7C%D0%A1%D0%A2%D0%A3%D0%94%D0%95%D0%9D%D0%A2%D0%A1%D0%9A%D0%98%20%D0%93%D0%A0%D0%90%D0%94</link>
-      <guid isPermaLink="false">0be04e45593a</guid>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-      <category>Ремонти</category>
-      <description>Тип: аварийно прекъсване
-Населено място: СТУДЕНТСКИ ГРАД
-Начало: 28.07.2026 14:48
 Очаквано възстановяване: 28.07.2026 16:45</description>
     </item>
   </channel>

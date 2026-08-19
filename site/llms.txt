@@ -36,8 +36,9 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (19 items in the last 30 days):
+- Recent headlines (20 items in the last 30 days):
 - Предстоящо временно затваряне на ул.„Богдан“ №10
+- Авария: Част от Оборище
 - Престоящи аварийни ремонти на топлопроводи
 - Авария: Част от Оборище
 - Авария: Част от Оборище
@@ -46,7 +47,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Компенсации за периода м.май – м. юни 2026 г. за разходи, направени от родители на деца, родени през 2023 г. ,2024 г. и…
 - Ремонт на тротоара на ул.“Цар Симеон“
 - Предстоящи обработки на зелените площи срещу комари и кърлежи
-- Авария: Оборище
 - Recent archive:
 - https://kvartalami.com/archive/2026-08-19.html
 - https://kvartalami.com/archive/2026-08-18.html
@@ -62,8 +62,9 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (63 items in the last 30 days):
+- Recent headlines (64 items in the last 30 days):
 - Планово прекъсване на тока: кв. ПАВЛОВО
+- Заповед № РД91-34/18.08.2026
 - Авария: Част от Лозенец
 - Планов ремонт на ТР „София Изток“ от 28.08.2026 г. до 13.09.2026 г.
 - Авария по тока: кв. КИНОЦЕНТЪР
@@ -72,7 +73,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария по тока: кв. ДРАГАЛЕВЦИ, кв. КИНОЦЕНТЪР, в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ
 - Авария по тока: кв. ДРАГАЛЕВЦИ
 - Авария по тока: кв. КИНОЦЕНТЪР
-- Авария по тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ
 - Recent archive:
 - https://kvartalami.com/lozenets/archive/2026-08-19.html
 - https://kvartalami.com/lozenets/archive/2026-08-17.html
