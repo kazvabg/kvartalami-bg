@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Предстоящо временно затваряне на ул.„Богдан“ №10",
+    "url": "https://rayon-oborishte.bg/%d0%bf%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%be%d1%8f%d1%89%d0%be-%d0%b2%d1%80%d0%b5%d0%bc%d0%b5%d0%bd%d0%bd%d0%be-%d0%b7%d0%b0%d1%82%d0%b2%d0%b0%d1%80%d1%8f%d0%bd%d0%b5-%d0%bd%d0%b0-%d1%83%d0%bb/",
+    "content": "Уважаеми граждани, Във връзка със съгласуван график за извършване на…",
+    "category": "government",
+    "date": "2026-08-19",
+    "source": "rayon-oborishte",
+    "id": "e9074d86d142",
+    "district": "oborishte",
+    "sourceName": "Район Оборище",
+    "fetchedAt": "2026-08-19T10:18:31.406Z"
+  },
+  {
+    "title": "Планово прекъсване на тока: кв. ПАВЛОВО",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF44%7C19.08.2026%2010%3A16%7C%D0%BA%D0%B2.%20%D0%9F%D0%90%D0%92%D0%9B%D0%9E%D0%92%D0%9E",
+    "content": "Тип: планово прекъсване\nНаселено място: кв. ПАВЛОВО\nНачало: 19.08.2026 10:16\nОчаквано възстановяване: 19.08.2026 16:30",
+    "category": "repairs",
+    "date": "2026-08-19",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "0bcd22a7a129",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-08-19T10:18:31.407Z"
+  }
+]
