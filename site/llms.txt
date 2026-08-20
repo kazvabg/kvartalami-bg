@@ -62,7 +62,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (64 items in the last 30 days):
+- Recent headlines (59 items in the last 30 days):
 - Планово прекъсване на тока: кв. ПАВЛОВО
 - Заповед № РД91-34/18.08.2026
 - Авария: Част от Лозенец
