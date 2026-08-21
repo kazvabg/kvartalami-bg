@@ -36,7 +36,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (19 items in the last 30 days):
+- Recent headlines (20 items in the last 30 days):
+- Предстоящо затваряне на ул. „Георги Бенковски“ № 26
 - Предстоящо временно затваряне на ул.„Богдан“ №10
 - Авария: Част от Оборище
 - Престоящи аварийни ремонти на топлопроводи
@@ -46,8 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Уведомление за предстоящи затваряния на улица „Васил Априлов“
 - Компенсации за периода м.май – м. юни 2026 г. за разходи, направени от родители на деца, родени през 2023 г. ,2024 г. и…
 - Ремонт на тротоара на ул.“Цар Симеон“
-- Предстоящи обработки на зелените площи срещу комари и кърлежи
 - Recent archive:
+- https://kvartalami.com/archive/2026-08-21.html
 - https://kvartalami.com/archive/2026-08-19.html
 - https://kvartalami.com/archive/2026-08-18.html
 - https://kvartalami.com/archive/2026-08-17.html
@@ -57,7 +58,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-08-07.html
 - https://kvartalami.com/archive/2026-08-06.html
 - https://kvartalami.com/archive/2026-07-31.html
-- https://kvartalami.com/archive/2026-07-28.html
 
 ### Район Лозенец
 
