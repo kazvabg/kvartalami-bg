@@ -62,7 +62,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (53 items in the last 30 days):
+- Recent headlines (54 items in the last 30 days):
+- Обява за работа: Главен специалист – деловодство в район „Лозенец“
 - Планово прекъсване на тока: кв. ПАВЛОВО
 - Заповед № РД91-34/18.08.2026
 - Авария: Част от Лозенец
@@ -72,8 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария по тока: кв. КРЪСТОВА ВАДА
 - Авария по тока: кв. ДРАГАЛЕВЦИ, кв. КИНОЦЕНТЪР, в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ
 - Авария по тока: кв. ДРАГАЛЕВЦИ
-- Авария по тока: кв. КИНОЦЕНТЪР
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-08-21.html
 - https://kvartalami.com/lozenets/archive/2026-08-19.html
 - https://kvartalami.com/lozenets/archive/2026-08-17.html
 - https://kvartalami.com/lozenets/archive/2026-08-16.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-08-11.html
 - https://kvartalami.com/lozenets/archive/2026-08-07.html
 - https://kvartalami.com/lozenets/archive/2026-08-06.html
-- https://kvartalami.com/lozenets/archive/2026-08-05.html
 
 ## Sitemap
 
