@@ -5,7 +5,29 @@
     <link>https://kvartalami.com/lozenets</link>
     <description>Хипер-локални новини за район Лозенец</description>
     <language>bg</language>
-    <lastBuildDate>Fri, 21 Aug 2026 16:20:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 04:21:41 GMT</lastBuildDate>
+    <item>
+      <title>Авария по тока: ж.к. ЮЖЕН ПАРК</title>
+      <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF42%7C22.08.2026%2006%3A01%7C%D0%B6.%D0%BA.%20%D0%AE%D0%96%D0%95%D0%9D%20%D0%9F%D0%90%D0%A0%D0%9A</link>
+      <guid isPermaLink="false">185a3f251edb</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Ремонти</category>
+      <description>Тип: аварийно прекъсване
+Населено място: ж.к. ЮЖЕН ПАРК
+Начало: 22.08.2026 06:01
+Очаквано възстановяване: 22.08.2026 08:15</description>
+    </item>
+    <item>
+      <title>Авария по тока: СТУДЕНТСКИ ГРАД</title>
+      <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF13%7C22.08.2026%2007%3A01%7C%D0%A1%D0%A2%D0%A3%D0%94%D0%95%D0%9D%D0%A2%D0%A1%D0%9A%D0%98%20%D0%93%D0%A0%D0%90%D0%94</link>
+      <guid isPermaLink="false">fd1b5e473c36</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Ремонти</category>
+      <description>Тип: аварийно прекъсване
+Населено място: СТУДЕНТСКИ ГРАД
+Начало: 22.08.2026 07:01
+Очаквано възстановяване: 22.08.2026 09:00</description>
+    </item>
     <item>
       <title>Обява за работа: Главен специалист – деловодство в район „Лозенец“</title>
       <link>https://lozenets.sofia.bg/%d0%be%d0%b1%d1%8f%d0%b2%d0%b0-%d0%b7%d0%b0-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b0-%d0%b3%d0%bb%d0%b0%d0%b2%d0%b5%d0%bd-%d1%81%d0%bf%d0%b5%d1%86%d0%b8%d0%b0%d0%bb%d0%b8%d1%81%d1%82-%d0%b4/</link>
@@ -380,28 +402,6 @@
 Адреси: бул. &quot;Джеймс Баучер&quot; № 23. \r\nул.&quot;Якубица&quot; № 2
 Начало: 29.07.2026 г., 11:55:00 ч.
 Очаквано възстановяване: 31.07.2026 г., 11:55:00 ч.</description>
-    </item>
-    <item>
-      <title>Аварийно спиране: зона на спиране-кв.Кръстова вада-ул.Никола Крушкин-Чолака от №10 до №30 иул.Емилиян Станев от №70до №7</title>
-      <link>https://www.sofiyskavoda.bg/water-stops#1416295</link>
-      <guid isPermaLink="false">78b5924afdce</guid>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-      <category>Ремонти</category>
-      <description>Местоположение: зона на спиране-кв.Кръстова вада-ул.Никола Крушкин-Чолака от №10 до №30 иул.Емилиян Станев от №70до №76
-Тип: Аварийно спиране
-Описание: Ремонт на уличен водопровод
-Начало: 28.07.2026…</description>
-    </item>
-    <item>
-      <title>Авария по тока: жк.ХИПОДРУМА, кв. БЕЛИТЕ БРЕЗИ</title>
-      <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF43%7C28.07.2026%2014%3A45%7C%D0%B6%D0%BA.%D0%A5%D0%98%D0%9F%D0%9E%D0%94%D0%A0%D0%A3%D0%9C%D0%90%2C%20%D0%BA%D0%B2.%20%D0%91%D0%95%D0%9B%D0%98%D0%A2%D0%95%20%D0%91%D0%A0%D0%95%D0%97%D0%98</link>
-      <guid isPermaLink="false">7c583152ca27</guid>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-      <category>Ремонти</category>
-      <description>Тип: аварийно прекъсване
-Населено място: жк.ХИПОДРУМА, кв. БЕЛИТЕ БРЕЗИ
-Начало: 28.07.2026 14:45
-Очаквано възстановяване: 28.07.2026 16:45</description>
     </item>
   </channel>
 </rss>

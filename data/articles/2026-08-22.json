@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Авария по тока: ж.к. ЮЖЕН ПАРК",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF42%7C22.08.2026%2006%3A01%7C%D0%B6.%D0%BA.%20%D0%AE%D0%96%D0%95%D0%9D%20%D0%9F%D0%90%D0%A0%D0%9A",
+    "content": "Тип: аварийно прекъсване\nНаселено място: ж.к. ЮЖЕН ПАРК\nНачало: 22.08.2026 06:01\nОчаквано възстановяване: 22.08.2026 08:15",
+    "category": "repairs",
+    "date": "2026-08-22",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "185a3f251edb",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-08-22T04:21:38.684Z"
+  },
+  {
+    "title": "Авария по тока: СТУДЕНТСКИ ГРАД",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF13%7C22.08.2026%2007%3A01%7C%D0%A1%D0%A2%D0%A3%D0%94%D0%95%D0%9D%D0%A2%D0%A1%D0%9A%D0%98%20%D0%93%D0%A0%D0%90%D0%94",
+    "content": "Тип: аварийно прекъсване\nНаселено място: СТУДЕНТСКИ ГРАД\nНачало: 22.08.2026 07:01\nОчаквано възстановяване: 22.08.2026 09:00",
+    "category": "repairs",
+    "date": "2026-08-22",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "fd1b5e473c36",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-08-22T04:21:38.684Z"
+  }
+]
