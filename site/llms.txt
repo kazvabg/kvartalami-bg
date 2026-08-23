@@ -62,7 +62,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (52 items in the last 30 days):
+- Recent headlines (53 items in the last 30 days):
+- Аварийно спиране: Зона на спиране:ж.к. Лозенец  - цул. Милин камък от ул. Крум Попов до бул. Евлоги и Христо Георгиеви
 - Авария по тока: ж.к. ЮЖЕН ПАРК
 - Авария по тока: СТУДЕНТСКИ ГРАД
 - Обява за работа: Главен специалист – деловодство в район „Лозенец“
@@ -72,8 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Планов ремонт на ТР „София Изток“ от 28.08.2026 г. до 13.09.2026 г.
 - Авария по тока: кв. КИНОЦЕНТЪР
 - Авария по тока: кв. БОЯНА
-- Авария по тока: кв. КРЪСТОВА ВАДА
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-08-23.html
 - https://kvartalami.com/lozenets/archive/2026-08-22.html
 - https://kvartalami.com/lozenets/archive/2026-08-21.html
 - https://kvartalami.com/lozenets/archive/2026-08-19.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-08-14.html
 - https://kvartalami.com/lozenets/archive/2026-08-12.html
 - https://kvartalami.com/lozenets/archive/2026-08-11.html
-- https://kvartalami.com/lozenets/archive/2026-08-07.html
 
 ## Sitemap
 
