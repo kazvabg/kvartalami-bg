@@ -36,7 +36,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (20 items in the last 30 days):
+- Recent headlines (21 items in the last 30 days):
+- Информация за ремонтни дейности на трамвайното трасе на бул. „Янко Сакъзов“
 - Авария: Част от Център
 - Авария: Част от Оборище
 - Предстоящо затваряне на ул. „Георги Бенковски“ № 26
@@ -46,8 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария: Част от Оборище
 - Авария: Част от Оборище
 - Авария: Част от Оборище
-- Уведомление за предстоящи затваряния на улица „Васил Априлов“
 - Recent archive:
+- https://kvartalami.com/archive/2026-08-24.html
 - https://kvartalami.com/archive/2026-08-23.html
 - https://kvartalami.com/archive/2026-08-22.html
 - https://kvartalami.com/archive/2026-08-21.html
@@ -57,14 +58,14 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-08-14.html
 - https://kvartalami.com/archive/2026-08-11.html
 - https://kvartalami.com/archive/2026-08-08.html
-- https://kvartalami.com/archive/2026-08-07.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (49 items in the last 30 days):
+- Recent headlines (50 items in the last 30 days):
 - Авария: Част от Лозенец
 - Авария: Част от Лозенец
+- Информация относно проектите за енергийно обновяване на жилищните сгради на ул. „Елин Пелин“ № 18 и № 28
 - Аварийно спиране: Зона на спиране:ж.к. Лозенец  - цул. Милин камък от ул. Крум Попов до бул. Евлоги и Христо Георгиеви
 - Авария по тока: ж.к. ЮЖЕН ПАРК
 - Авария по тока: СТУДЕНТСКИ ГРАД
@@ -72,7 +73,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Планово прекъсване на тока: кв. ПАВЛОВО
 - Заповед № РД91-34/18.08.2026
 - Авария: Част от Лозенец
-- Планов ремонт на ТР „София Изток“ от 28.08.2026 г. до 13.09.2026 г.
 - Recent archive:
 - https://kvartalami.com/lozenets/archive/2026-08-24.html
 - https://kvartalami.com/lozenets/archive/2026-08-23.html
