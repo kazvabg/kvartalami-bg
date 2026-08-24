@@ -5,7 +5,29 @@
     <link>https://kvartalami.com/lozenets</link>
     <description>Хипер-локални новини за район Лозенец</description>
     <language>bg</language>
-    <lastBuildDate>Mon, 24 Aug 2026 04:34:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 10:27:50 GMT</lastBuildDate>
+    <item>
+      <title>Авария: Част от Лозенец</title>
+      <link>https://toplo.bg/accidents-and-maintenance#%D0%A7%D0%B0%D1%81%D1%82%20%D0%BE%D1%82%20%D0%9B%D0%BE%D0%B7%D0%B5%D0%BD%D0%B5%D1%86%7C%D1%83%D0%BB.%D0%91%D1%83%D0%BD%D1%82%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA%20%E2%84%9643-47%5Cr%5Cn%D1%83%D0%BB.%D0%93%D0%BE%D1%80%D1%81%D0%BA%D0%B8%20%D0%BF%D1%8A%D1%82%D0%BD%D0%B8%D0%BA%20%E2%84%9648%5Cr%5Cn</link>
+      <guid isPermaLink="false">ca10a7a5df48</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Ремонти</category>
+      <description>Район: Част от Лозенец
+Адреси: ул.Бунтовник №43-47\r\nул.Горски пътник №48\r\n
+Начало: 24.08.2026 г., 10:40:00 ч.
+Очаквано възстановяване: 26.08.2026 г., 10:40:00 ч.</description>
+    </item>
+    <item>
+      <title>Авария: Част от Лозенец</title>
+      <link>https://toplo.bg/accidents-and-maintenance#%D0%A7%D0%B0%D1%81%D1%82%20%D0%BE%D1%82%20%D0%9B%D0%BE%D0%B7%D0%B5%D0%BD%D0%B5%D1%86%7C%D1%83%D0%BB.%22%D0%A0%D1%83%D1%81%D0%B0%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%20%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B4%22%20%E2%84%967-9%2C%20%E2%84%9611</link>
+      <guid isPermaLink="false">9fd71b7c1e95</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Ремонти</category>
+      <description>Район: Част от Лозенец
+Адреси: ул.&quot;Русалийски проход&quot; №7-9, №11
+Начало: 24.08.2026 г., 10:40:00 ч.
+Очаквано възстановяване: 26.08.2026 г., 10:40:00 ч.</description>
+    </item>
     <item>
       <title>Аварийно спиране: Зона на спиране:ж.к. Лозенец  - цул. Милин камък от ул. Крум Попов до бул. Евлоги и Христо Георгиеви</title>
       <link>https://www.sofiyskavoda.bg/water-stops#1420938</link>
@@ -380,28 +402,6 @@
 Адреси: ул. &quot;Бряст&quot; № 1, 4, 5, 7, 6, 8, 10, 9, 11, 12, 14, 15, 17, 20; ул. &quot;Света гора&quot; № 20; ул. &quot;Кръстьо Сарафов&quot; № 24.
 Начало: 29.07.2026 г., 09:50:00 ч.
 Очаквано…</description>
-    </item>
-    <item>
-      <title>Авария по тока: жк.ЛЮЛИН -III</title>
-      <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF26%7C29.07.2026%2018%3A59%7C%D0%B6%D0%BA.%D0%9B%D0%AE%D0%9B%D0%98%D0%9D%20-III</link>
-      <guid isPermaLink="false">b76ae31ca00b</guid>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
-      <category>Ремонти</category>
-      <description>Тип: аварийно прекъсване
-Населено място: жк.ЛЮЛИН -III
-Начало: 29.07.2026 18:59
-Очаквано възстановяване: 29.07.2026 20:45</description>
-    </item>
-    <item>
-      <title>Авария по тока: жк.ЛЮЛИН -III</title>
-      <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF26%7C29.07.2026%2019%3A45%7C%D0%B6%D0%BA.%D0%9B%D0%AE%D0%9B%D0%98%D0%9D%20-III</link>
-      <guid isPermaLink="false">9706c0873fe2</guid>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
-      <category>Ремонти</category>
-      <description>Тип: аварийно прекъсване
-Населено място: жк.ЛЮЛИН -III
-Начало: 29.07.2026 19:45
-Очаквано възстановяване: 29.07.2026 21:15</description>
     </item>
   </channel>
 </rss>

@@ -1,82 +1,82 @@
 {
   "sofiyska-voda@oborishte": {
-    "lastRunAt": "2026-08-24T04:34:48.229Z",
-    "lastFetched": 1,
-    "lastNonEmptyAt": "2026-08-24T04:34:48.229Z"
+    "lastRunAt": "2026-08-24T10:27:47.619Z",
+    "lastFetched": 4,
+    "lastNonEmptyAt": "2026-08-24T10:27:47.619Z"
   },
   "toplofikacia@oborishte": {
-    "lastRunAt": "2026-08-24T04:34:48.229Z",
-    "lastFetched": 30,
-    "lastNonEmptyAt": "2026-08-24T04:34:48.229Z",
+    "lastRunAt": "2026-08-24T10:27:47.619Z",
+    "lastFetched": 32,
+    "lastNonEmptyAt": "2026-08-24T10:27:47.619Z",
     "lastSavedAt": "2026-08-23T16:12:45.895Z"
   },
   "sofia-municipality@oborishte": {
-    "lastRunAt": "2026-08-24T04:34:48.229Z",
+    "lastRunAt": "2026-08-24T10:27:47.619Z",
     "lastFetched": 10,
-    "lastNonEmptyAt": "2026-08-24T04:34:48.229Z",
+    "lastNonEmptyAt": "2026-08-24T10:27:47.619Z",
     "lastSavedAt": "2026-07-31T11:51:38.865Z"
   },
   "sofia-council@oborishte": {
-    "lastRunAt": "2026-08-24T04:34:48.229Z",
+    "lastRunAt": "2026-08-24T10:27:47.619Z",
     "lastFetched": 6,
-    "lastNonEmptyAt": "2026-08-24T04:34:48.229Z"
+    "lastNonEmptyAt": "2026-08-24T10:27:47.619Z"
   },
   "rayon-oborishte@oborishte": {
-    "lastRunAt": "2026-08-24T04:34:48.229Z",
-    "lastFetched": 9,
+    "lastRunAt": "2026-08-24T10:27:47.619Z",
+    "lastFetched": 0,
     "lastNonEmptyAt": "2026-08-24T04:34:48.229Z",
     "lastSavedAt": "2026-08-21T10:19:45.432Z"
   },
   "erm-zapad@oborishte": {
-    "lastRunAt": "2026-08-24T04:34:48.229Z",
+    "lastRunAt": "2026-08-24T10:27:47.619Z",
     "lastFetched": 0,
     "lastNonEmptyAt": "2026-08-22T04:21:38.683Z",
     "lastSavedAt": "2026-07-24T11:29:54.844Z"
   },
   "sofia-traffic@oborishte": {
-    "lastRunAt": "2026-08-24T04:34:48.229Z",
+    "lastRunAt": "2026-08-24T10:27:47.619Z",
     "lastFetched": 20,
-    "lastNonEmptyAt": "2026-08-24T04:34:48.229Z"
+    "lastNonEmptyAt": "2026-08-24T10:27:47.619Z"
   },
   "sofiyska-voda@lozenets": {
-    "lastRunAt": "2026-08-24T04:34:48.229Z",
-    "lastFetched": 1,
-    "lastNonEmptyAt": "2026-08-24T04:34:48.229Z",
+    "lastRunAt": "2026-08-24T10:27:47.619Z",
+    "lastFetched": 4,
+    "lastNonEmptyAt": "2026-08-24T10:27:47.619Z",
     "lastSavedAt": "2026-08-23T10:13:16.990Z"
   },
   "toplofikacia@lozenets": {
-    "lastRunAt": "2026-08-24T04:34:48.229Z",
-    "lastFetched": 30,
-    "lastNonEmptyAt": "2026-08-24T04:34:48.229Z",
-    "lastSavedAt": "2026-08-17T10:21:36.104Z"
+    "lastRunAt": "2026-08-24T10:27:47.619Z",
+    "lastFetched": 32,
+    "lastNonEmptyAt": "2026-08-24T10:27:47.619Z",
+    "lastSavedAt": "2026-08-24T10:27:47.619Z"
   },
   "erm-zapad@lozenets": {
-    "lastRunAt": "2026-08-24T04:34:48.229Z",
+    "lastRunAt": "2026-08-24T10:27:47.619Z",
     "lastFetched": 0,
     "lastNonEmptyAt": "2026-08-22T04:21:38.683Z",
     "lastSavedAt": "2026-08-22T04:21:38.683Z"
   },
   "sofia-traffic@lozenets": {
-    "lastRunAt": "2026-08-24T04:34:48.229Z",
+    "lastRunAt": "2026-08-24T10:27:47.619Z",
     "lastFetched": 20,
-    "lastNonEmptyAt": "2026-08-24T04:34:48.229Z",
+    "lastNonEmptyAt": "2026-08-24T10:27:47.619Z",
     "lastSavedAt": "2026-08-17T16:15:12.882Z"
   },
   "sofia-municipality@lozenets": {
-    "lastRunAt": "2026-08-24T04:34:48.229Z",
+    "lastRunAt": "2026-08-24T10:27:47.619Z",
     "lastFetched": 10,
-    "lastNonEmptyAt": "2026-08-24T04:34:48.229Z",
+    "lastNonEmptyAt": "2026-08-24T10:27:47.619Z",
     "lastSavedAt": "2026-08-12T10:51:27.283Z"
   },
   "sofia-council@lozenets": {
-    "lastRunAt": "2026-08-24T04:34:48.229Z",
+    "lastRunAt": "2026-08-24T10:27:47.619Z",
     "lastFetched": 6,
-    "lastNonEmptyAt": "2026-08-24T04:34:48.229Z"
+    "lastNonEmptyAt": "2026-08-24T10:27:47.619Z"
   },
   "rayon-lozenets@lozenets": {
-    "lastRunAt": "2026-08-24T04:34:48.229Z",
+    "lastRunAt": "2026-08-24T10:27:47.619Z",
     "lastFetched": 20,
-    "lastNonEmptyAt": "2026-08-24T04:34:48.229Z",
+    "lastNonEmptyAt": "2026-08-24T10:27:47.619Z",
     "lastSavedAt": "2026-08-21T16:19:59.745Z"
   }
 }
