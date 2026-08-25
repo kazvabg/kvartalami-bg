@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Уведомление за предстоящи затваряния на ул. „Бачо Киро“",
+    "url": "https://rayon-oborishte.bg/%d1%83%d0%b2%d0%b5%d0%b4%d0%be%d0%bc%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%be%d1%8f%d1%89%d0%b8-%d0%b7%d0%b0%d1%82%d0%b2%d0%b0%d1%80%d1%8f%d0%bd%d0%b8-205/",
+    "content": "Уважаеми жители и гости на район „Оборище“, Информираме Ви за…",
+    "category": "government",
+    "date": "2026-08-25",
+    "source": "rayon-oborishte",
+    "id": "d323f1a7f029",
+    "district": "oborishte",
+    "sourceName": "Район Оборище",
+    "fetchedAt": "2026-08-25T10:21:23.040Z"
+  },
+  {
+    "title": "Предстоящи ограничения на движението и аварийни ремонти на топлопроводи",
+    "url": "https://rayon-oborishte.bg/22731-2/",
+    "content": "Уважаеми жители и гости на район „Оборище“, Информираме Ви за…",
+    "category": "repairs",
+    "date": "2026-08-24",
+    "source": "rayon-oborishte",
+    "id": "267fcc3f21e4",
+    "district": "oborishte",
+    "sourceName": "Район Оборище",
+    "fetchedAt": "2026-08-25T10:21:23.040Z"
+  },
+  {
+    "title": "Предстоящи строително-монтажни дейности на бул. „Янко Сакъзов“",
+    "url": "https://rayon-oborishte.bg/%d0%bf%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%be%d1%8f%d1%89%d0%b8-%d1%81%d1%82%d1%80%d0%be%d0%b8%d1%82%d0%b5%d0%bb%d0%bd%d0%be-%d0%bc%d0%be%d0%bd%d1%82%d0%b0%d0%b6%d0%bd%d0%b8-%d0%b4%d0%b5%d0%b9%d0%bd/",
+    "content": "Уважаеми жители и гости на район „Оборище“, Информираме Ви, че…",
+    "category": "government",
+    "date": "2026-08-24",
+    "source": "rayon-oborishte",
+    "id": "8df016ccdb88",
+    "district": "oborishte",
+    "sourceName": "Район Оборище",
+    "fetchedAt": "2026-08-25T10:21:23.040Z"
+  },
+  {
+    "title": "Предстоящи затваряния на улица „Георги Бенковски“ № 26",
+    "url": "https://rayon-oborishte.bg/%d0%bf%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%be%d1%8f%d1%89%d0%b8-%d0%b7%d0%b0%d1%82%d0%b2%d0%b0%d1%80%d1%8f%d0%bd%d0%b8%d1%8f-%d0%bd%d0%b0-%d1%83%d0%bb%d0%b8%d1%86%d0%b0-%d0%b3%d0%b5%d0%be%d1%80/",
+    "content": "Уважаеми жители и гости на район „Оборище“, На 27.08.2026 г….",
+    "category": "government",
+    "date": "2026-08-24",
+    "source": "rayon-oborishte",
+    "id": "5a7d7b7af8b9",
+    "district": "oborishte",
+    "sourceName": "Район Оборище",
+    "fetchedAt": "2026-08-25T10:21:23.040Z"
+  },
+  {
+    "title": "Планово прекъсване на тока: жк.ИЗТОК",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF11%7C25.08.2026%2010%3A37%7C%D0%B6%D0%BA.%D0%98%D0%97%D0%A2%D0%9E%D0%9A",
+    "content": "Тип: планово прекъсване\nНаселено място: жк.ИЗТОК\nНачало: 25.08.2026 10:37\nОчаквано възстановяване: 25.08.2026 15:00",
+    "category": "repairs",
+    "date": "2026-08-25",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "4750c7e03b70",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-08-25T10:21:23.040Z"
+  },
+  {
+    "title": "Обява за провеждане на конкурс за приемане на военна служба във формирования от състава на Командване за логистична поддръжка",
+    "url": "https://lozenets.sofia.bg/%d0%be%d0%b1%d1%8f%d0%b2%d0%b0-%d0%b7%d0%b0-%d0%bf%d1%80%d0%be%d0%b2%d0%b5%d0%b6%d0%b4%d0%b0%d0%bd%d0%b5-%d0%bd%d0%b0-%d0%ba%d0%be%d0%bd%d0%ba%d1%83%d1%80%d1%81-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b8-13/",
+    "content": "Обява за провеждане на конкурс за приемане на военна служба във формирования от състава на Командване за логистична поддръжка",
+    "category": "events",
+    "date": "2026-08-25",
+    "source": "rayon-lozenets",
+    "id": "e4a739f0c077",
+    "district": "lozenets",
+    "sourceName": "Район Лозенец",
+    "fetchedAt": "2026-08-25T10:21:23.041Z"
+  }
+]

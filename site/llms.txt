@@ -36,18 +36,19 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (21 items in the last 30 days):
+- Recent headlines (25 items in the last 30 days):
+- Уведомление за предстоящи затваряния на ул. „Бачо Киро“
 - Информация за ремонтни дейности на трамвайното трасе на бул. „Янко Сакъзов“
+- Предстоящи ограничения на движението и аварийни ремонти на топлопроводи
+- Предстоящи строително-монтажни дейности на бул. „Янко Сакъзов“
+- Предстоящи затваряния на улица „Георги Бенковски“ № 26
 - Авария: Част от Център
 - Авария: Част от Оборище
 - Предстоящо затваряне на ул. „Георги Бенковски“ № 26
 - Предстоящо временно затваряне на ул.„Богдан“ №10
 - Авария: Част от Оборище
-- Престоящи аварийни ремонти на топлопроводи
-- Авария: Част от Оборище
-- Авария: Част от Оборище
-- Авария: Част от Оборище
 - Recent archive:
+- https://kvartalami.com/archive/2026-08-25.html
 - https://kvartalami.com/archive/2026-08-24.html
 - https://kvartalami.com/archive/2026-08-23.html
 - https://kvartalami.com/archive/2026-08-22.html
@@ -57,12 +58,13 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-08-17.html
 - https://kvartalami.com/archive/2026-08-14.html
 - https://kvartalami.com/archive/2026-08-11.html
-- https://kvartalami.com/archive/2026-08-08.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (50 items in the last 30 days):
+- Recent headlines (52 items in the last 30 days):
+- Планово прекъсване на тока: жк.ИЗТОК
+- Обява за провеждане на конкурс за приемане на военна служба във формирования от състава на Командване за логистична…
 - Авария: Част от Лозенец
 - Авария: Част от Лозенец
 - Информация относно проектите за енергийно обновяване на жилищните сгради на ул. „Елин Пелин“ № 18 и № 28
@@ -71,9 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария по тока: СТУДЕНТСКИ ГРАД
 - Обява за работа: Главен специалист – деловодство в район „Лозенец“
 - Планово прекъсване на тока: кв. ПАВЛОВО
-- Заповед № РД91-34/18.08.2026
-- Авария: Част от Лозенец
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-08-25.html
 - https://kvartalami.com/lozenets/archive/2026-08-24.html
 - https://kvartalami.com/lozenets/archive/2026-08-23.html
 - https://kvartalami.com/lozenets/archive/2026-08-22.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-08-16.html
 - https://kvartalami.com/lozenets/archive/2026-08-15.html
 - https://kvartalami.com/lozenets/archive/2026-08-14.html
-- https://kvartalami.com/lozenets/archive/2026-08-12.html
 
 ## Sitemap
 
