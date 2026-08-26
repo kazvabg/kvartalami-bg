@@ -36,7 +36,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (25 items in the last 30 days):
+- Recent headlines (26 items in the last 30 days):
+- Планово прекъсване на тока: ПОДУЯНЕ ЦЕНТЪР
 - Уведомление за предстоящи затваряния на ул. „Бачо Киро“
 - Информация за ремонтни дейности на трамвайното трасе на бул. „Янко Сакъзов“
 - Предстоящи ограничения на движението и аварийни ремонти на топлопроводи
@@ -46,8 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария: Част от Оборище
 - Предстоящо затваряне на ул. „Георги Бенковски“ № 26
 - Предстоящо временно затваряне на ул.„Богдан“ №10
-- Авария: Част от Оборище
 - Recent archive:
+- https://kvartalami.com/archive/2026-08-26.html
 - https://kvartalami.com/archive/2026-08-25.html
 - https://kvartalami.com/archive/2026-08-24.html
 - https://kvartalami.com/archive/2026-08-23.html
@@ -57,7 +58,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-08-18.html
 - https://kvartalami.com/archive/2026-08-17.html
 - https://kvartalami.com/archive/2026-08-14.html
-- https://kvartalami.com/archive/2026-08-11.html
 
 ### Район Лозенец
 

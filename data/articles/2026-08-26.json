@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Планово прекъсване на тока: ПОДУЯНЕ ЦЕНТЪР",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF36%7C26.08.2026%2013%3A21%7C%D0%9F%D0%9E%D0%94%D0%A3%D0%AF%D0%9D%D0%95%20%D0%A6%D0%95%D0%9D%D0%A2%D0%AA%D0%A0",
+    "content": "Тип: планово прекъсване\nНаселено място: ПОДУЯНЕ ЦЕНТЪР\nНачало: 26.08.2026 13:21\nОчаквано възстановяване: 26.08.2026 16:15",
+    "category": "repairs",
+    "date": "2026-08-26",
+    "source": "erm-zapad",
+    "districts": [
+      "oborishte"
+    ],
+    "id": "07dff79df85e",
+    "district": "oborishte",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-08-26T10:24:29.526Z"
+  }
+]
