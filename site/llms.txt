@@ -62,7 +62,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (48 items in the last 30 days):
+- Recent headlines (42 items in the last 30 days):
 - Авария: Част от Лозенец
 - Авария: Хладилника
 - Планово прекъсване на тока: жк.ИЗТОК
