@@ -653,5 +653,20 @@
     "id": "3cf8154f6d0f",
     "district": "oborishte",
     "addedAt": "2026-08-29T10:34:39.778Z"
+  },
+  {
+    "id": "00dbe41958bd",
+    "district": "lozenets",
+    "addedAt": "2026-08-30T14:34:27.955Z"
+  },
+  {
+    "id": "3b118778695f",
+    "district": "lozenets",
+    "addedAt": "2026-08-30T14:34:27.955Z"
+  },
+  {
+    "id": "ad5d5761972f",
+    "district": "lozenets",
+    "addedAt": "2026-08-30T14:34:27.955Z"
   }
 ]

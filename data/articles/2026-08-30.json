@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Авария по тока: жк.БОРОВО, жк.КРАСНО СЕЛО",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF43%7C30.08.2026%2016%3A59%7C%D0%B6%D0%BA.%D0%91%D0%9E%D0%A0%D0%9E%D0%92%D0%9E%2C%20%D0%B6%D0%BA.%D0%9A%D0%A0%D0%90%D0%A1%D0%9D%D0%9E%20%D0%A1%D0%95%D0%9B%D0%9E",
+    "content": "Тип: аварийно прекъсване\nНаселено място: жк.БОРОВО, жк.КРАСНО СЕЛО\nНачало: 30.08.2026 16:59\nОчаквано възстановяване: 30.08.2026 17:45",
+    "category": "repairs",
+    "date": "2026-08-30",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "00dbe41958bd",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-08-30T14:34:27.956Z"
+  },
+  {
+    "title": "Авария по тока: жк.БОРОВО",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF43%7C30.08.2026%2016%3A59%7C%D0%B6%D0%BA.%D0%91%D0%9E%D0%A0%D0%9E%D0%92%D0%9E",
+    "content": "Тип: аварийно прекъсване\nНаселено място: жк.БОРОВО\nНачало: 30.08.2026 16:59\nОчаквано възстановяване: 30.08.2026 17:45",
+    "category": "repairs",
+    "date": "2026-08-30",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "3b118778695f",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-08-30T14:34:27.956Z"
+  },
+  {
+    "title": "Авария по тока: жк.КРАСНО СЕЛО",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF43%7C30.08.2026%2016%3A59%7C%D0%B6%D0%BA.%D0%9A%D0%A0%D0%90%D0%A1%D0%9D%D0%9E%20%D0%A1%D0%95%D0%9B%D0%9E",
+    "content": "Тип: аварийно прекъсване\nНаселено място: жк.КРАСНО СЕЛО\nНачало: 30.08.2026 16:59\nОчаквано възстановяване: 30.08.2026 17:45",
+    "category": "repairs",
+    "date": "2026-08-30",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "ad5d5761972f",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-08-30T14:34:27.956Z"
+  }
+]
