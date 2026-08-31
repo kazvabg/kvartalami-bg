@@ -62,7 +62,10 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (43 items in the last 30 days):
+- Recent headlines (46 items in the last 30 days):
+- Обява за провеждане на кокурс за заемане на 220 войнишки длъжности във формирования от състава на Сухопътни войски
+- Обява за провеждане на конкурс за заемане на тридест и пет длъжности за войници във в.ф.54 800 – Национална гвардейска…
+- Обява за провеждане на конкурс за войнишки длъжности във военни формирования
 - Авария по тока: жк.БОРОВО, жк.КРАСНО СЕЛО
 - Авария по тока: жк.БОРОВО
 - Авария по тока: жк.КРАСНО СЕЛО
@@ -70,10 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария: Хладилника
 - Планово прекъсване на тока: жк.ИЗТОК
 - Обява за провеждане на конкурс за приемане на военна служба във формирования от състава на Командване за логистична…
-- Авария: Част от Лозенец
-- Авария: Част от Лозенец
-- Информация относно проектите за енергийно обновяване на жилищните сгради на ул. „Елин Пелин“ № 18 и № 28
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-08-31.html
 - https://kvartalami.com/lozenets/archive/2026-08-30.html
 - https://kvartalami.com/lozenets/archive/2026-08-28.html
 - https://kvartalami.com/lozenets/archive/2026-08-25.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-08-21.html
 - https://kvartalami.com/lozenets/archive/2026-08-19.html
 - https://kvartalami.com/lozenets/archive/2026-08-17.html
-- https://kvartalami.com/lozenets/archive/2026-08-16.html
 
 ## Sitemap
 

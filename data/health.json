@@ -1,82 +1,82 @@
 {
   "sofiyska-voda@oborishte": {
-    "lastRunAt": "2026-08-31T10:15:25.569Z",
-    "lastFetched": 5,
-    "lastNonEmptyAt": "2026-08-31T10:15:25.569Z"
+    "lastRunAt": "2026-08-31T21:12:41.897Z",
+    "lastFetched": 7,
+    "lastNonEmptyAt": "2026-08-31T21:12:41.897Z"
   },
   "toplofikacia@oborishte": {
-    "lastRunAt": "2026-08-31T10:15:25.569Z",
-    "lastFetched": 45,
-    "lastNonEmptyAt": "2026-08-31T10:15:25.569Z",
+    "lastRunAt": "2026-08-31T21:12:41.897Z",
+    "lastFetched": 43,
+    "lastNonEmptyAt": "2026-08-31T21:12:41.897Z",
     "lastSavedAt": "2026-08-29T10:34:39.778Z"
   },
   "sofia-municipality@oborishte": {
-    "lastRunAt": "2026-08-31T10:15:25.569Z",
+    "lastRunAt": "2026-08-31T21:12:41.897Z",
     "lastFetched": 10,
-    "lastNonEmptyAt": "2026-08-31T10:15:25.569Z",
+    "lastNonEmptyAt": "2026-08-31T21:12:41.897Z",
     "lastSavedAt": "2026-07-31T11:51:38.865Z"
   },
   "sofia-council@oborishte": {
-    "lastRunAt": "2026-08-31T10:15:25.569Z",
+    "lastRunAt": "2026-08-31T21:12:41.897Z",
     "lastFetched": 6,
-    "lastNonEmptyAt": "2026-08-31T10:15:25.569Z"
+    "lastNonEmptyAt": "2026-08-31T21:12:41.897Z"
   },
   "rayon-oborishte@oborishte": {
-    "lastRunAt": "2026-08-31T10:15:25.569Z",
+    "lastRunAt": "2026-08-31T21:12:41.897Z",
     "lastFetched": 9,
-    "lastNonEmptyAt": "2026-08-31T10:15:25.569Z",
+    "lastNonEmptyAt": "2026-08-31T21:12:41.897Z",
     "lastSavedAt": "2026-08-31T10:15:25.569Z"
   },
   "erm-zapad@oborishte": {
-    "lastRunAt": "2026-08-31T10:15:25.569Z",
+    "lastRunAt": "2026-08-31T21:12:41.897Z",
     "lastFetched": 0,
     "lastNonEmptyAt": "2026-08-30T14:34:27.955Z",
     "lastSavedAt": "2026-08-26T10:24:29.526Z"
   },
   "sofia-traffic@oborishte": {
-    "lastRunAt": "2026-08-31T10:15:25.569Z",
+    "lastRunAt": "2026-08-31T21:12:41.897Z",
     "lastFetched": 20,
-    "lastNonEmptyAt": "2026-08-31T10:15:25.569Z"
+    "lastNonEmptyAt": "2026-08-31T21:12:41.897Z"
   },
   "sofiyska-voda@lozenets": {
-    "lastRunAt": "2026-08-31T10:15:25.569Z",
-    "lastFetched": 5,
-    "lastNonEmptyAt": "2026-08-31T10:15:25.569Z",
+    "lastRunAt": "2026-08-31T21:12:41.897Z",
+    "lastFetched": 7,
+    "lastNonEmptyAt": "2026-08-31T21:12:41.897Z",
     "lastSavedAt": "2026-08-23T10:13:16.990Z"
   },
   "toplofikacia@lozenets": {
-    "lastRunAt": "2026-08-31T10:15:25.569Z",
-    "lastFetched": 45,
-    "lastNonEmptyAt": "2026-08-31T10:15:25.569Z",
+    "lastRunAt": "2026-08-31T21:12:41.897Z",
+    "lastFetched": 43,
+    "lastNonEmptyAt": "2026-08-31T21:12:41.897Z",
     "lastSavedAt": "2026-08-28T00:40:29.202Z"
   },
   "erm-zapad@lozenets": {
-    "lastRunAt": "2026-08-31T10:15:25.569Z",
+    "lastRunAt": "2026-08-31T21:12:41.897Z",
     "lastFetched": 0,
     "lastNonEmptyAt": "2026-08-30T14:34:27.955Z",
     "lastSavedAt": "2026-08-30T14:34:27.955Z"
   },
   "sofia-traffic@lozenets": {
-    "lastRunAt": "2026-08-31T10:15:25.569Z",
+    "lastRunAt": "2026-08-31T21:12:41.897Z",
     "lastFetched": 20,
-    "lastNonEmptyAt": "2026-08-31T10:15:25.569Z",
+    "lastNonEmptyAt": "2026-08-31T21:12:41.897Z",
     "lastSavedAt": "2026-08-17T16:15:12.882Z"
   },
   "sofia-municipality@lozenets": {
-    "lastRunAt": "2026-08-31T10:15:25.569Z",
+    "lastRunAt": "2026-08-31T21:12:41.897Z",
     "lastFetched": 10,
-    "lastNonEmptyAt": "2026-08-31T10:15:25.569Z",
+    "lastNonEmptyAt": "2026-08-31T21:12:41.897Z",
     "lastSavedAt": "2026-08-12T10:51:27.283Z"
   },
   "sofia-council@lozenets": {
-    "lastRunAt": "2026-08-31T10:15:25.569Z",
+    "lastRunAt": "2026-08-31T21:12:41.897Z",
     "lastFetched": 6,
-    "lastNonEmptyAt": "2026-08-31T10:15:25.569Z"
+    "lastNonEmptyAt": "2026-08-31T21:12:41.897Z"
   },
   "rayon-lozenets@lozenets": {
-    "lastRunAt": "2026-08-31T10:15:25.569Z",
+    "lastRunAt": "2026-08-31T21:12:41.897Z",
     "lastFetched": 20,
-    "lastNonEmptyAt": "2026-08-31T10:15:25.569Z",
-    "lastSavedAt": "2026-08-25T10:21:23.039Z"
+    "lastNonEmptyAt": "2026-08-31T21:12:41.897Z",
+    "lastSavedAt": "2026-08-31T21:12:41.897Z"
   }
 }
