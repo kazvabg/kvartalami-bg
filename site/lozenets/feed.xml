@@ -5,7 +5,18 @@
     <link>https://kvartalami.com/lozenets</link>
     <description>Хипер-локални новини за район Лозенец</description>
     <language>bg</language>
-    <lastBuildDate>Mon, 31 Aug 2026 21:12:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 09:00:21 GMT</lastBuildDate>
+    <item>
+      <title>Планово прекъсване на тока: кв. ДРАГАЛЕВЦИ</title>
+      <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF44%7C01.09.2026%2010%3A10%7C%D0%BA%D0%B2.%20%D0%94%D0%A0%D0%90%D0%93%D0%90%D0%9B%D0%95%D0%92%D0%A6%D0%98</link>
+      <guid isPermaLink="false">229b77f3e71c</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Ремонти</category>
+      <description>Тип: планово прекъсване
+Населено място: кв. ДРАГАЛЕВЦИ
+Начало: 01.09.2026 10:10
+Очаквано възстановяване: 01.09.2026 12:30</description>
+    </item>
     <item>
       <title>Обява за провеждане на кокурс за заемане на 220 войнишки длъжности във формирования от състава на Сухопътни войски</title>
       <link>https://lozenets.sofia.bg/%d0%be%d0%b1%d1%8f%d0%b2%d0%b0-%d0%b7%d0%b0-%d0%bf%d1%80%d0%be%d0%b2%d0%b5%d0%b6%d0%b4%d0%b0%d0%bd%d0%b5-%d0%bd%d0%b0-%d0%ba%d0%be%d0%ba%d1%83%d1%80%d1%81-%d0%b7%d0%b0-%d0%b7%d0%b0%d0%b5%d0%bc%d0%b0/</link>
@@ -394,17 +405,6 @@
 Описание: Реконструкция на уличен водопровод
 Начало: 6.08.2026 г., 09:30 ч.
 Край:…</description>
-    </item>
-    <item>
-      <title>Авария по тока: жк.СТРЕЛБИЩЕ</title>
-      <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF42%7C05.08.2026%2014%3A35%7C%D0%B6%D0%BA.%D0%A1%D0%A2%D0%A0%D0%95%D0%9B%D0%91%D0%98%D0%A9%D0%95</link>
-      <guid isPermaLink="false">6436beb3008e</guid>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
-      <category>Ремонти</category>
-      <description>Тип: аварийно прекъсване
-Населено място: жк.СТРЕЛБИЩЕ
-Начало: 05.08.2026 14:35
-Очаквано възстановяване: 05.08.2026 16:30</description>
     </item>
   </channel>
 </rss>

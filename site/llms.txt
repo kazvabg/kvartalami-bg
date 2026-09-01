@@ -36,18 +36,19 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (24 items in the last 30 days):
+- Recent headlines (26 items in the last 30 days):
+- Доброволци обединиха усилия за по-чист район „Оборище“
 - Младежи от стажантската програма на А1 организираха почистване на район „Оборище“
 - За Деня на Съединението – тематични турове и интерактивен разказ за ролята на София в НВИМ
+- Предстоящи затваряния на бул.„Ситняково“ за строително-монтажни дейности
 - Авария: Част от Оборище
 - Затваряне на ул.„Оборище“ в участъка от ул.„19-ти февруари“ до бул.„Васил Левски“
 - Планово прекъсване на тока: ПОДУЯНЕ ЦЕНТЪР
 - Уведомление за предстоящи затваряния на ул. „Бачо Киро“
 - Информация за ремонтни дейности на трамвайното трасе на бул. „Янко Сакъзов“
 - Предстоящи ограничения на движението и аварийни ремонти на топлопроводи
-- Предстоящи строително-монтажни дейности на бул. „Янко Сакъзов“
-- Предстоящи затваряния на улица „Георги Бенковски“ № 26
 - Recent archive:
+- https://kvartalami.com/archive/2026-09-01.html
 - https://kvartalami.com/archive/2026-08-31.html
 - https://kvartalami.com/archive/2026-08-28.html
 - https://kvartalami.com/archive/2026-08-27.html
@@ -57,12 +58,12 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-08-23.html
 - https://kvartalami.com/archive/2026-08-22.html
 - https://kvartalami.com/archive/2026-08-21.html
-- https://kvartalami.com/archive/2026-08-19.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (46 items in the last 30 days):
+- Recent headlines (47 items in the last 30 days):
+- Планово прекъсване на тока: кв. ДРАГАЛЕВЦИ
 - Обява за провеждане на кокурс за заемане на 220 войнишки длъжности във формирования от състава на Сухопътни войски
 - Обява за провеждане на конкурс за заемане на тридест и пет длъжности за войници във в.ф.54 800 – Национална гвардейска…
 - Обява за провеждане на конкурс за войнишки длъжности във военни формирования
@@ -72,8 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария: Част от Лозенец
 - Авария: Хладилника
 - Планово прекъсване на тока: жк.ИЗТОК
-- Обява за провеждане на конкурс за приемане на военна служба във формирования от състава на Командване за логистична…
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-09-01.html
 - https://kvartalami.com/lozenets/archive/2026-08-31.html
 - https://kvartalami.com/lozenets/archive/2026-08-30.html
 - https://kvartalami.com/lozenets/archive/2026-08-28.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-08-22.html
 - https://kvartalami.com/lozenets/archive/2026-08-21.html
 - https://kvartalami.com/lozenets/archive/2026-08-19.html
-- https://kvartalami.com/lozenets/archive/2026-08-17.html
 
 ## Sitemap
 
