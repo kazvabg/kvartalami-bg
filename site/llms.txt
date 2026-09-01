@@ -36,8 +36,9 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (26 items in the last 30 days):
+- Recent headlines (27 items in the last 30 days):
 - Доброволци обединиха усилия за по-чист район „Оборище“
+- Авария по тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
 - Младежи от стажантската програма на А1 организираха почистване на район „Оборище“
 - За Деня на Съединението – тематични турове и интерактивен разказ за ролята на София в НВИМ
 - Предстоящи затваряния на бул.„Ситняково“ за строително-монтажни дейности
@@ -46,7 +47,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Планово прекъсване на тока: ПОДУЯНЕ ЦЕНТЪР
 - Уведомление за предстоящи затваряния на ул. „Бачо Киро“
 - Информация за ремонтни дейности на трамвайното трасе на бул. „Янко Сакъзов“
-- Предстоящи ограничения на движението и аварийни ремонти на топлопроводи
 - Recent archive:
 - https://kvartalami.com/archive/2026-09-01.html
 - https://kvartalami.com/archive/2026-08-31.html
@@ -62,8 +62,9 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (47 items in the last 30 days):
+- Recent headlines (48 items in the last 30 days):
 - Планово прекъсване на тока: кв. ДРАГАЛЕВЦИ
+- ДГ №175 „Слънчеви лъчи“ обявява позиция за медицинска сестра в яслена група
 - Обява за провеждане на кокурс за заемане на 220 войнишки длъжности във формирования от състава на Сухопътни войски
 - Обява за провеждане на конкурс за заемане на тридест и пет длъжности за войници във в.ф.54 800 – Национална гвардейска…
 - Обява за провеждане на конкурс за войнишки длъжности във военни формирования
@@ -72,7 +73,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария по тока: жк.КРАСНО СЕЛО
 - Авария: Част от Лозенец
 - Авария: Хладилника
-- Планово прекъсване на тока: жк.ИЗТОК
 - Recent archive:
 - https://kvartalami.com/lozenets/archive/2026-09-01.html
 - https://kvartalami.com/lozenets/archive/2026-08-31.html
