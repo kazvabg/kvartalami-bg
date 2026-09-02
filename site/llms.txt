@@ -36,7 +36,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (27 items in the last 30 days):
+- Recent headlines (28 items in the last 30 days):
+- Спортни занимания със свободен достъп в шест парка на София
 - Доброволци обединиха усилия за по-чист район „Оборище“
 - Авария по тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
 - Младежи от стажантската програма на А1 организираха почистване на район „Оборище“
@@ -46,8 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Затваряне на ул.„Оборище“ в участъка от ул.„19-ти февруари“ до бул.„Васил Левски“
 - Планово прекъсване на тока: ПОДУЯНЕ ЦЕНТЪР
 - Уведомление за предстоящи затваряния на ул. „Бачо Киро“
-- Информация за ремонтни дейности на трамвайното трасе на бул. „Янко Сакъзов“
 - Recent archive:
+- https://kvartalami.com/archive/2026-09-02.html
 - https://kvartalami.com/archive/2026-09-01.html
 - https://kvartalami.com/archive/2026-08-31.html
 - https://kvartalami.com/archive/2026-08-28.html
@@ -57,12 +58,12 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-08-24.html
 - https://kvartalami.com/archive/2026-08-23.html
 - https://kvartalami.com/archive/2026-08-22.html
-- https://kvartalami.com/archive/2026-08-21.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (48 items in the last 30 days):
+- Recent headlines (49 items in the last 30 days):
+- Уведомление за повишен шум
 - Планово прекъсване на тока: кв. ДРАГАЛЕВЦИ
 - ДГ №175 „Слънчеви лъчи“ обявява позиция за медицинска сестра в яслена група
 - Обява за провеждане на кокурс за заемане на 220 войнишки длъжности във формирования от състава на Сухопътни войски
@@ -72,8 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария по тока: жк.БОРОВО
 - Авария по тока: жк.КРАСНО СЕЛО
 - Авария: Част от Лозенец
-- Авария: Хладилника
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-09-02.html
 - https://kvartalami.com/lozenets/archive/2026-09-01.html
 - https://kvartalami.com/lozenets/archive/2026-08-31.html
 - https://kvartalami.com/lozenets/archive/2026-08-30.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-08-23.html
 - https://kvartalami.com/lozenets/archive/2026-08-22.html
 - https://kvartalami.com/lozenets/archive/2026-08-21.html
-- https://kvartalami.com/lozenets/archive/2026-08-19.html
 
 ## Sitemap
 
