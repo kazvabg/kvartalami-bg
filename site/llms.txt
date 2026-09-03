@@ -36,7 +36,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (28 items in the last 30 days):
+- Recent headlines (29 items in the last 30 days):
+- Авария: Част от Оборище
 - Спортни занимания със свободен достъп в шест парка на София
 - Доброволци обединиха усилия за по-чист район „Оборище“
 - Авария по тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
@@ -46,8 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария: Част от Оборище
 - Затваряне на ул.„Оборище“ в участъка от ул.„19-ти февруари“ до бул.„Васил Левски“
 - Планово прекъсване на тока: ПОДУЯНЕ ЦЕНТЪР
-- Уведомление за предстоящи затваряния на ул. „Бачо Киро“
 - Recent archive:
+- https://kvartalami.com/archive/2026-09-03.html
 - https://kvartalami.com/archive/2026-09-02.html
 - https://kvartalami.com/archive/2026-09-01.html
 - https://kvartalami.com/archive/2026-08-31.html
@@ -57,7 +58,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-08-25.html
 - https://kvartalami.com/archive/2026-08-24.html
 - https://kvartalami.com/archive/2026-08-23.html
-- https://kvartalami.com/archive/2026-08-22.html
 
 ### Район Лозенец
 
