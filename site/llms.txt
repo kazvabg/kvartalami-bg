@@ -62,7 +62,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (49 items in the last 30 days):
+- Recent headlines (47 items in the last 30 days):
 - Уведомление за повишен шум
 - Планово прекъсване на тока: кв. ДРАГАЛЕВЦИ
 - ДГ №175 „Слънчеви лъчи“ обявява позиция за медицинска сестра в яслена група
