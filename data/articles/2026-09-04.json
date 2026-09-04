@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Авария по тока: кв. КРЪСТОВА ВАДА",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF42%7C04.09.2026%2011%3A00%7C%D0%BA%D0%B2.%20%D0%9A%D0%A0%D0%AA%D0%A1%D0%A2%D0%9E%D0%92%D0%90%20%D0%92%D0%90%D0%94%D0%90",
+    "content": "Тип: аварийно прекъсване\nНаселено място: кв. КРЪСТОВА ВАДА\nНачало: 04.09.2026 11:00\nОчаквано възстановяване: 04.09.2026 13:00",
+    "category": "repairs",
+    "date": "2026-09-04",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "867d283c3042",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-09-04T08:20:58.191Z"
+  }
+]

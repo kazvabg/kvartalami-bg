@@ -62,7 +62,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (47 items in the last 30 days):
+- Recent headlines (46 items in the last 30 days):
+- Авария по тока: кв. КРЪСТОВА ВАДА
 - Уведомление за повишен шум
 - Планово прекъсване на тока: кв. ДРАГАЛЕВЦИ
 - ДГ №175 „Слънчеви лъчи“ обявява позиция за медицинска сестра в яслена група
@@ -72,8 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария по тока: жк.БОРОВО, жк.КРАСНО СЕЛО
 - Авария по тока: жк.БОРОВО
 - Авария по тока: жк.КРАСНО СЕЛО
-- Авария: Част от Лозенец
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-09-04.html
 - https://kvartalami.com/lozenets/archive/2026-09-02.html
 - https://kvartalami.com/lozenets/archive/2026-09-01.html
 - https://kvartalami.com/lozenets/archive/2026-08-31.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-08-24.html
 - https://kvartalami.com/lozenets/archive/2026-08-23.html
 - https://kvartalami.com/lozenets/archive/2026-08-22.html
-- https://kvartalami.com/lozenets/archive/2026-08-21.html
 
 ## Sitemap
 
