@@ -62,7 +62,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (46 items in the last 30 days):
+- Recent headlines (43 items in the last 30 days):
 - Авария по тока: кв. КРЪСТОВА ВАДА
 - Уведомление за повишен шум
 - Планово прекъсване на тока: кв. ДРАГАЛЕВЦИ
