@@ -28,5 +28,17 @@
     "district": "lozenets",
     "sourceName": "ЕРМ Запад",
     "fetchedAt": "2026-09-08T08:25:31.643Z"
+  },
+  {
+    "title": "Адреси на места за обявяване на избирателни списъци",
+    "url": "https://rayon-oborishte.bg/22835-2/",
+    "content": "Уважаеми граждани, предоставяме на Вашето внимание  адреси на места за…",
+    "category": "government",
+    "date": "2026-09-08",
+    "source": "rayon-oborishte",
+    "id": "a2dc8e7b7bba",
+    "district": "oborishte",
+    "sourceName": "Район Оборище",
+    "fetchedAt": "2026-09-08T13:59:24.883Z"
   }
 ]
