@@ -36,7 +36,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (27 items in the last 30 days):
+- Recent headlines (26 items in the last 30 days):
 - Авария: Част от Оборище
 - Спортни занимания със свободен достъп в шест парка на София
 - Доброволци обединиха усилия за по-чист район „Оборище“
@@ -62,7 +62,9 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (42 items in the last 30 days):
+- Recent headlines (44 items in the last 30 days):
+- Планово прекъсване на тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ, кв. МАНАСТ.ЛИВАДИ-ЗАПАД
+- Планово прекъсване на тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ
 - Аварийно спиране: Зона на спиране-ж.к.Лозенец Ул.Драгалевска 23,бул.Черни връх 41
 - Авария по тока: кв. КРЪСТОВА ВАДА
 - Уведомление за повишен шум
@@ -71,9 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Обява за провеждане на кокурс за заемане на 220 войнишки длъжности във формирования от състава на Сухопътни войски
 - Обява за провеждане на конкурс за заемане на тридест и пет длъжности за войници във в.ф.54 800 – Национална гвардейска…
 - Обява за провеждане на конкурс за войнишки длъжности във военни формирования
-- Авария по тока: жк.БОРОВО, жк.КРАСНО СЕЛО
-- Авария по тока: жк.БОРОВО
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-09-08.html
 - https://kvartalami.com/lozenets/archive/2026-09-07.html
 - https://kvartalami.com/lozenets/archive/2026-09-04.html
 - https://kvartalami.com/lozenets/archive/2026-09-02.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-08-28.html
 - https://kvartalami.com/lozenets/archive/2026-08-25.html
 - https://kvartalami.com/lozenets/archive/2026-08-24.html
-- https://kvartalami.com/lozenets/archive/2026-08-23.html
 
 ## Sitemap
 
