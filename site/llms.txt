@@ -36,19 +36,21 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (27 items in the last 30 days):
+- Recent headlines (30 items in the last 30 days):
+- Уведомление за временно затваряне на ул. „Георги Бенковски“
 - Адреси на места за обявяване на избирателни списъци
+- Уведомление за предстоящ ремонт на ул. „Черковна“
 - Авария: Част от Оборище
+- Временни затваряния на ул. „Черномен“ № 6 и  ул. „Св. Св. Кирил и Методий“ № 31
 - Спортни занимания със свободен достъп в шест парка на София
 - Доброволци обединиха усилия за по-чист район „Оборище“
 - Авария по тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
 - Младежи от стажантската програма на А1 организираха почистване на район „Оборище“
 - За Деня на Съединението – тематични турове и интерактивен разказ за ролята на София в НВИМ
-- Предстоящи затваряния на бул.„Ситняково“ за строително-монтажни дейности
-- Авария: Част от Оборище
-- Затваряне на ул.„Оборище“ в участъка от ул.„19-ти февруари“ до бул.„Васил Левски“
 - Recent archive:
+- https://kvartalami.com/archive/2026-09-09.html
 - https://kvartalami.com/archive/2026-09-08.html
+- https://kvartalami.com/archive/2026-09-04.html
 - https://kvartalami.com/archive/2026-09-03.html
 - https://kvartalami.com/archive/2026-09-02.html
 - https://kvartalami.com/archive/2026-09-01.html
@@ -56,8 +58,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-08-28.html
 - https://kvartalami.com/archive/2026-08-27.html
 - https://kvartalami.com/archive/2026-08-26.html
-- https://kvartalami.com/archive/2026-08-25.html
-- https://kvartalami.com/archive/2026-08-24.html
 
 ### Район Лозенец
 
