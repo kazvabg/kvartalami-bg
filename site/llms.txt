@@ -62,7 +62,10 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (44 items in the last 30 days):
+- Recent headlines (47 items in the last 30 days):
+- Авария по тока: ПАРК ВИТОША - общ.Витоша, кв. ДРАГАЛЕВЦИ
+- Авария по тока: кв. ДРАГАЛЕВЦИ
+- Авария по тока: кв. ГАРА ИСКЪР
 - Планово прекъсване на тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ, кв. МАНАСТ.ЛИВАДИ-ЗАПАД
 - Планово прекъсване на тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ
 - Аварийно спиране: Зона на спиране-ж.к.Лозенец Ул.Драгалевска 23,бул.Черни връх 41
@@ -70,10 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Уведомление за повишен шум
 - Планово прекъсване на тока: кв. ДРАГАЛЕВЦИ
 - ДГ №175 „Слънчеви лъчи“ обявява позиция за медицинска сестра в яслена група
-- Обява за провеждане на кокурс за заемане на 220 войнишки длъжности във формирования от състава на Сухопътни войски
-- Обява за провеждане на конкурс за заемане на тридест и пет длъжности за войници във в.ф.54 800 – Национална гвардейска…
-- Обява за провеждане на конкурс за войнишки длъжности във военни формирования
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-09-09.html
 - https://kvartalami.com/lozenets/archive/2026-09-08.html
 - https://kvartalami.com/lozenets/archive/2026-09-07.html
 - https://kvartalami.com/lozenets/archive/2026-09-04.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-08-30.html
 - https://kvartalami.com/lozenets/archive/2026-08-28.html
 - https://kvartalami.com/lozenets/archive/2026-08-25.html
-- https://kvartalami.com/lozenets/archive/2026-08-24.html
 
 ## Sitemap
 

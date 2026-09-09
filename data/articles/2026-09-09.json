@@ -34,5 +34,50 @@
     "district": "oborishte",
     "sourceName": "Район Оборище",
     "fetchedAt": "2026-09-09T08:27:59.547Z"
+  },
+  {
+    "title": "Авария по тока: ПАРК ВИТОША - общ.Витоша, кв. ДРАГАЛЕВЦИ",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF44%7C09.09.2026%2016%3A56%7C%D0%9F%D0%90%D0%A0%D0%9A%20%D0%92%D0%98%D0%A2%D0%9E%D0%A8%D0%90%20-%20%D0%BE%D0%B1%D1%89.%D0%92%D0%B8%D1%82%D0%BE%D1%88%D0%B0%2C%20%D0%BA%D0%B2.%20%D0%94%D0%A0%D0%90%D0%93%D0%90%D0%9B%D0%95%D0%92%D0%A6%D0%98",
+    "content": "Тип: аварийно прекъсване\nНаселено място: ПАРК ВИТОША - общ.Витоша, кв. ДРАГАЛЕВЦИ\nНачало: 09.09.2026 16:56\nОчаквано възстановяване: 09.09.2026 19:00",
+    "category": "repairs",
+    "date": "2026-09-09",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "98d535eb6fa4",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-09-09T14:01:20.369Z"
+  },
+  {
+    "title": "Авария по тока: кв. ДРАГАЛЕВЦИ",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF44%7C09.09.2026%2016%3A56%7C%D0%BA%D0%B2.%20%D0%94%D0%A0%D0%90%D0%93%D0%90%D0%9B%D0%95%D0%92%D0%A6%D0%98",
+    "content": "Тип: аварийно прекъсване\nНаселено място: кв. ДРАГАЛЕВЦИ\nНачало: 09.09.2026 16:56\nОчаквано възстановяване: 09.09.2026 19:00",
+    "category": "repairs",
+    "date": "2026-09-09",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "5af272ea1004",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-09-09T14:01:20.369Z"
+  },
+  {
+    "title": "Авария по тока: кв. ГАРА ИСКЪР",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF15%7C09.09.2026%2016%3A11%7C%D0%BA%D0%B2.%20%D0%93%D0%90%D0%A0%D0%90%20%D0%98%D0%A1%D0%9A%D0%AA%D0%A0",
+    "content": "Тип: аварийно прекъсване\nНаселено място: кв. ГАРА ИСКЪР\nНачало: 09.09.2026 16:11\nОчаквано възстановяване: 09.09.2026 18:15",
+    "category": "repairs",
+    "date": "2026-09-09",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "dfaec3b5bb68",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-09-09T14:01:20.369Z"
   }
 ]
