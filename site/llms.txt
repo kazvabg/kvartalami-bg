@@ -36,7 +36,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (32 items in the last 30 days):
+- Recent headlines (31 items in the last 30 days):
 - Аварийно спиране: зона на спиране-кв.Оборище-Ул. Черковна от бул. Ситняково до ул. Попова шапка.
 - Уведомление за временно затваряне на ул. „Тракия“
 - Уведомление за временно затваряне на ул. „Георги Бенковски“
@@ -63,6 +63,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 
 - Home: https://kvartalami.com/lozenets/
 - Recent headlines (49 items in the last 30 days):
+- Аварийно спиране: Зона за спиране: ж.к. Лозенец- Ул. Равнец от ул. Гороцвет до ул. Криволак.
+- Планово прекъсване на тока: жк.ЛОЗЕНЕЦ
 - Планово прекъсване на тока: ж.к.ИЗГРЕВ, общ.Изгрев
 - Планово прекъсване на тока: кв. КРЪСТОВА ВАДА
 - Авария по тока: ПАРК ВИТОША - общ.Витоша, кв. ДРАГАЛЕВЦИ
@@ -71,9 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Планово прекъсване на тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ, кв. МАНАСТ.ЛИВАДИ-ЗАПАД
 - Планово прекъсване на тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ
 - Аварийно спиране: Зона на спиране-ж.к.Лозенец Ул.Драгалевска 23,бул.Черни връх 41
-- Авария по тока: кв. КРЪСТОВА ВАДА
-- Уведомление за повишен шум
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-09-11.html
 - https://kvartalami.com/lozenets/archive/2026-09-10.html
 - https://kvartalami.com/lozenets/archive/2026-09-09.html
 - https://kvartalami.com/lozenets/archive/2026-09-08.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-09-01.html
 - https://kvartalami.com/lozenets/archive/2026-08-31.html
 - https://kvartalami.com/lozenets/archive/2026-08-30.html
-- https://kvartalami.com/lozenets/archive/2026-08-28.html
 
 ## Sitemap
 
