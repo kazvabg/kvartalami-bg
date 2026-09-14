@@ -36,17 +36,17 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (31 items in the last 30 days):
+- Recent headlines (34 items in the last 30 days):
 - Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
+- Концерт по случай Деня на София
+- „Училищни улици“ в район „Оборище“: игра, движение и общуване през септември
 - Покана за консултации относно Избори 2026г.
 - Международният доброволчески проект „Colours of Solidarity 3.0“ с инициатива в район „Оборище“
 - Аварийно спиране: зона на спиране-кв.Оборище-Ул. Черковна от бул. Ситняково до ул. Попова шапка.
 - Уведомление за временно затваряне на ул. „Тракия“
+- Batman Day за първи път официално в България
 - Уведомление за временно затваряне на ул. „Георги Бенковски“
 - Адреси на места за обявяване на избирателни списъци
-- Уведомление за предстоящ ремонт на ул. „Черковна“
-- Авария: Част от Оборище
-- Временни затваряния на ул. „Черномен“ № 6 и  ул. „Св. Св. Кирил и Методий“ № 31
 - Recent archive:
 - https://kvartalami.com/archive/2026-09-14.html
 - https://kvartalami.com/archive/2026-09-11.html
@@ -62,7 +62,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (48 items in the last 30 days):
+- Recent headlines (49 items in the last 30 days):
+- Организация на движението за събитие в резиденция "Лозенец"
 - Авария по тока: кв. КИНОЦЕНТЪР, в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ, в.з. КИНОЦЕНТЪР, кв. ДРАГАЛЕВЦИ, в.з.МАЛИНОВА ДОЛИНА общ. Вито
 - Авария по тока: кв. КИНОЦЕНТЪР
 - Авария по тока: кв. БОЯНА
@@ -72,8 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Планово прекъсване на тока: ж.к.ИЗГРЕВ, общ.Изгрев
 - Планово прекъсване на тока: кв. КРЪСТОВА ВАДА
 - Авария по тока: ПАРК ВИТОША - общ.Витоша, кв. ДРАГАЛЕВЦИ
-- Авария по тока: кв. ДРАГАЛЕВЦИ
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-09-14.html
 - https://kvartalami.com/lozenets/archive/2026-09-12.html
 - https://kvartalami.com/lozenets/archive/2026-09-11.html
 - https://kvartalami.com/lozenets/archive/2026-09-10.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-09-04.html
 - https://kvartalami.com/lozenets/archive/2026-09-02.html
 - https://kvartalami.com/lozenets/archive/2026-09-01.html
-- https://kvartalami.com/lozenets/archive/2026-08-31.html
 
 ## Sitemap
 
