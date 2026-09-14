@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF36%7C14.09.2026%2011%3A00%7C%D0%A6%D0%95%D0%9D%D0%A2%D0%A0%D0%90%D0%9B%D0%9D%D0%90%20%D0%93%D0%A0.%D0%A7%D0%90%D0%A1%D0%A2%20%D0%A1%D0%9E%D0%A4%D0%98%D0%AF%20%D0%BE%D0%B1%D1%89.%D0%9E%D0%B1%D0%BE%D1%80%D0%B8%D1%89%D0%B5",
+    "content": "Тип: планово прекъсване\nНаселено място: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище\nНачало: 14.09.2026 11:00\nОчаквано възстановяване: 14.09.2026 14:15",
+    "category": "repairs",
+    "date": "2026-09-14",
+    "source": "erm-zapad",
+    "districts": [
+      "oborishte"
+    ],
+    "id": "d4764bb105c0",
+    "district": "oborishte",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-09-14T09:22:34.786Z"
+  },
+  {
+    "title": "Международният доброволчески проект „Colours of Solidarity 3.0“ с инициатива в район „Оборище“",
+    "url": "https://rayon-oborishte.bg/%d0%bc%d0%b5%d0%b6%d0%b4%d1%83%d0%bd%d0%b0%d1%80%d0%be%d0%b4%d0%bd%d0%b8%d1%8f%d1%82-%d0%b4%d0%be%d0%b1%d1%80%d0%be%d0%b2%d0%be%d0%bb%d1%87%d0%b5%d1%81%d0%ba%d0%b8-%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82/",
+    "content": "Фондация „Ценности, добродетели, интегритет“ реализира третото издание на проекта „Colours…",
+    "category": "government",
+    "date": "2026-09-11",
+    "source": "rayon-oborishte",
+    "id": "60a89abd98d4",
+    "district": "oborishte",
+    "sourceName": "Район Оборище",
+    "fetchedAt": "2026-09-14T09:22:34.787Z"
+  }
+]

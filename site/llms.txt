@@ -36,8 +36,10 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (32 items in the last 30 days):
+- Recent headlines (31 items in the last 30 days):
+- Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
 - Покана за консултации относно Избори 2026г.
+- Международният доброволчески проект „Colours of Solidarity 3.0“ с инициатива в район „Оборище“
 - Аварийно спиране: зона на спиране-кв.Оборище-Ул. Черковна от бул. Ситняково до ул. Попова шапка.
 - Уведомление за временно затваряне на ул. „Тракия“
 - Уведомление за временно затваряне на ул. „Георги Бенковски“
@@ -45,9 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Уведомление за предстоящ ремонт на ул. „Черковна“
 - Авария: Част от Оборище
 - Временни затваряния на ул. „Черномен“ № 6 и  ул. „Св. Св. Кирил и Методий“ № 31
-- Спортни занимания със свободен достъп в шест парка на София
-- Доброволци обединиха усилия за по-чист район „Оборище“
 - Recent archive:
+- https://kvartalami.com/archive/2026-09-14.html
 - https://kvartalami.com/archive/2026-09-11.html
 - https://kvartalami.com/archive/2026-09-10.html
 - https://kvartalami.com/archive/2026-09-09.html
@@ -57,12 +58,11 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-09-02.html
 - https://kvartalami.com/archive/2026-09-01.html
 - https://kvartalami.com/archive/2026-08-31.html
-- https://kvartalami.com/archive/2026-08-28.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (51 items in the last 30 days):
+- Recent headlines (48 items in the last 30 days):
 - Авария по тока: кв. КИНОЦЕНТЪР, в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ, в.з. КИНОЦЕНТЪР, кв. ДРАГАЛЕВЦИ, в.з.МАЛИНОВА ДОЛИНА общ. Вито
 - Авария по тока: кв. КИНОЦЕНТЪР
 - Авария по тока: кв. БОЯНА
