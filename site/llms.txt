@@ -62,7 +62,10 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (43 items in the last 30 days):
+- Recent headlines (46 items in the last 30 days):
+- Авария: Част от Лозенец
+- Авария: Част от Хладилника
+- Авария: Част от Лозенец
 - Организация на движението за събитие в резиденция "Лозенец"
 - Авария по тока: кв. КИНОЦЕНТЪР, в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ, в.з. КИНОЦЕНТЪР, кв. ДРАГАЛЕВЦИ, в.з.МАЛИНОВА ДОЛИНА общ. Вито
 - Авария по тока: кв. КИНОЦЕНТЪР
@@ -70,10 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария по тока: кв. КРЪСТОВА ВАДА
 - Аварийно спиране: Зона за спиране: ж.к. Лозенец- Ул. Равнец от ул. Гороцвет до ул. Криволак.
 - Планово прекъсване на тока: жк.ЛОЗЕНЕЦ
-- Планово прекъсване на тока: ж.к.ИЗГРЕВ, общ.Изгрев
-- Планово прекъсване на тока: кв. КРЪСТОВА ВАДА
-- Авария по тока: ПАРК ВИТОША - общ.Витоша, кв. ДРАГАЛЕВЦИ
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-09-15.html
 - https://kvartalami.com/lozenets/archive/2026-09-14.html
 - https://kvartalami.com/lozenets/archive/2026-09-12.html
 - https://kvartalami.com/lozenets/archive/2026-09-11.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-09-07.html
 - https://kvartalami.com/lozenets/archive/2026-09-04.html
 - https://kvartalami.com/lozenets/archive/2026-09-02.html
-- https://kvartalami.com/lozenets/archive/2026-09-01.html
 
 ## Sitemap
 
