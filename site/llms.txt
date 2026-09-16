@@ -36,9 +36,10 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (42 items in the last 30 days):
+- Recent headlines (43 items in the last 30 days):
 - Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
 - Уведомление за предстоящ ремонт на ул. „Васил Друмев“
+- Организация на движението за район Оборище, относно ,,Денят на София - 17 септември”
 - Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
 - Честит първи учебен ден!
 - Район „Оборище“ се включва в Европейската седмица на мобилността
@@ -46,7 +47,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
 - Концерт по случай Деня на София
 - „Училищни улици“ в район „Оборище“: игра, движение и общуване през септември
-- Ремонт на зона за почасово платено паркиране на бул. „Янко Сакъзов“.
 - Recent archive:
 - https://kvartalami.com/archive/2026-09-16.html
 - https://kvartalami.com/archive/2026-09-15.html
