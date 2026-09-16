@@ -79,5 +79,29 @@
     "district": "lozenets",
     "sourceName": "ЕРМ Запад",
     "fetchedAt": "2026-09-16T08:55:54.672Z"
+  },
+  {
+    "title": "Васил Терзиев: Шест розови фламинги се нанесоха в нова модерна волиера в Софийския зоопарк",
+    "url": "https://www.sofia.bg/w/7864039",
+    "content": "Васил Терзиев: Шест розови фламинги се нанесоха в нова модерна волиера в Софийския зоопарк",
+    "category": "government",
+    "date": "2026-09-16",
+    "source": "sofia-municipality",
+    "id": "c93761204353",
+    "district": "lozenets",
+    "sourceName": "Столична община",
+    "fetchedAt": "2026-09-16T14:27:27.392Z"
+  },
+  {
+    "title": "РАЗРЕШЕНИЕ за строеж Б-266/10.09.2026 г.",
+    "url": "https://lozenets.sofia.bg/%d1%80%d0%b0%d0%b7%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b7%d0%b0-%d1%81%d1%82%d1%80%d0%be%d0%b5%d0%b6-%d0%b1-266-10-09-2026-%d0%b3/",
+    "content": "РАЗРЕШЕНИЕ за строеж Б-266/10.09.2026 г.",
+    "category": "government",
+    "date": "2026-09-16",
+    "source": "rayon-lozenets",
+    "id": "ed62bd3158fd",
+    "district": "lozenets",
+    "sourceName": "Район Лозенец",
+    "fetchedAt": "2026-09-16T14:27:27.393Z"
   }
 ]
