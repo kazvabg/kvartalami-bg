@@ -36,7 +36,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (42 items in the last 30 days):
+- Recent headlines (43 items in the last 30 days):
+- Честит празник на града ни – „България, София те кани“
 - Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
 - Уведомление за предстоящ ремонт на ул. „Васил Друмев“
 - Организация на движението за район Оборище, относно ,,Денят на София - 17 септември”
@@ -46,8 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Временно ограничение на движението по ул. „Искър“
 - Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
 - Концерт по случай Деня на София
-- „Училищни улици“ в район „Оборище“: игра, движение и общуване през септември
 - Recent archive:
+- https://kvartalami.com/archive/2026-09-17.html
 - https://kvartalami.com/archive/2026-09-16.html
 - https://kvartalami.com/archive/2026-09-15.html
 - https://kvartalami.com/archive/2026-09-14.html
@@ -57,13 +58,13 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-09-08.html
 - https://kvartalami.com/archive/2026-09-04.html
 - https://kvartalami.com/archive/2026-09-03.html
-- https://kvartalami.com/archive/2026-09-02.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (47 items in the last 30 days):
+- Recent headlines (48 items in the last 30 days):
 - Планирано спиране: Зона за спиране :  жк. Макси,жк. Градина, кв. Витоша между ул Проф. Васил Арнаудов до ул. Околовръсте
+- Авария: Част от Лозенец
 - Планово прекъсване на тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ, кв. БЪКСТОН
 - Планово прекъсване на тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ
 - Васил Терзиев: Шест розови фламинги се нанесоха в нова модерна волиера в Софийския зоопарк
@@ -72,7 +73,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария: Част от Хладилника
 - Авария: Част от Лозенец
 - Авария: Част от Лозенец
-- Организация на движението за събитие в резиденция "Лозенец"
 - Recent archive:
 - https://kvartalami.com/lozenets/archive/2026-09-17.html
 - https://kvartalami.com/lozenets/archive/2026-09-16.html
