@@ -36,7 +36,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (45 items in the last 30 days):
+- Recent headlines (44 items in the last 30 days):
 - „КОД: Превенция“ през септември отваря врати към премълчаваните истини
 - SOFia HELPers – възможност за участие в доброволчески инициативи
 - „В крачка“ – фотоконкурс и безплатен фотокурс
@@ -62,7 +62,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (47 items in the last 30 days):
+- Recent headlines (46 items in the last 30 days):
 - Авария: Част от Лозенец
 - Планирано спиране: Зона за спиране :  жк. Макси,жк. Градина, кв. Витоша между ул Проф. Васил Арнаудов до ул. Околовръсте
 - Авария: Част от Лозенец
