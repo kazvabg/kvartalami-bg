@@ -36,7 +36,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (44 items in the last 30 days):
+- Recent headlines (43 items in the last 30 days):
 - „КОД: Превенция“ през септември отваря врати към премълчаваните истини
 - SOFia HELPers – възможност за участие в доброволчески инициативи
 - „В крачка“ – фотоконкурс и безплатен фотокурс
@@ -62,8 +62,10 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (47 items in the last 30 days):
+- Recent headlines (48 items in the last 30 days):
+- Авария по тока: жк.НАДЕЖДА - VI ЧАСТ
 - Авария: Част от Лозенец
+- ВАЖНО: Прекъсване на топлоснабдяването (топлата вода) за отделни части в район „Лозенец“
 - Авария: Част от Лозенец
 - Планирано спиране: Зона за спиране :  жк. Макси,жк. Градина, кв. Витоша между ул Проф. Васил Арнаудов до ул. Околовръсте
 - Авария: Част от Лозенец
@@ -71,9 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Планово прекъсване на тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ
 - Васил Терзиев: Шест розови фламинги се нанесоха в нова модерна волиера в Софийския зоопарк
 - РАЗРЕШЕНИЕ за строеж Б-266/10.09.2026 г.
-- Авария: Част от Лозенец
-- Авария: Част от Хладилника
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-09-22.html
 - https://kvartalami.com/lozenets/archive/2026-09-21.html
 - https://kvartalami.com/lozenets/archive/2026-09-19.html
 - https://kvartalami.com/lozenets/archive/2026-09-17.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-09-12.html
 - https://kvartalami.com/lozenets/archive/2026-09-11.html
 - https://kvartalami.com/lozenets/archive/2026-09-10.html
-- https://kvartalami.com/lozenets/archive/2026-09-09.html
 
 ## Sitemap
 
