@@ -37,6 +37,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 
 - Home: https://kvartalami.com/
 - Recent headlines (43 items in the last 30 days):
+- Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
 - „КОД: Превенция“ през септември отваря врати към премълчаваните истини
 - SOFia HELPers – възможност за участие в доброволчески инициативи
 - „В крачка“ – фотоконкурс и безплатен фотокурс
@@ -46,8 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
 - Уведомление за предстоящ ремонт на ул. „Васил Друмев“
 - Организация на движението за район Оборище, относно ,,Денят на София - 17 септември”
-- Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
 - Recent archive:
+- https://kvartalami.com/archive/2026-09-23.html
 - https://kvartalami.com/archive/2026-09-18.html
 - https://kvartalami.com/archive/2026-09-17.html
 - https://kvartalami.com/archive/2026-09-16.html
@@ -57,12 +58,11 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-09-10.html
 - https://kvartalami.com/archive/2026-09-09.html
 - https://kvartalami.com/archive/2026-09-08.html
-- https://kvartalami.com/archive/2026-09-04.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (48 items in the last 30 days):
+- Recent headlines (47 items in the last 30 days):
 - Авария по тока: жк.НАДЕЖДА - VI ЧАСТ
 - Авария: Част от Лозенец
 - ВАЖНО: Прекъсване на топлоснабдяването (топлата вода) за отделни части в район „Лозенец“
