@@ -36,9 +36,10 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (44 items in the last 30 days):
+- Recent headlines (45 items in the last 30 days):
 - Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
 - Предстояща обработка на обществени площи срещу гризачи
+- Затваряне на ул. „11-ти август“ от ул. „Св. Св. Кирил и Методий“ до ул. „Цар Симеон”
 - „КОД: Превенция“ през септември отваря врати към премълчаваните истини
 - SOFia HELPers – възможност за участие в доброволчески инициативи
 - „В крачка“ – фотоконкурс и безплатен фотокурс
@@ -46,7 +47,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Честит празник на града ни – „България, София те кани“
 - Увдомление за временно затваряне на ул. „Васил Априлов“
 - Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
-- Уведомление за предстоящ ремонт на ул. „Васил Друмев“
 - Recent archive:
 - https://kvartalami.com/archive/2026-09-23.html
 - https://kvartalami.com/archive/2026-09-18.html
