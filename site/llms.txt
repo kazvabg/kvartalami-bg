@@ -36,7 +36,9 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (45 items in the last 30 days):
+- Recent headlines (43 items in the last 30 days):
+- Авария: Част от Център
+- Авария по тока: жк.ХАДЖИ ДИМИТЪР
 - Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
 - Предстояща обработка на обществени площи срещу гризачи
 - Затваряне на ул. „11-ти август“ от ул. „Св. Св. Кирил и Методий“ до ул. „Цар Симеон”
@@ -45,9 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - „В крачка“ – фотоконкурс и безплатен фотокурс
 - Sofia Up с ново издание на 20 септември
 - Честит празник на града ни – „България, София те кани“
-- Увдомление за временно затваряне на ул. „Васил Априлов“
-- Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
 - Recent archive:
+- https://kvartalami.com/archive/2026-09-24.html
 - https://kvartalami.com/archive/2026-09-23.html
 - https://kvartalami.com/archive/2026-09-18.html
 - https://kvartalami.com/archive/2026-09-17.html
@@ -57,12 +58,11 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-09-11.html
 - https://kvartalami.com/archive/2026-09-10.html
 - https://kvartalami.com/archive/2026-09-09.html
-- https://kvartalami.com/archive/2026-09-08.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (49 items in the last 30 days):
+- Recent headlines (46 items in the last 30 days):
 - Авария: Част от Лозенец
 - РАЗРЕШЕНИЕ за строеж Б-273/15.09.2026 г.
 - Авария по тока: жк.НАДЕЖДА - VI ЧАСТ
