@@ -10,5 +10,20 @@
     "district": "lozenets",
     "sourceName": "Топлофикация София",
     "fetchedAt": "2026-09-26T08:55:27.902Z"
+  },
+  {
+    "title": "Авария по тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Сердика",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF35%7C26.09.2026%2016%3A33%7C%D0%A6%D0%95%D0%9D%D0%A2%D0%A0%D0%90%D0%9B%D0%9D%D0%90%20%D0%93%D0%A0.%D0%A7%D0%90%D0%A1%D0%A2%20%D0%A1%D0%9E%D0%A4%D0%98%D0%AF%20%D0%BE%D0%B1%D1%89.%D0%A1%D0%B5%D1%80%D0%B4%D0%B8%D0%BA%D0%B0",
+    "content": "Тип: аварийно прекъсване\nНаселено място: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Сердика\nНачало: 26.09.2026 16:33\nОчаквано възстановяване: 26.09.2026 18:30",
+    "category": "repairs",
+    "date": "2026-09-26",
+    "source": "erm-zapad",
+    "districts": [
+      "oborishte"
+    ],
+    "id": "e620844b2be4",
+    "district": "oborishte",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-09-26T13:57:44.582Z"
   }
 ]
