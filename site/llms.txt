@@ -36,7 +36,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (45 items in the last 30 days):
+- Recent headlines (44 items in the last 30 days):
 - Авария по тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Сердика
 - Откриване на къщичка за книги в район „Оборище“
 - Конкурси за въоръжените сили
