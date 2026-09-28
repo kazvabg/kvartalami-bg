@@ -5,7 +5,7 @@
     <link>https://kvartalami.com</link>
     <description>Хипер-локални новини за район Оборище</description>
     <language>bg</language>
-    <lastBuildDate>Mon, 28 Sep 2026 10:17:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 21:27:57 GMT</lastBuildDate>
     <item>
       <title>Уведомление за предстоящ ремонт на тротоарни настилки</title>
       <link>https://rayon-oborishte.bg/%d1%83%d0%b2%d0%b5%d0%b4%d0%be%d0%bc%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%be%d1%8f%d1%89-%d1%80%d0%b5%d0%bc%d0%be%d0%bd%d1%82-%d0%bd%d0%b0-%d1%82%d1%80/</link>
@@ -13,6 +13,14 @@
       <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
       <category>Ремонти</category>
       <description>Уважаеми жители и гости на район „Оборище“, Информираме Ви, че…</description>
+    </item>
+    <item>
+      <title>Кастрене и премахване на сухи клони и дървета зад парк „Заимов“</title>
+      <link>https://rayon-oborishte.bg/%d0%ba%d0%b0%d1%81%d1%82%d1%80%d0%b5%d0%bd%d0%b5-%d0%b8-%d0%bf%d1%80%d0%b5%d0%bc%d0%b0%d1%85%d0%b2%d0%b0%d0%bd%d0%b5-%d0%bd%d0%b0-%d1%81%d1%83%d1%85%d0%b8-%d0%ba%d0%bb%d0%be%d0%bd%d0%b8-%d0%b8-%d0%b4/</link>
+      <guid isPermaLink="false">bde1785f5b41</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Местна власт</category>
+      <description>През изминалата седмица зад парк „Заимов“ в СО-район „Оборище“ беше…</description>
     </item>
     <item>
       <title>Авария по тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Сердика</title>
@@ -346,14 +354,6 @@
       <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
       <category>Събития</category>
       <description>В навечерието на предстоящото в София Европейско първенство по волейбол…</description>
-    </item>
-    <item>
-      <title>Доброволци обединиха усилия за по-чист район „Оборище“</title>
-      <link>https://rayon-oborishte.bg/%d0%b4%d0%be%d0%b1%d1%80%d0%be%d0%b2%d0%be%d0%bb%d1%86%d0%b8-%d0%be%d0%b1%d0%b5%d0%b4%d0%b8%d0%bd%d0%b8%d1%85%d0%b0-%d1%83%d1%81%d0%b8%d0%bb%d0%b8%d1%8f-%d0%b7%d0%b0-%d0%bf%d0%be-%d1%87%d0%b8%d1%81/</link>
-      <guid isPermaLink="false">7eacf8cd3574</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-      <category>Местна власт</category>
-      <description>Район „Оборище“ подкрепи доброволческа акция за почистване, организирана от  представители…</description>
     </item>
   </channel>
 </rss>
