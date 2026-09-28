@@ -37,6 +37,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 
 - Home: https://kvartalami.com/
 - Recent headlines (44 items in the last 30 days):
+- Уведомление за предстоящ ремонт на тротоарни настилки
 - Авария по тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Сердика
 - Откриване на къщичка за книги в район „Оборище“
 - Конкурси за въоръжените сили
@@ -46,8 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
 - Предстояща обработка на обществени площи срещу гризачи
 - Затваряне на ул. „11-ти август“ от ул. „Св. Св. Кирил и Методий“ до ул. „Цар Симеон”
-- „КОД: Превенция“ през септември отваря врати към премълчаваните истини
 - Recent archive:
+- https://kvartalami.com/archive/2026-09-28.html
 - https://kvartalami.com/archive/2026-09-26.html
 - https://kvartalami.com/archive/2026-09-25.html
 - https://kvartalami.com/archive/2026-09-24.html
@@ -57,12 +58,11 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-09-16.html
 - https://kvartalami.com/archive/2026-09-15.html
 - https://kvartalami.com/archive/2026-09-14.html
-- https://kvartalami.com/archive/2026-09-11.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (47 items in the last 30 days):
+- Recent headlines (45 items in the last 30 days):
 - Авария: Част от Лозенец
 - РАЗРЕШЕНИЕ за строеж Б-276/21.09.2026 г.
 - Авария: Част от Лозенец
