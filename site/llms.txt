@@ -62,7 +62,9 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (46 items in the last 30 days):
+- Recent headlines (45 items in the last 30 days):
+- Авария: Част от Лозенец
+- Планово прекъсване на тока: кв. ВИТОША - общ.Лозенец
 - Визионери на регионите
 - Авария: Част от Лозенец
 - РАЗРЕШЕНИЕ за строеж Б-276/21.09.2026 г.
@@ -71,9 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - РАЗРЕШЕНИЕ за строеж Б-273/15.09.2026 г.
 - Авария по тока: жк.НАДЕЖДА - VI ЧАСТ
 - Авария: Част от Лозенец
-- ВАЖНО: Прекъсване на топлоснабдяването (топлата вода) за отделни части в район „Лозенец“
-- Авария: Част от Лозенец
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-09-30.html
 - https://kvartalami.com/lozenets/archive/2026-09-28.html
 - https://kvartalami.com/lozenets/archive/2026-09-25.html
 - https://kvartalami.com/lozenets/archive/2026-09-23.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-09-17.html
 - https://kvartalami.com/lozenets/archive/2026-09-16.html
 - https://kvartalami.com/lozenets/archive/2026-09-15.html
-- https://kvartalami.com/lozenets/archive/2026-09-14.html
 
 ## Sitemap
 
