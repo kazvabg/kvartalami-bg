@@ -1138,5 +1138,25 @@
     "id": "346ceca18102",
     "district": "lozenets",
     "addedAt": "2026-10-01T20:40:26.307Z"
+  },
+  {
+    "id": "8324230e319f",
+    "district": "oborishte",
+    "addedAt": "2026-10-02T10:08:52.828Z"
+  },
+  {
+    "id": "15c19549c892",
+    "district": "lozenets",
+    "addedAt": "2026-10-02T10:08:52.828Z"
+  },
+  {
+    "id": "b78a9fb528fa",
+    "district": "lozenets",
+    "addedAt": "2026-10-02T10:08:52.828Z"
+  },
+  {
+    "id": "641cf1564943",
+    "district": "lozenets",
+    "addedAt": "2026-10-02T10:08:52.828Z"
   }
 ]
