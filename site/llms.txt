@@ -36,8 +36,9 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (41 items in the last 30 days):
+- Recent headlines (42 items in the last 30 days):
 - „Медийна академия – Сребърен глас“ свързва поколенията чрез дигитални умения
+- Уведомление за предстоящо временно затваряне на участък от ул. „Будапеща“
 - Уведомление за предстоящ ремонт на тротоарни настилки
 - Кастрене и премахване на сухи клони и дървета зад парк „Заимов“
 - Авария по тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Сердика
@@ -46,7 +47,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария: Част от Център
 - Авария по тока: жк.ХАДЖИ ДИМИТЪР
 - „Шофирай със сърце и разум – преживей, научи, спаси живот“ в парк „Ген. Владимир Заимов“
-- Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Оборище
 - Recent archive:
 - https://kvartalami.com/archive/2026-10-02.html
 - https://kvartalami.com/archive/2026-09-28.html
