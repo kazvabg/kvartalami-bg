@@ -36,7 +36,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (42 items in the last 30 days):
+- Recent headlines (41 items in the last 30 days):
 - „Медийна академия – Сребърен глас“ свързва поколенията чрез дигитални умения
 - Уведомление за предстоящо временно затваряне на участък от ул. „Будапеща“
 - Уведомление за предстоящ ремонт на тротоарни настилки
@@ -63,6 +63,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 
 - Home: https://kvartalami.com/lozenets/
 - Recent headlines (47 items in the last 30 days):
+- Авария по тока: жк.ОВЧА КУПЕЛ І
 - Авария: Част от Лозенец
 - Авария: Част от Лозенец
 - Планово прекъсване на тока: кв. ДРАГАЛЕВЦИ
@@ -72,8 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Стартира проектът „Медиацията като градска политика за превенция на агресията в обществената, работната и семейната…
 - Авария: Част от Лозенец
 - Планово прекъсване на тока: кв. ВИТОША - общ.Лозенец
-- Визионери на регионите
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-10-03.html
 - https://kvartalami.com/lozenets/archive/2026-10-02.html
 - https://kvartalami.com/lozenets/archive/2026-10-01.html
 - https://kvartalami.com/lozenets/archive/2026-09-30.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-09-22.html
 - https://kvartalami.com/lozenets/archive/2026-09-21.html
 - https://kvartalami.com/lozenets/archive/2026-09-19.html
-- https://kvartalami.com/lozenets/archive/2026-09-17.html
 
 ## Sitemap
 
