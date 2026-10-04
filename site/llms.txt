@@ -36,7 +36,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (41 items in the last 30 days):
+- Recent headlines (39 items in the last 30 days):
 - „Медийна академия – Сребърен глас“ свързва поколенията чрез дигитални умения
 - Уведомление за предстоящо временно затваряне на участък от ул. „Будапеща“
 - Уведомление за предстоящ ремонт на тротоарни настилки
