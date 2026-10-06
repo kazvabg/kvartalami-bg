@@ -5,7 +5,18 @@
     <link>https://kvartalami.com/lozenets</link>
     <description>Хипер-локални новини за район Лозенец</description>
     <language>bg</language>
-    <lastBuildDate>Mon, 05 Oct 2026 22:15:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:54:04 GMT</lastBuildDate>
+    <item>
+      <title>Планово прекъсване на тока: БЪРДО</title>
+      <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SFO20%7C06.10.2026%2009%3A37%7C%D0%91%D0%AA%D0%A0%D0%94%D0%9E</link>
+      <guid isPermaLink="false">5dc4ba022224</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Ремонти</category>
+      <description>Тип: планово прекъсване
+Населено място: БЪРДО
+Начало: 06.10.2026 09:37
+Очаквано възстановяване: 06.10.2026 17:15</description>
+    </item>
     <item>
       <title>Аварийно спиране: зона на спиране: жк. Дианабад - Ул.Тинтява от ул.Жетварка до бул.Драган Цанков</title>
       <link>https://www.sofiyskavoda.bg/water-stops#1430174</link>
@@ -406,17 +417,6 @@
 Описание: Ремонт на уличен водопровод
 Начало: 11.09.2026 г., 09:10 ч.
 Край: 11.09.2026…</description>
-    </item>
-    <item>
-      <title>Планово прекъсване на тока: жк.ЛОЗЕНЕЦ</title>
-      <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF41%7C11.09.2026%2010%3A27%7C%D0%B6%D0%BA.%D0%9B%D0%9E%D0%97%D0%95%D0%9D%D0%95%D0%A6</link>
-      <guid isPermaLink="false">33d85f856173</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-      <category>Ремонти</category>
-      <description>Тип: планово прекъсване
-Населено място: жк.ЛОЗЕНЕЦ
-Начало: 11.09.2026 10:27
-Очаквано възстановяване: 11.09.2026 13:00</description>
     </item>
   </channel>
 </rss>

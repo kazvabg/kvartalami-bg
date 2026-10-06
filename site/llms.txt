@@ -36,7 +36,10 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (40 items in the last 30 days):
+- Recent headlines (43 items in the last 30 days):
+- Аварийно спиране: зона на спиране: с. Лозен - ул. Шипка от ул. Трънски път до ул. Съединение и ул. Синчец
+- Есенното издание на кампанията „ЕКОКЛАС 2026“ продължава в София
+- Есенно почистване на София, както и в район „Оборище“
 - Аварийно спиране: зона на спиране : с. Волуяк, с. Мрамор, с. Житен и бул. Ломско шосе от бул. Васил Левски до Околовръст
 - Предстоящо временно затваряне на ул. „Шипка“
 - „Медийна академия – Сребърен глас“ свързва поколенията чрез дигитални умения
@@ -44,10 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Уведомление за предстоящ ремонт на тротоарни настилки
 - Кастрене и премахване на сухи клони и дървета зад парк „Заимов“
 - Авария по тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Сердика
-- Откриване на къщичка за книги в район „Оборище“
-- Конкурси за въоръжените сили
-- Авария: Част от Център
 - Recent archive:
+- https://kvartalami.com/archive/2026-10-06.html
 - https://kvartalami.com/archive/2026-10-05.html
 - https://kvartalami.com/archive/2026-10-02.html
 - https://kvartalami.com/archive/2026-09-28.html
@@ -57,12 +58,12 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-09-23.html
 - https://kvartalami.com/archive/2026-09-18.html
 - https://kvartalami.com/archive/2026-09-17.html
-- https://kvartalami.com/archive/2026-09-16.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (48 items in the last 30 days):
+- Recent headlines (49 items in the last 30 days):
+- Планово прекъсване на тока: БЪРДО
 - Аварийно спиране: зона на спиране: жк. Дианабад - Ул.Тинтява от ул.Жетварка до бул.Драган Цанков
 - Планово прекъсване на тока: БЪРДО
 - Авария по тока: жк.ОВЧА КУПЕЛ І
@@ -72,8 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Аварийно спиране: зона за спиране-  ж.к. Лозенец- Ул.Кораб планина от ул. Плачковица до ул.Бабуна планина
 - Авария: Част от Лозенец
 - Авария по тока: кв. ДРАГАЛЕВЦИ
-- Стартира проектът „Медиацията като градска политика за превенция на агресията в обществената, работната и семейната…
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-10-06.html
 - https://kvartalami.com/lozenets/archive/2026-10-05.html
 - https://kvartalami.com/lozenets/archive/2026-10-03.html
 - https://kvartalami.com/lozenets/archive/2026-10-02.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-09-25.html
 - https://kvartalami.com/lozenets/archive/2026-09-23.html
 - https://kvartalami.com/lozenets/archive/2026-09-22.html
-- https://kvartalami.com/lozenets/archive/2026-09-21.html
 
 ## Sitemap
 
