@@ -36,7 +36,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (44 items in the last 30 days):
+- Recent headlines (45 items in the last 30 days):
+- Актуална информация за провеждането на тържества на територията на Столична община
 - Аварийно спиране: зона на спиране: с. Лозен - ул. Шипка от ул. Трънски път до ул. Съединение и ул. Синчец
 - Есенното издание на кампанията „ЕКОКЛАС 2026“ продължава в София
 - Есенно почистване на София, както и в район „Оборище“
@@ -46,8 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - „Медийна академия – Сребърен глас“ свързва поколенията чрез дигитални умения
 - Уведомление за предстоящо временно затваряне на участък от ул. „Будапеща“
 - Уведомление за предстоящ ремонт на тротоарни настилки
-- Кастрене и премахване на сухи клони и дървета зад парк „Заимов“
 - Recent archive:
+- https://kvartalami.com/archive/2026-10-07.html
 - https://kvartalami.com/archive/2026-10-06.html
 - https://kvartalami.com/archive/2026-10-05.html
 - https://kvartalami.com/archive/2026-10-02.html
@@ -57,12 +58,14 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-09-24.html
 - https://kvartalami.com/archive/2026-09-23.html
 - https://kvartalami.com/archive/2026-09-18.html
-- https://kvartalami.com/archive/2026-09-17.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (50 items in the last 30 days):
+- Recent headlines (53 items in the last 30 days):
+- Планово прекъсване на тока: кв. СУХОДОЛ
+- Планово прекъсване на тока: БЪРДО
+- Столичната община организира ученически поход до Черни връх
 - Планово прекъсване на тока: БЪРДО
 - Обява за провеждане на конкурс за войнишки длъжности
 - Аварийно спиране: зона на спиране: жк. Дианабад - Ул.Тинтява от ул.Жетварка до бул.Драган Цанков
@@ -70,10 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария по тока: жк.ОВЧА КУПЕЛ І
 - Авария: Част от Лозенец
 - Авария: Част от Лозенец
-- Планово прекъсване на тока: кв. ДРАГАЛЕВЦИ
-- Аварийно спиране: зона за спиране-  ж.к. Лозенец- Ул.Кораб планина от ул. Плачковица до ул.Бабуна планина
-- Авария: Част от Лозенец
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-10-07.html
 - https://kvartalami.com/lozenets/archive/2026-10-06.html
 - https://kvartalami.com/lozenets/archive/2026-10-05.html
 - https://kvartalami.com/lozenets/archive/2026-10-03.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-09-28.html
 - https://kvartalami.com/lozenets/archive/2026-09-25.html
 - https://kvartalami.com/lozenets/archive/2026-09-23.html
-- https://kvartalami.com/lozenets/archive/2026-09-22.html
 
 ## Sitemap
 

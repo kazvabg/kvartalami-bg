@@ -5,7 +5,37 @@
     <link>https://kvartalami.com/lozenets</link>
     <description>Хипер-локални новини за район Лозенец</description>
     <language>bg</language>
-    <lastBuildDate>Tue, 06 Oct 2026 20:38:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 10:41:37 GMT</lastBuildDate>
+    <item>
+      <title>Планово прекъсване на тока: кв. СУХОДОЛ</title>
+      <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF45%7C07.10.2026%2009%3A18%7C%D0%BA%D0%B2.%20%D0%A1%D0%A3%D0%A5%D0%9E%D0%94%D0%9E%D0%9B</link>
+      <guid isPermaLink="false">7f3650ef9f79</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Ремонти</category>
+      <description>Тип: планово прекъсване
+Населено място: кв. СУХОДОЛ
+Начало: 07.10.2026 09:18
+Очаквано възстановяване: 07.10.2026 16:30</description>
+    </item>
+    <item>
+      <title>Планово прекъсване на тока: БЪРДО</title>
+      <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SFO20%7C07.10.2026%2009%3A13%7C%D0%91%D0%AA%D0%A0%D0%94%D0%9E</link>
+      <guid isPermaLink="false">edaa70ea7510</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Ремонти</category>
+      <description>Тип: планово прекъсване
+Населено място: БЪРДО
+Начало: 07.10.2026 09:13
+Очаквано възстановяване: 07.10.2026 17:15</description>
+    </item>
+    <item>
+      <title>Столичната община организира ученически поход до Черни връх</title>
+      <link>https://www.sofia.bg/bg/web/guest/w/8000459</link>
+      <guid isPermaLink="false">27c43300fbd4</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Местна власт</category>
+      <description>Столичната община организира ученически поход до Черни връх</description>
+    </item>
     <item>
       <title>Планово прекъсване на тока: БЪРДО</title>
       <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SFO20%7C06.10.2026%2009%3A37%7C%D0%91%D0%AA%D0%A0%D0%94%D0%9E</link>
@@ -380,39 +410,6 @@
 Населено място: кв. КИНОЦЕНТЪР, в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ, в.з. КИНОЦЕНТЪР, кв. ДРАГАЛЕВЦИ, в.з.МАЛИНОВА ДОЛИНА общ. Витоша, кв. БОЯНА
 Начало: 12.09.2026 09:51
 Очаквано…</description>
-    </item>
-    <item>
-      <title>Авария по тока: кв. КИНОЦЕНТЪР</title>
-      <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF44%7C12.09.2026%2009%3A51%7C%D0%BA%D0%B2.%20%D0%9A%D0%98%D0%9D%D0%9E%D0%A6%D0%95%D0%9D%D0%A2%D0%AA%D0%A0</link>
-      <guid isPermaLink="false">ffb4ce5c93c2</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
-      <category>Ремонти</category>
-      <description>Тип: аварийно прекъсване
-Населено място: кв. КИНОЦЕНТЪР
-Начало: 12.09.2026 09:51
-Очаквано възстановяване: 12.09.2026 11:45</description>
-    </item>
-    <item>
-      <title>Авария по тока: кв. БОЯНА</title>
-      <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF44%7C12.09.2026%2009%3A51%7C%D0%BA%D0%B2.%20%D0%91%D0%9E%D0%AF%D0%9D%D0%90</link>
-      <guid isPermaLink="false">cf94bde9b5ac</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
-      <category>Ремонти</category>
-      <description>Тип: аварийно прекъсване
-Населено място: кв. БОЯНА
-Начало: 12.09.2026 09:51
-Очаквано възстановяване: 12.09.2026 11:45</description>
-    </item>
-    <item>
-      <title>Авария по тока: кв. КРЪСТОВА ВАДА</title>
-      <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF42%7C12.09.2026%2009%3A51%7C%D0%BA%D0%B2.%20%D0%9A%D0%A0%D0%AA%D0%A1%D0%A2%D0%9E%D0%92%D0%90%20%D0%92%D0%90%D0%94%D0%90</link>
-      <guid isPermaLink="false">36fbc795b523</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
-      <category>Ремонти</category>
-      <description>Тип: аварийно прекъсване
-Населено място: кв. КРЪСТОВА ВАДА
-Начало: 12.09.2026 09:51
-Очаквано възстановяване: 12.09.2026 11:45</description>
     </item>
   </channel>
 </rss>
