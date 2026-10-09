@@ -36,8 +36,9 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (48 items in the last 30 days):
+- Recent headlines (49 items in the last 30 days):
 - Авария по тока: кв. ОРЛАНДОВЦИ
+- Уведомление за предстоящ ремонт на ул. „Черковна“
 - 93 проекта ще получат финансиране по Столична програма „Култура“
 - Актуална информация за провеждането на тържества на територията на Столична община
 - Важно за предстоящите на 25.10.2026 г. избори за президент и вицепрезидент на Република България.
@@ -46,7 +47,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Есенното издание на кампанията „ЕКОКЛАС 2026“ продължава в София
 - Есенно почистване на София, както и в район „Оборище“
 - Предстоящи временни ограничения на движението в район „Оборище“
-- Аварийно спиране: зона на спиране : с. Волуяк, с. Мрамор, с. Житен и бул. Ломско шосе от бул. Васил Левски до Околовръст
 - Recent archive:
 - https://kvartalami.com/archive/2026-10-09.html
 - https://kvartalami.com/archive/2026-10-08.html
@@ -62,9 +62,10 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (55 items in the last 30 days):
+- Recent headlines (56 items in the last 30 days):
 - Планово прекъсване на тока: жк.ИВАН ВАЗОВ
 - „Черни връх на един дъх“
+- Стартира програмата „Граждански бюджет“
 - Планово прекъсване на тока: кв. СУХОДОЛ
 - Планово прекъсване на тока: БЪРДО
 - Столичната община организира ученически поход до Черни връх
@@ -72,7 +73,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Покана за семинар за директори на училища и детски градини, учители, психолози, педагогически съветници на територията…
 - Аварийно спиране: Зона на спиране:кв. Кръстова вада - ул. Светослав Минков, бул.Черни връх, Проф Милко Лалков и ул. ѝкад
 - Планово прекъсване на тока: БЪРДО
-- Обява за провеждане на конкурс за войнишки длъжности
 - Recent archive:
 - https://kvartalami.com/lozenets/archive/2026-10-09.html
 - https://kvartalami.com/lozenets/archive/2026-10-07.html
