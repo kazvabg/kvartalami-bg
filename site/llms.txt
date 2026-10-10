@@ -36,7 +36,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (49 items in the last 30 days):
+- Recent headlines (48 items in the last 30 days):
 - Авария по тока: кв. ОРЛАНДОВЦИ
 - Уведомление за предстоящ ремонт на ул. „Черковна“
 - 93 проекта ще получат финансиране по Столична програма „Култура“
@@ -62,7 +62,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (56 items in the last 30 days):
+- Recent headlines (53 items in the last 30 days):
 - Планово прекъсване на тока: жк.ИВАН ВАЗОВ
 - „Черни връх на един дъх“
 - Стартира програмата „Граждански бюджет“
