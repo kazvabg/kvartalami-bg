@@ -62,7 +62,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (53 items in the last 30 days):
+- Recent headlines (54 items in the last 30 days):
+- Авария по тока: жк.ОВЧА КУПЕЛ І
 - Планово прекъсване на тока: жк.ИВАН ВАЗОВ
 - „Черни връх на един дъх“
 - Стартира програмата „Граждански бюджет“
@@ -72,8 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Софийският зоопарк вече е пълноправен член в Европейската асоциация на зоопарковете и аквариумите (ЕАЗА)
 - Покана за семинар за директори на училища и детски градини, учители, психолози, педагогически съветници на територията…
 - Аварийно спиране: Зона на спиране:кв. Кръстова вада - ул. Светослав Минков, бул.Черни връх, Проф Милко Лалков и ул. ѝкад
-- Планово прекъсване на тока: БЪРДО
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-10-10.html
 - https://kvartalami.com/lozenets/archive/2026-10-09.html
 - https://kvartalami.com/lozenets/archive/2026-10-07.html
 - https://kvartalami.com/lozenets/archive/2026-10-06.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-10-01.html
 - https://kvartalami.com/lozenets/archive/2026-09-30.html
 - https://kvartalami.com/lozenets/archive/2026-09-28.html
-- https://kvartalami.com/lozenets/archive/2026-09-25.html
 
 ## Sitemap
 

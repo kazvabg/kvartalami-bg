@@ -5,7 +5,18 @@
     <link>https://kvartalami.com/lozenets</link>
     <description>Хипер-локални новини за район Лозенец</description>
     <language>bg</language>
-    <lastBuildDate>Sat, 10 Oct 2026 10:14:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 19:37:55 GMT</lastBuildDate>
+    <item>
+      <title>Авария по тока: жк.ОВЧА КУПЕЛ І</title>
+      <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF45%7C10.10.2026%2022%3A21%7C%D0%B6%D0%BA.%D0%9E%D0%92%D0%A7%D0%90%20%D0%9A%D0%A3%D0%9F%D0%95%D0%9B%20%D0%86</link>
+      <guid isPermaLink="false">b9a4c42584f6</guid>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Ремонти</category>
+      <description>Тип: аварийно прекъсване
+Населено място: жк.ОВЧА КУПЕЛ І
+Начало: 10.10.2026 22:21
+Очаквано възстановяване: 11.10.2026 00:15</description>
+    </item>
     <item>
       <title>Планово прекъсване на тока: жк.ИВАН ВАЗОВ</title>
       <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF42%7C09.10.2026%2010%3A13%7C%D0%B6%D0%BA.%D0%98%D0%92%D0%90%D0%9D%20%D0%92%D0%90%D0%97%D0%9E%D0%92</link>
@@ -392,17 +403,6 @@
       <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
       <category>Местна власт</category>
       <description>РАЗРЕШЕНИЕ за строеж Б-266/10.09.2026 г.</description>
-    </item>
-    <item>
-      <title>Авария: Част от Лозенец</title>
-      <link>https://toplo.bg/accidents-and-maintenance#%D0%A7%D0%B0%D1%81%D1%82%20%D0%BE%D1%82%20%D0%9B%D0%BE%D0%B7%D0%B5%D0%BD%D0%B5%D1%86%7C%D1%83%D0%BB.%20%D0%97%D0%BB%D0%B0%D1%82%D0%BE%D0%B2%D1%80%D1%8A%D1%85%205-7%20%5Cr%5Cn</link>
-      <guid isPermaLink="false">9eac919a7b93</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-      <category>Ремонти</category>
-      <description>Район: Част от Лозенец
-Адреси: ул. Златовръх 5-7 \r\n
-Начало: 15.09.2026 г., 19:15:00 ч.
-Очаквано възстановяване: 17.09.2026 г., 19:15:00 ч.</description>
     </item>
   </channel>
 </rss>

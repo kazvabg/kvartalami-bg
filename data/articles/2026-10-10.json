@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Авария по тока: жк.ОВЧА КУПЕЛ І",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF45%7C10.10.2026%2022%3A21%7C%D0%B6%D0%BA.%D0%9E%D0%92%D0%A7%D0%90%20%D0%9A%D0%A3%D0%9F%D0%95%D0%9B%20%D0%86",
+    "content": "Тип: аварийно прекъсване\nНаселено място: жк.ОВЧА КУПЕЛ І\nНачало: 10.10.2026 22:21\nОчаквано възстановяване: 11.10.2026 00:15",
+    "category": "repairs",
+    "date": "2026-10-10",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "b9a4c42584f6",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-10-10T19:37:53.355Z"
+  }
+]
