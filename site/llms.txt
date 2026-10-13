@@ -36,7 +36,9 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (46 items in the last 30 days):
+- Recent headlines (48 items in the last 30 days):
+- Столична община търси нови идеи за София
+- Извършени санитарни дейности и премахване на изсъхнали дървета
 - Временна промяна в движението на ул. „Богдан“
 - Предстоящи строителни дейности на ул. „Искър“
 - За втора година  „Училищни улици“ събра децата и жителите на район „Оборище“
@@ -45,9 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - 93 проекта ще получат финансиране по Столична програма „Култура“
 - Актуална информация за провеждането на тържества на територията на Столична община
 - Важно за предстоящите на 25.10.2026 г. избори за президент и вицепрезидент на Република България.
-- Уведомление за предтоящо временно затваряне на ул. „Тракия“
-- Аварийно спиране: зона на спиране: с. Лозен - ул. Шипка от ул. Трънски път до ул. Съединение и ул. Синчец
 - Recent archive:
+- https://kvartalami.com/archive/2026-10-13.html
 - https://kvartalami.com/archive/2026-10-12.html
 - https://kvartalami.com/archive/2026-10-09.html
 - https://kvartalami.com/archive/2026-10-08.html
@@ -57,12 +58,13 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-10-02.html
 - https://kvartalami.com/archive/2026-09-28.html
 - https://kvartalami.com/archive/2026-09-26.html
-- https://kvartalami.com/archive/2026-09-25.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (52 items in the last 30 days):
+- Recent headlines (50 items in the last 30 days):
+- Аварийно спиране: Зона за спиране: Витоша-Каре: ул. Шумако, ул. Каменица, ул. Крайречна, ул. Симеоновско шосе.
+- Планово прекъсване на тока: СТУДЕНТСКИ ГРАД
 - Аварийно спиране: Зона за спиране: с. Бистрица - ул. Капина от ул. Момин Проход до ул. Черни връх
 - Sпортно-културно събитие „Движение, ритъм и здраве под небето“
 - Авария по тока: жк.ОВЧА КУПЕЛ І
@@ -71,9 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Стартира програмата „Граждански бюджет“
 - Планово прекъсване на тока: кв. СУХОДОЛ
 - Планово прекъсване на тока: БЪРДО
-- Столичната община организира ученически поход до Черни връх
-- Софийският зоопарк вече е пълноправен член в Европейската асоциация на зоопарковете и аквариумите (ЕАЗА)
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-10-13.html
 - https://kvartalami.com/lozenets/archive/2026-10-12.html
 - https://kvartalami.com/lozenets/archive/2026-10-10.html
 - https://kvartalami.com/lozenets/archive/2026-10-09.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-10-03.html
 - https://kvartalami.com/lozenets/archive/2026-10-02.html
 - https://kvartalami.com/lozenets/archive/2026-10-01.html
-- https://kvartalami.com/lozenets/archive/2026-09-30.html
 
 ## Sitemap
 
