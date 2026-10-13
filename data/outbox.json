@@ -1343,5 +1343,15 @@
     "id": "7aaa30b39551",
     "district": "lozenets",
     "addedAt": "2026-10-13T11:16:26.088Z"
+  },
+  {
+    "id": "6d4cc9ef1da2",
+    "district": "oborishte",
+    "addedAt": "2026-10-13T20:53:20.892Z"
+  },
+  {
+    "id": "0fdc88d751ed",
+    "district": "lozenets",
+    "addedAt": "2026-10-13T20:53:20.892Z"
   }
 ]

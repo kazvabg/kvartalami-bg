@@ -5,7 +5,7 @@
     <link>https://kvartalami.com/lozenets</link>
     <description>Хипер-локални новини за район Лозенец</description>
     <language>bg</language>
-    <lastBuildDate>Tue, 13 Oct 2026 11:16:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 20:53:23 GMT</lastBuildDate>
     <item>
       <title>Аварийно спиране: Зона за спиране: Витоша-Каре: ул. Шумако, ул. Каменица, ул. Крайречна, ул. Симеоновско шосе.</title>
       <link>https://www.sofiyskavoda.bg/water-stops#1421335</link>
@@ -27,6 +27,14 @@
 Населено място: СТУДЕНТСКИ ГРАД
 Начало: 13.10.2026 09:23
 Очаквано възстановяване: 13.10.2026 18:00</description>
+    </item>
+    <item>
+      <title>Как искате да изглежда парк „Кошарите“?</title>
+      <link>https://lozenets.sofia.bg/%d0%ba%d0%b0%d0%ba-%d0%b8%d1%81%d0%ba%d0%b0%d1%82%d0%b5-%d0%b4%d0%b0-%d0%b8%d0%b7%d0%b3%d0%bb%d0%b5%d0%b6%d0%b4%d0%b0-%d0%bf%d0%b0%d1%80%d0%ba-%d0%ba%d0%be%d1%88%d0%b0%d1%80%d0%b8%d1%82%d0%b5/</link>
+      <guid isPermaLink="false">0fdc88d751ed</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Местна власт</category>
+      <description>По молба на жител на район „Лозенец“ споделяме анкета, създадена по негова инициатива, за бъдещето на лесопарк „Кошарите“. Целта на анкетата е да събере мненията и предложенията на жителите на района…</description>
     </item>
     <item>
       <title>Аварийно спиране: Зона за спиране: с. Бистрица - ул. Капина от ул. Момин Проход до ул. Черни връх</title>
@@ -396,17 +404,6 @@
       <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
       <category>Ремонти</category>
       <description>Местоположение: Зона за спиране :  жк. Макси,жк. Градина, кв. Витоша между ул Проф. Васил Арнаудов до ул. Околовръстен път, кв. Кръстова вада между ул. Арарат, ул. Ген. Иван Колев, ул. Емилиян…</description>
-    </item>
-    <item>
-      <title>Авария: Част от Лозенец</title>
-      <link>https://toplo.bg/accidents-and-maintenance#%D0%A7%D0%B0%D1%81%D1%82%20%D0%BE%D1%82%20%D0%9B%D0%BE%D0%B7%D0%B5%D0%BD%D0%B5%D1%86%7C%D0%A3%D0%BB.%22%D0%9B%D0%BE%D0%B7%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D0%BD%D0%B0%20%22%2024%2C%20%D1%83%D0%BB.%22%D0%A2%D0%B5%D0%BE%D0%B4%D0%BE%D1%81%D0%B8%D0%B9%20%D0%A2%D1%8A%D1%80%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%22%2034</link>
-      <guid isPermaLink="false">643ff4a2379a</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-      <category>Ремонти</category>
-      <description>Район: Част от Лозенец
-Адреси: Ул.&quot;Лозенска планина &quot; 24, ул.&quot;Теодосий Търновски&quot; 34
-Начало: 17.09.2026 г., 13:00:00 ч.
-Очаквано възстановяване: 19.09.2026 г., 13:00:00 ч.</description>
     </item>
   </channel>
 </rss>

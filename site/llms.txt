@@ -36,9 +36,10 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (48 items in the last 30 days):
+- Recent headlines (49 items in the last 30 days):
 - Столична община търси нови идеи за София
 - Извършени санитарни дейности и премахване на изсъхнали дървета
+- Започва набирането на проекти по програмата „Идеи за града“ – Столичната община увеличава средствата с близо 50%
 - Временна промяна в движението на ул. „Богдан“
 - Предстоящи строителни дейности на ул. „Искър“
 - За втора година  „Училищни улици“ събра децата и жителите на район „Оборище“
@@ -46,7 +47,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Уведомление за предстоящ ремонт на ул. „Черковна“
 - 93 проекта ще получат финансиране по Столична програма „Култура“
 - Актуална информация за провеждането на тържества на територията на Столична община
-- Важно за предстоящите на 25.10.2026 г. избори за президент и вицепрезидент на Република България.
 - Recent archive:
 - https://kvartalami.com/archive/2026-10-13.html
 - https://kvartalami.com/archive/2026-10-12.html
@@ -62,9 +62,10 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (50 items in the last 30 days):
+- Recent headlines (51 items in the last 30 days):
 - Аварийно спиране: Зона за спиране: Витоша-Каре: ул. Шумако, ул. Каменица, ул. Крайречна, ул. Симеоновско шосе.
 - Планово прекъсване на тока: СТУДЕНТСКИ ГРАД
+- Как искате да изглежда парк „Кошарите“?
 - Аварийно спиране: Зона за спиране: с. Бистрица - ул. Капина от ул. Момин Проход до ул. Черни връх
 - Sпортно-културно събитие „Движение, ритъм и здраве под небето“
 - Авария по тока: жк.ОВЧА КУПЕЛ І
@@ -72,7 +73,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - „Черни връх на един дъх“
 - Стартира програмата „Граждански бюджет“
 - Планово прекъсване на тока: кв. СУХОДОЛ
-- Планово прекъсване на тока: БЪРДО
 - Recent archive:
 - https://kvartalami.com/lozenets/archive/2026-10-13.html
 - https://kvartalami.com/lozenets/archive/2026-10-12.html
