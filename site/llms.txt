@@ -36,7 +36,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (49 items in the last 30 days):
+- Recent headlines (50 items in the last 30 days):
+- Аварийно спиране: Зона за спиране: Оборище - ул. Сливница от ул. Васил Левски до ул. Г.С. Раковски
 - Столична община търси нови идеи за София
 - Извършени санитарни дейности и премахване на изсъхнали дървета
 - Започва набирането на проекти по програмата „Идеи за града“ – Столичната община увеличава средствата с близо 50%
@@ -46,8 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария по тока: кв. ОРЛАНДОВЦИ
 - Уведомление за предстоящ ремонт на ул. „Черковна“
 - 93 проекта ще получат финансиране по Столична програма „Култура“
-- Актуална информация за провеждането на тържества на територията на Столична община
 - Recent archive:
+- https://kvartalami.com/archive/2026-10-14.html
 - https://kvartalami.com/archive/2026-10-13.html
 - https://kvartalami.com/archive/2026-10-12.html
 - https://kvartalami.com/archive/2026-10-09.html
@@ -57,12 +58,12 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-10-05.html
 - https://kvartalami.com/archive/2026-10-02.html
 - https://kvartalami.com/archive/2026-09-28.html
-- https://kvartalami.com/archive/2026-09-26.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (51 items in the last 30 days):
+- Recent headlines (52 items in the last 30 days):
+- Планово прекъсване на тока: СТУДЕНТСКИ ГРАД
 - Аварийно спиране: Зона за спиране: Витоша-Каре: ул. Шумако, ул. Каменица, ул. Крайречна, ул. Симеоновско шосе.
 - Планово прекъсване на тока: СТУДЕНТСКИ ГРАД
 - Как искате да изглежда парк „Кошарите“?
@@ -72,8 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Планово прекъсване на тока: жк.ИВАН ВАЗОВ
 - „Черни връх на един дъх“
 - Стартира програмата „Граждански бюджет“
-- Планово прекъсване на тока: кв. СУХОДОЛ
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-10-14.html
 - https://kvartalami.com/lozenets/archive/2026-10-13.html
 - https://kvartalami.com/lozenets/archive/2026-10-12.html
 - https://kvartalami.com/lozenets/archive/2026-10-10.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-10-05.html
 - https://kvartalami.com/lozenets/archive/2026-10-03.html
 - https://kvartalami.com/lozenets/archive/2026-10-02.html
-- https://kvartalami.com/lozenets/archive/2026-10-01.html
 
 ## Sitemap
 
