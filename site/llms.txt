@@ -36,7 +36,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (50 items in the last 30 days):
+- Recent headlines (46 items in the last 30 days):
+- Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Сердика
 - Аварийно спиране: Зона за спиране: Оборище - ул. Сливница от ул. Васил Левски до ул. Г.С. Раковски
 - Столична община търси нови идеи за София
 - Извършени санитарни дейности и премахване на изсъхнали дървета
@@ -46,8 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - За втора година  „Училищни улици“ събра децата и жителите на район „Оборище“
 - Авария по тока: кв. ОРЛАНДОВЦИ
 - Уведомление за предстоящ ремонт на ул. „Черковна“
-- 93 проекта ще получат финансиране по Столична програма „Култура“
 - Recent archive:
+- https://kvartalami.com/archive/2026-10-15.html
 - https://kvartalami.com/archive/2026-10-14.html
 - https://kvartalami.com/archive/2026-10-13.html
 - https://kvartalami.com/archive/2026-10-12.html
@@ -57,12 +58,11 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-10-06.html
 - https://kvartalami.com/archive/2026-10-05.html
 - https://kvartalami.com/archive/2026-10-02.html
-- https://kvartalami.com/archive/2026-09-28.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (54 items in the last 30 days):
+- Recent headlines (53 items in the last 30 days):
 - Планово прекъсване на тока: СТУДЕНТСКИ ГРАД
 - Обява за медицинска сестра за кабинет
 - Обява за медицинска сестра за яслена група
