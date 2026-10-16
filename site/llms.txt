@@ -62,8 +62,9 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (50 items in the last 30 days):
+- Recent headlines (51 items in the last 30 days):
 - Авария по тока: кв. ВИТОША - общ.Лозенец
+- ОБЯВА ЗА МЛАДШИ ЕКСПЕРТ- УРБАНИСТ В ОТДЕЛ „АРХИТЕКТУРНИ, ГРАДОУСТРОЙСТВЕНИ ДЕЙНОСТИ И КАДАСТЪР“
 - Планово прекъсване на тока: СТУДЕНТСКИ ГРАД
 - Обява за медицинска сестра за кабинет
 - Обява за медицинска сестра за яслена група
@@ -72,7 +73,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Планово прекъсване на тока: СТУДЕНТСКИ ГРАД
 - Как искате да изглежда парк „Кошарите“?
 - Аварийно спиране: Зона за спиране: с. Бистрица - ул. Капина от ул. Момин Проход до ул. Черни връх
-- Sпортно-културно събитие „Движение, ритъм и здраве под небето“
 - Recent archive:
 - https://kvartalami.com/lozenets/archive/2026-10-16.html
 - https://kvartalami.com/lozenets/archive/2026-10-14.html
