@@ -5,7 +5,18 @@
     <link>https://kvartalami.com/lozenets</link>
     <description>Хипер-локални новини за район Лозенец</description>
     <language>bg</language>
-    <lastBuildDate>Thu, 15 Oct 2026 19:33:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 08:35:49 GMT</lastBuildDate>
+    <item>
+      <title>Авария по тока: кв. ВИТОША - общ.Лозенец</title>
+      <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF41%7C16.10.2026%2011%3A30%7C%D0%BA%D0%B2.%20%D0%92%D0%98%D0%A2%D0%9E%D0%A8%D0%90%20-%20%D0%BE%D0%B1%D1%89.%D0%9B%D0%BE%D0%B7%D0%B5%D0%BD%D0%B5%D1%86</link>
+      <guid isPermaLink="false">0f4889a2fd88</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Ремонти</category>
+      <description>Тип: аварийно прекъсване
+Населено място: кв. ВИТОША - общ.Лозенец
+Начало: 16.10.2026 11:30
+Очаквано възстановяване: 16.10.2026 12:15</description>
+    </item>
     <item>
       <title>Планово прекъсване на тока: СТУДЕНТСКИ ГРАД</title>
       <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF13%7C14.10.2026%2008%3A53%7C%D0%A1%D0%A2%D0%A3%D0%94%D0%95%D0%9D%D0%A2%D0%A1%D0%9A%D0%98%20%D0%93%D0%A0%D0%90%D0%94</link>
@@ -390,17 +401,6 @@
       <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
       <category>Местна власт</category>
       <description>РАЗРЕШЕНИЕ за строеж Б-273/15.09.2026 г.</description>
-    </item>
-    <item>
-      <title>Авария по тока: жк.НАДЕЖДА - VI ЧАСТ</title>
-      <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF22%7C22.09.2026%2011%3A47%7C%D0%B6%D0%BA.%D0%9D%D0%90%D0%94%D0%95%D0%96%D0%94%D0%90%20-%20VI%20%D0%A7%D0%90%D0%A1%D0%A2</link>
-      <guid isPermaLink="false">8ad4f0da6c10</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-      <category>Ремонти</category>
-      <description>Тип: аварийно прекъсване
-Населено място: жк.НАДЕЖДА - VI ЧАСТ
-Начало: 22.09.2026 11:47
-Очаквано възстановяване: 22.09.2026 13:45</description>
     </item>
   </channel>
 </rss>
