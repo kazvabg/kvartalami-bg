@@ -36,7 +36,9 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (42 items in the last 30 days):
+- Recent headlines (41 items in the last 30 days):
+- Авария: Част от Център
+- Планово прекъсване на тока: кв. ОРЛАНДОВЦИ
 - Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Сердика
 - Аварийно спиране: Зона за спиране: Оборище - ул. Сливница от ул. Васил Левски до ул. Г.С. Раковски
 - Столична община търси нови идеи за София
@@ -45,9 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Временна промяна в движението на ул. „Богдан“
 - Предстоящи строителни дейности на ул. „Искър“
 - За втора година  „Училищни улици“ събра децата и жителите на район „Оборище“
-- Авария по тока: кв. ОРЛАНДОВЦИ
-- Уведомление за предстоящ ремонт на ул. „Черковна“
 - Recent archive:
+- https://kvartalami.com/archive/2026-10-17.html
 - https://kvartalami.com/archive/2026-10-15.html
 - https://kvartalami.com/archive/2026-10-14.html
 - https://kvartalami.com/archive/2026-10-13.html
@@ -57,12 +58,11 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-10-07.html
 - https://kvartalami.com/archive/2026-10-06.html
 - https://kvartalami.com/archive/2026-10-05.html
-- https://kvartalami.com/archive/2026-10-02.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (51 items in the last 30 days):
+- Recent headlines (47 items in the last 30 days):
 - Авария по тока: кв. ВИТОША - общ.Лозенец
 - ОБЯВА ЗА МЛАДШИ ЕКСПЕРТ- УРБАНИСТ В ОТДЕЛ „АРХИТЕКТУРНИ, ГРАДОУСТРОЙСТВЕНИ ДЕЙНОСТИ И КАДАСТЪР“
 - Планово прекъсване на тока: СТУДЕНТСКИ ГРАД
