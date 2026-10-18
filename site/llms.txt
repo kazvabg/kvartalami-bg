@@ -36,7 +36,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (41 items in the last 30 days):
+- Recent headlines (39 items in the last 30 days):
 - Авария: Част от Център
 - Планово прекъсване на тока: кв. ОРЛАНДОВЦИ
 - Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Сердика
@@ -62,7 +62,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (47 items in the last 30 days):
+- Recent headlines (45 items in the last 30 days):
 - Авария по тока: кв. ВИТОША - общ.Лозенец
 - ОБЯВА ЗА МЛАДШИ ЕКСПЕРТ- УРБАНИСТ В ОТДЕЛ „АРХИТЕКТУРНИ, ГРАДОУСТРОЙСТВЕНИ ДЕЙНОСТИ И КАДАСТЪР“
 - Планово прекъсване на тока: СТУДЕНТСКИ ГРАД
