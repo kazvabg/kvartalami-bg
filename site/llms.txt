@@ -36,9 +36,10 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (37 items in the last 30 days):
+- Recent headlines (38 items in the last 30 days):
 - Аварийно спиране: Зона за спиране : кв. Център - ул. Шипка от ул. Сан Стефано до ул. Васил Априлов.
 - Авария: Част от Център
+- Временно затваряне на участък от ул. „Велико Търново“
 - Авария: Част от Център
 - Планово прекъсване на тока: кв. ОРЛАНДОВЦИ
 - Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Сердика
@@ -46,7 +47,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Столична община търси нови идеи за София
 - Извършени санитарни дейности и премахване на изсъхнали дървета
 - Започва набирането на проекти по програмата „Идеи за града“ – Столичната община увеличава средствата с близо 50%
-- Временна промяна в движението на ул. „Богдан“
 - Recent archive:
 - https://kvartalami.com/archive/2026-10-19.html
 - https://kvartalami.com/archive/2026-10-17.html
