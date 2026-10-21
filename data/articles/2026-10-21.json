@@ -13,5 +13,53 @@
     "district": "lozenets",
     "sourceName": "ЕРМ Запад",
     "fetchedAt": "2026-10-21T08:58:49.805Z"
+  },
+  {
+    "title": "София ускорява мерките за по-чист въздух: Нови глобални партньорства и план за целогодишни нискоемисионни зони",
+    "url": "https://rayon-oborishte.bg/%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d1%83%d1%81%d0%ba%d0%be%d1%80%d1%8f%d0%b2%d0%b0-%d0%bc%d0%b5%d1%80%d0%ba%d0%b8%d1%82%d0%b5-%d0%b7%d0%b0-%d0%bf%d0%be-%d1%87%d0%b8%d1%81%d1%82-%d0%b2%d1%8a%d0%b7%d0%b4/",
+    "content": "Столичната община прави важна крачка в борбата със замърсяването на…",
+    "category": "government",
+    "date": "2026-10-21",
+    "source": "rayon-oborishte",
+    "id": "64063cff92e2",
+    "district": "oborishte",
+    "sourceName": "Район Оборище",
+    "fetchedAt": "2026-10-21T14:45:09.865Z"
+  },
+  {
+    "title": "Уведомление за временна организация на движението по ул. „Ангиста“",
+    "url": "https://rayon-oborishte.bg/%d1%83%d0%b2%d0%b5%d0%b4%d0%be%d0%bc%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b7%d0%b0-%d0%b2%d1%80%d0%b5%d0%bc%d0%b5%d0%bd%d0%bd%d0%b0-%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f/",
+    "content": "Уважаеми жители и гости на район „Оборище“, Уведомяваме Ви, че…",
+    "category": "government",
+    "date": "2026-10-21",
+    "source": "rayon-oborishte",
+    "id": "f963fbb895fb",
+    "district": "oborishte",
+    "sourceName": "Район Оборище",
+    "fetchedAt": "2026-10-21T14:45:09.865Z"
+  },
+  {
+    "title": "РАЗРЕШЕНИЕ за строеж Б-295/13.10.2026 г.",
+    "url": "https://lozenets.sofia.bg/%d1%80%d0%b0%d0%b7%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b7%d0%b0-%d1%81%d1%82%d1%80%d0%be%d0%b5%d0%b6-%d0%b1-295-13-10-2026-%d0%b3/",
+    "content": "РАЗРЕШЕНИЕ за строеж Б-295/13.10.2026 г.",
+    "category": "government",
+    "date": "2026-10-21",
+    "source": "rayon-lozenets",
+    "id": "a7fb6de4702c",
+    "district": "lozenets",
+    "sourceName": "Район Лозенец",
+    "fetchedAt": "2026-10-21T14:45:09.866Z"
+  },
+  {
+    "title": "Обява провеждане на конкурс за военни оркестранти в Съвместното командване на специалните операции",
+    "url": "https://lozenets.sofia.bg/%d0%be%d0%b1%d1%8f%d0%b2%d0%b0-%d0%bf%d1%80%d0%be%d0%b2%d0%b5%d0%b6%d0%b4%d0%b0%d0%bd%d0%b5-%d0%bd%d0%b0-%d0%ba%d0%be%d0%bd%d0%ba%d1%83%d1%80%d1%81-%d0%b7%d0%b0-%d0%b2%d0%be%d0%b5%d0%bd%d0%bd%d0%b8/",
+    "content": "Обява провеждане на конкурс за военни оркестранти в Съвместното командване на специалните операции",
+    "category": "events",
+    "date": "2026-10-21",
+    "source": "rayon-lozenets",
+    "id": "bb8dc03d8d7e",
+    "district": "lozenets",
+    "sourceName": "Район Лозенец",
+    "fetchedAt": "2026-10-21T14:45:09.866Z"
   }
 ]

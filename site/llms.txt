@@ -36,7 +36,9 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (39 items in the last 30 days):
+- Recent headlines (41 items in the last 30 days):
+- София ускорява мерките за по-чист въздух: Нови глобални партньорства и план за целогодишни нискоемисионни зони
+- Уведомление за временна организация на движението по ул. „Ангиста“
 - Провеждане на обучения на Секционни избирателни комисии в район „Оборище“
 - Аварийно спиране: Зона за спиране : кв. Център - ул. Шипка от ул. Сан Стефано до ул. Васил Априлов.
 - Авария: Част от Център
@@ -45,9 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Планово прекъсване на тока: кв. ОРЛАНДОВЦИ
 - Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Сердика
 - Аварийно спиране: Зона за спиране: Оборище - ул. Сливница от ул. Васил Левски до ул. Г.С. Раковски
-- Столична община търси нови идеи за София
-- Извършени санитарни дейности и премахване на изсъхнали дървета
 - Recent archive:
+- https://kvartalami.com/archive/2026-10-21.html
 - https://kvartalami.com/archive/2026-10-20.html
 - https://kvartalami.com/archive/2026-10-19.html
 - https://kvartalami.com/archive/2026-10-17.html
@@ -57,13 +58,14 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-10-12.html
 - https://kvartalami.com/archive/2026-10-09.html
 - https://kvartalami.com/archive/2026-10-08.html
-- https://kvartalami.com/archive/2026-10-07.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (48 items in the last 30 days):
+- Recent headlines (50 items in the last 30 days):
 - Планово прекъсване на тока: БЪРДО
+- РАЗРЕШЕНИЕ за строеж Б-295/13.10.2026 г.
+- Обява провеждане на конкурс за военни оркестранти в Съвместното командване на специалните операции
 - Планово прекъсване на тока: кв. ВИТОША - общ.Лозенец
 - Конкурс за „юрисконсулт“ в отдел „Контрол по строителството и екология“ на Район „Лозенец“
 - Авария: Част от Лозенец
@@ -71,8 +73,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - ОБЯВА ЗА МЛАДШИ ЕКСПЕРТ- УРБАНИСТ В ОТДЕЛ „АРХИТЕКТУРНИ, ГРАДОУСТРОЙСТВЕНИ ДЕЙНОСТИ И КАДАСТЪР“
 - Планово прекъсване на тока: СТУДЕНТСКИ ГРАД
 - Обява за медицинска сестра за кабинет
-- Обява за медицинска сестра за яслена група
-- Покана за среща на тема „Медиацията като средство за създаване на хармонична семейна среда“
 - Recent archive:
 - https://kvartalami.com/lozenets/archive/2026-10-21.html
 - https://kvartalami.com/lozenets/archive/2026-10-20.html

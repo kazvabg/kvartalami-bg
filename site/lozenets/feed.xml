@@ -5,7 +5,7 @@
     <link>https://kvartalami.com/lozenets</link>
     <description>Хипер-локални новини за район Лозенец</description>
     <language>bg</language>
-    <lastBuildDate>Wed, 21 Oct 2026 08:58:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 14:45:12 GMT</lastBuildDate>
     <item>
       <title>Планово прекъсване на тока: БЪРДО</title>
       <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SFO20%7C21.10.2026%2009%3A57%7C%D0%91%D0%AA%D0%A0%D0%94%D0%9E</link>
@@ -16,6 +16,22 @@
 Населено място: БЪРДО
 Начало: 21.10.2026 09:57
 Очаквано възстановяване: 21.10.2026 17:15</description>
+    </item>
+    <item>
+      <title>РАЗРЕШЕНИЕ за строеж Б-295/13.10.2026 г.</title>
+      <link>https://lozenets.sofia.bg/%d1%80%d0%b0%d0%b7%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b7%d0%b0-%d1%81%d1%82%d1%80%d0%be%d0%b5%d0%b6-%d0%b1-295-13-10-2026-%d0%b3/</link>
+      <guid isPermaLink="false">a7fb6de4702c</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Местна власт</category>
+      <description>РАЗРЕШЕНИЕ за строеж Б-295/13.10.2026 г.</description>
+    </item>
+    <item>
+      <title>Обява провеждане на конкурс за военни оркестранти в Съвместното командване на специалните операции</title>
+      <link>https://lozenets.sofia.bg/%d0%be%d0%b1%d1%8f%d0%b2%d0%b0-%d0%bf%d1%80%d0%be%d0%b2%d0%b5%d0%b6%d0%b4%d0%b0%d0%bd%d0%b5-%d0%bd%d0%b0-%d0%ba%d0%be%d0%bd%d0%ba%d1%83%d1%80%d1%81-%d0%b7%d0%b0-%d0%b2%d0%be%d0%b5%d0%bd%d0%bd%d0%b8/</link>
+      <guid isPermaLink="false">bb8dc03d8d7e</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Събития</category>
+      <description>Обява провеждане на конкурс за военни оркестранти в Съвместното командване на специалните операции</description>
     </item>
     <item>
       <title>Планово прекъсване на тока: кв. ВИТОША - общ.Лозенец</title>
@@ -382,25 +398,6 @@
 Адреси: ул. &quot;Бунтовник&quot; № 43
 Начало: 30.09.2026 г., 10:30:00 ч.
 Очаквано възстановяване: 30.09.2026 г., 18:30:00 ч.</description>
-    </item>
-    <item>
-      <title>Планово прекъсване на тока: кв. ВИТОША - общ.Лозенец</title>
-      <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF41%7C30.09.2026%2010%3A37%7C%D0%BA%D0%B2.%20%D0%92%D0%98%D0%A2%D0%9E%D0%A8%D0%90%20-%20%D0%BE%D0%B1%D1%89.%D0%9B%D0%BE%D0%B7%D0%B5%D0%BD%D0%B5%D1%86</link>
-      <guid isPermaLink="false">76e2e3edfce4</guid>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-      <category>Ремонти</category>
-      <description>Тип: планово прекъсване
-Населено място: кв. ВИТОША - общ.Лозенец
-Начало: 30.09.2026 10:37
-Очаквано възстановяване: 30.09.2026 16:30</description>
-    </item>
-    <item>
-      <title>Визионери на регионите</title>
-      <link>https://lozenets.sofia.bg/%d0%b2%d0%b8%d0%b7%d0%b8%d0%be%d0%bd%d0%b5%d1%80%d0%b8-%d0%bd%d0%b0-%d1%80%d0%b5%d0%b3%d0%b8%d0%be%d0%bd%d0%b8%d1%82%d0%b5/</link>
-      <guid isPermaLink="false">00429bcdd352</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-      <category>Събития</category>
-      <description>Списание „Мениджър“ дава начало на националния конкурс „Визионери на регионите“, посветен на личности, компании и организации, които с действията си създават реална промяна в българските региони.…</description>
     </item>
   </channel>
 </rss>
