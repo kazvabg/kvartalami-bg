@@ -62,7 +62,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (47 items in the last 30 days):
+- Recent headlines (48 items in the last 30 days):
+- Планово прекъсване на тока: БЪРДО
 - Планово прекъсване на тока: кв. ВИТОША - общ.Лозенец
 - Конкурс за „юрисконсулт“ в отдел „Контрол по строителството и екология“ на Район „Лозенец“
 - Авария: Част от Лозенец
@@ -72,8 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Обява за медицинска сестра за кабинет
 - Обява за медицинска сестра за яслена група
 - Покана за среща на тема „Медиацията като средство за създаване на хармонична семейна среда“
-- Аварийно спиране: Зона за спиране: Витоша-Каре: ул. Шумако, ул. Каменица, ул. Крайречна, ул. Симеоновско шосе.
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-10-21.html
 - https://kvartalami.com/lozenets/archive/2026-10-20.html
 - https://kvartalami.com/lozenets/archive/2026-10-19.html
 - https://kvartalami.com/lozenets/archive/2026-10-16.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-10-10.html
 - https://kvartalami.com/lozenets/archive/2026-10-09.html
 - https://kvartalami.com/lozenets/archive/2026-10-07.html
-- https://kvartalami.com/lozenets/archive/2026-10-06.html
 
 ## Sitemap
 

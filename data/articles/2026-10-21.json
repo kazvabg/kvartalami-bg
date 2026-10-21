@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Планово прекъсване на тока: БЪРДО",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SFO20%7C21.10.2026%2009%3A57%7C%D0%91%D0%AA%D0%A0%D0%94%D0%9E",
+    "content": "Тип: планово прекъсване\nНаселено място: БЪРДО\nНачало: 21.10.2026 09:57\nОчаквано възстановяване: 21.10.2026 17:15",
+    "category": "repairs",
+    "date": "2026-10-21",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "7607409125e3",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-10-21T08:58:49.805Z"
+  }
+]
