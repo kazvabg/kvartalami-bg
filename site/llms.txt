@@ -36,7 +36,9 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (41 items in the last 30 days):
+- Recent headlines (43 items in the last 30 days):
+- Авария: Част от Оборище
+- График за разполагане на изборните книжа, материали и СУМГ по местата за гласуване
 - София ускорява мерките за по-чист въздух: Нови глобални партньорства и план за целогодишни нискоемисионни зони
 - Уведомление за временна организация на движението по ул. „Ангиста“
 - Провеждане на обучения на Секционни избирателни комисии в район „Оборище“
@@ -45,9 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Временно затваряне на участък от ул. „Велико Търново“
 - Авария: Част от Център
 - Планово прекъсване на тока: кв. ОРЛАНДОВЦИ
-- Планово прекъсване на тока: ЦЕНТРАЛНА ГР.ЧАСТ СОФИЯ общ.Сердика
-- Аварийно спиране: Зона за спиране: Оборище - ул. Сливница от ул. Васил Левски до ул. Г.С. Раковски
 - Recent archive:
+- https://kvartalami.com/archive/2026-10-22.html
 - https://kvartalami.com/archive/2026-10-21.html
 - https://kvartalami.com/archive/2026-10-20.html
 - https://kvartalami.com/archive/2026-10-19.html
@@ -57,23 +58,23 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-10-13.html
 - https://kvartalami.com/archive/2026-10-12.html
 - https://kvartalami.com/archive/2026-10-09.html
-- https://kvartalami.com/archive/2026-10-08.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (50 items in the last 30 days):
+- Recent headlines (56 items in the last 30 days):
+- Авария: Част от Лозенец
+- Авария по тока: жк.ДИАНАБАД, жк.ИЗТОК
+- Авария по тока: жк.ДИАНАБАД
+- Авария по тока: кв. ВИТОША - общ.Лозенец, кв. ХЛАДИЛНИКА
+- Авария по тока: кв. ВИТОША - общ.Лозенец
+- Авария по тока: кв. ХЛАДИЛНИКА
+- Планово прекъсване на тока: БЕЛИЦА, общ. Ихтиман
+- Планово прекъсване на тока: БЪРДО
 - Планово прекъсване на тока: БЪРДО
 - РАЗРЕШЕНИЕ за строеж Б-295/13.10.2026 г.
-- Обява провеждане на конкурс за военни оркестранти в Съвместното командване на специалните операции
-- Планово прекъсване на тока: кв. ВИТОША - общ.Лозенец
-- Конкурс за „юрисконсулт“ в отдел „Контрол по строителството и екология“ на Район „Лозенец“
-- Авария: Част от Лозенец
-- Авария по тока: кв. ВИТОША - общ.Лозенец
-- ОБЯВА ЗА МЛАДШИ ЕКСПЕРТ- УРБАНИСТ В ОТДЕЛ „АРХИТЕКТУРНИ, ГРАДОУСТРОЙСТВЕНИ ДЕЙНОСТИ И КАДАСТЪР“
-- Планово прекъсване на тока: СТУДЕНТСКИ ГРАД
-- Обява за медицинска сестра за кабинет
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-10-22.html
 - https://kvartalami.com/lozenets/archive/2026-10-21.html
 - https://kvartalami.com/lozenets/archive/2026-10-20.html
 - https://kvartalami.com/lozenets/archive/2026-10-19.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-10-12.html
 - https://kvartalami.com/lozenets/archive/2026-10-10.html
 - https://kvartalami.com/lozenets/archive/2026-10-09.html
-- https://kvartalami.com/lozenets/archive/2026-10-07.html
 
 ## Sitemap
 
