@@ -36,7 +36,9 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (43 items in the last 30 days):
+- Recent headlines (45 items in the last 30 days):
+- Предстоящи временни ограничения на движението на ул. „Георги Бенковски“
+- Успешно районно първенство по футбол за учениците в район „Оборище“ за учебната 2026/2027 г.
 - Авария: Част от Оборище
 - График за разполагане на изборните книжа, материали и СУМГ по местата за гласуване
 - София ускорява мерките за по-чист въздух: Нови глобални партньорства и план за целогодишни нискоемисионни зони
@@ -45,9 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Аварийно спиране: Зона за спиране : кв. Център - ул. Шипка от ул. Сан Стефано до ул. Васил Априлов.
 - Авария: Част от Център
 - Временно затваряне на участък от ул. „Велико Търново“
-- Авария: Част от Център
-- Планово прекъсване на тока: кв. ОРЛАНДОВЦИ
 - Recent archive:
+- https://kvartalami.com/archive/2026-10-23.html
 - https://kvartalami.com/archive/2026-10-22.html
 - https://kvartalami.com/archive/2026-10-21.html
 - https://kvartalami.com/archive/2026-10-20.html
@@ -57,12 +58,11 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-10-14.html
 - https://kvartalami.com/archive/2026-10-13.html
 - https://kvartalami.com/archive/2026-10-12.html
-- https://kvartalami.com/archive/2026-10-09.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (59 items in the last 30 days):
+- Recent headlines (58 items in the last 30 days):
 - Авария: Част от Лозенец
 - Авария по тока: жк.ДИАНАБАД, жк.ИЗТОК
 - Авария по тока: жк.ДИАНАБАД
