@@ -62,7 +62,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (56 items in the last 30 days):
+- Recent headlines (57 items in the last 30 days):
+- Авария: Част от Дианабад
 - Авария: Част от Лозенец
 - Авария по тока: жк.ДИАНАБАД, жк.ИЗТОК
 - Авария по тока: жк.ДИАНАБАД
@@ -72,8 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Планово прекъсване на тока: БЕЛИЦА, общ. Ихтиман
 - Планово прекъсване на тока: БЪРДО
 - Проект „В безопасност онлайн: заедно за киберсигурността на децата“ по програма „Европа“ 2026
-- Официално е открита първата общинска детска и спортна площадка в „Кръстова вада – изток“
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-10-25.html
 - https://kvartalami.com/lozenets/archive/2026-10-22.html
 - https://kvartalami.com/lozenets/archive/2026-10-21.html
 - https://kvartalami.com/lozenets/archive/2026-10-20.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-10-14.html
 - https://kvartalami.com/lozenets/archive/2026-10-13.html
 - https://kvartalami.com/lozenets/archive/2026-10-12.html
-- https://kvartalami.com/lozenets/archive/2026-10-10.html
 
 ## Sitemap
 
