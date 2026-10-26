@@ -36,7 +36,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (39 items in the last 30 days):
+- Recent headlines (38 items in the last 30 days):
+- Временно затваряне на улица ул. „Св. Св. Кирил и Методий“
 - Предстоящи временни ограничения на движението на ул. „Георги Бенковски“
 - Успешно районно първенство по футбол за учениците в район „Оборище“ за учебната 2026/2027 г.
 - Авария: Част от Оборище
@@ -46,8 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Провеждане на обучения на Секционни избирателни комисии в район „Оборище“
 - Аварийно спиране: Зона за спиране : кв. Център - ул. Шипка от ул. Сан Стефано до ул. Васил Априлов.
 - Авария: Част от Център
-- Временно затваряне на участък от ул. „Велико Търново“
 - Recent archive:
+- https://kvartalami.com/archive/2026-10-26.html
 - https://kvartalami.com/archive/2026-10-23.html
 - https://kvartalami.com/archive/2026-10-22.html
 - https://kvartalami.com/archive/2026-10-21.html
@@ -57,12 +58,11 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-10-15.html
 - https://kvartalami.com/archive/2026-10-14.html
 - https://kvartalami.com/archive/2026-10-13.html
-- https://kvartalami.com/archive/2026-10-12.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (57 items in the last 30 days):
+- Recent headlines (54 items in the last 30 days):
 - Авария: Част от Дианабад
 - Авария: Част от Лозенец
 - Авария по тока: жк.ДИАНАБАД, жк.ИЗТОК
