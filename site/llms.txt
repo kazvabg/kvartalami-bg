@@ -37,6 +37,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 
 - Home: https://kvartalami.com/
 - Recent headlines (40 items in the last 30 days):
+- Уведомление за предстоящо затваряне на ул. „Русалка“ № 1
 - Временно затваряне на улица ул. „Св. Св. Кирил и Методий“
 - Предстои зазимяване на чешмите в район „Оборище“
 - Утвърдени заповеди на район „Оборище“ – СО относно фасадите и тротоарите в района
@@ -46,8 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - График за разполагане на изборните книжа, материали и СУМГ по местата за гласуване
 - София ускорява мерките за по-чист въздух: Нови глобални партньорства и план за целогодишни нискоемисионни зони
 - Уведомление за временна организация на движението по ул. „Ангиста“
-- Провеждане на обучения на Секционни избирателни комисии в район „Оборище“
 - Recent archive:
+- https://kvartalami.com/archive/2026-10-27.html
 - https://kvartalami.com/archive/2026-10-26.html
 - https://kvartalami.com/archive/2026-10-23.html
 - https://kvartalami.com/archive/2026-10-22.html
@@ -57,7 +58,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-10-17.html
 - https://kvartalami.com/archive/2026-10-15.html
 - https://kvartalami.com/archive/2026-10-14.html
-- https://kvartalami.com/archive/2026-10-13.html
 
 ### Район Лозенец
 
