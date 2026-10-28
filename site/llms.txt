@@ -62,8 +62,9 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (55 items in the last 30 days):
+- Recent headlines (56 items in the last 30 days):
 - ОБЯВЛЕНИЕ ЗА ОБЩЕСТВЕНО ОБСЪЖДАНЕ
+- Изграждане на кабелна линия
 - Авария: Част от Дианабад
 - Авария: Част от Лозенец
 - Авария по тока: жк.ДИАНАБАД, жк.ИЗТОК
@@ -72,7 +73,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария по тока: кв. ВИТОША - общ.Лозенец
 - Авария по тока: кв. ХЛАДИЛНИКА
 - Планово прекъсване на тока: БЕЛИЦА, общ. Ихтиман
-- Планово прекъсване на тока: БЪРДО
 - Recent archive:
 - https://kvartalami.com/lozenets/archive/2026-10-28.html
 - https://kvartalami.com/lozenets/archive/2026-10-25.html
