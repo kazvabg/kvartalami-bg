@@ -5,7 +5,7 @@
     <link>https://kvartalami.com</link>
     <description>Хипер-локални новини за район Оборище</description>
     <language>bg</language>
-    <lastBuildDate>Wed, 28 Oct 2026 20:40:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 10:33:28 GMT</lastBuildDate>
     <item>
       <title>Уведомление за предстоящо затваряне на ул. „Русалка“ № 1</title>
       <link>https://rayon-oborishte.bg/%d1%83%d0%b2%d0%b5%d0%b4%d0%be%d0%bc%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%be%d1%8f%d1%89%d0%be-%d0%b7%d0%b0%d1%82%d0%b2%d0%b0%d1%80%d1%8f%d0%bd%d0%b5-4/</link>
@@ -21,6 +21,17 @@
       <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
       <category>Местна власт</category>
       <description>Уважаеми жители и гости на район „Оборище“, Уведомяваме Ви, че…</description>
+    </item>
+    <item>
+      <title>Аварийно спиране: Зона за спиране : с. Горни богров - района между бул. Васил Левски, ул. Стефан Караджа, ул. Морава и у</title>
+      <link>https://www.sofiyskavoda.bg/water-stops#1433970</link>
+      <guid isPermaLink="false">43b3275e6664</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Ремонти</category>
+      <description>Местоположение: Зона за спиране : с. Горни богров - района между бул. Васил Левски, ул. Стефан Караджа, ул. Морава и ул. Кладенците
+Тип: Аварийно спиране
+Описание: Ремонт на уличен водопровод
+Начало:…</description>
     </item>
     <item>
       <title>Временно затваряне на улица ул. „Св. Св. Кирил и Методий“</title>
@@ -348,14 +359,6 @@
       <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
       <category>Местна власт</category>
       <description>Уважаеми жители и гости на район „Оборище“, Във връзка със…</description>
-    </item>
-    <item>
-      <title>Уведомление за предстоящ ремонт на тротоарни настилки</title>
-      <link>https://rayon-oborishte.bg/%d1%83%d0%b2%d0%b5%d0%b4%d0%be%d0%bc%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%be%d1%8f%d1%89-%d1%80%d0%b5%d0%bc%d0%be%d0%bd%d1%82-%d0%bd%d0%b0-%d1%82%d1%80/</link>
-      <guid isPermaLink="false">28e4bcc482c4</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-      <category>Ремонти</category>
-      <description>Уважаеми жители и гости на район „Оборище“, Информираме Ви, че…</description>
     </item>
   </channel>
 </rss>

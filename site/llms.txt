@@ -36,9 +36,10 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (41 items in the last 30 days):
+- Recent headlines (40 items in the last 30 days):
 - Уведомление за предстоящо затваряне на ул. „Русалка“ № 1
 - Предстоящи временни затваряния на ул.“Бачо Киро“ и ул.“Тракия“
+- Аварийно спиране: Зона за спиране : с. Горни богров - района между бул. Васил Левски, ул. Стефан Караджа, ул. Морава и у
 - Временно затваряне на улица ул. „Св. Св. Кирил и Методий“
 - Предстои зазимяване на чешмите в район „Оборище“
 - Утвърдени заповеди на район „Оборище“ – СО относно фасадите и тротоарите в района
@@ -46,7 +47,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Успешно районно първенство по футбол за учениците в район „Оборище“ за учебната 2026/2027 г.
 - Авария: Част от Оборище
 - График за разполагане на изборните книжа, материали и СУМГ по местата за гласуване
-- София ускорява мерките за по-чист въздух: Нови глобални партньорства и план за целогодишни нискоемисионни зони
 - Recent archive:
 - https://kvartalami.com/archive/2026-10-27.html
 - https://kvartalami.com/archive/2026-10-26.html
@@ -62,7 +62,10 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (56 items in the last 30 days):
+- Recent headlines (58 items in the last 30 days):
+- Планово прекъсване на тока: кв. ВИТОША - общ.Лозенец
+- Планово прекъсване на тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ
+- Започна изграждането на новата обществена градина „Яна Язова“ в район „Лозенец“
 - ОБЯВЛЕНИЕ ЗА ОБЩЕСТВЕНО ОБСЪЖДАНЕ
 - Изграждане на кабелна линия
 - Авария: Част от Дианабад
@@ -70,10 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария по тока: жк.ДИАНАБАД, жк.ИЗТОК
 - Авария по тока: жк.ДИАНАБАД
 - Авария по тока: кв. ВИТОША - общ.Лозенец, кв. ХЛАДИЛНИКА
-- Авария по тока: кв. ВИТОША - общ.Лозенец
-- Авария по тока: кв. ХЛАДИЛНИКА
-- Планово прекъсване на тока: БЕЛИЦА, общ. Ихтиман
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-10-29.html
 - https://kvartalami.com/lozenets/archive/2026-10-28.html
 - https://kvartalami.com/lozenets/archive/2026-10-25.html
 - https://kvartalami.com/lozenets/archive/2026-10-22.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-10-17.html
 - https://kvartalami.com/lozenets/archive/2026-10-16.html
 - https://kvartalami.com/lozenets/archive/2026-10-14.html
-- https://kvartalami.com/lozenets/archive/2026-10-13.html
 
 ## Sitemap
 
