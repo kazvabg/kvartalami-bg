@@ -36,18 +36,19 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (40 items in the last 30 days):
+- Recent headlines (44 items in the last 30 days):
+- Аварийно спиране: Зона на спиране: кв. Център - ул. Екзарх Йосиф от бул. Васил Левски до ул. Христо Ковачев
+- Авария: Част от Оборище
+- Авария: Част от Оборище
+- Столична община стартира нов проект за подмяна на отоплителните уреди
 - Уведомление за предстоящо затваряне на ул. „Русалка“ № 1
 - Предстоящи временни затваряния на ул.“Бачо Киро“ и ул.“Тракия“
 - Аварийно спиране: Зона за спиране : с. Горни богров - района между бул. Васил Левски, ул. Стефан Караджа, ул. Морава и у
 - Временно затваряне на улица ул. „Св. Св. Кирил и Методий“
 - Предстои зазимяване на чешмите в район „Оборище“
 - Утвърдени заповеди на район „Оборище“ – СО относно фасадите и тротоарите в района
-- Предстоящи временни ограничения на движението на ул. „Георги Бенковски“
-- Успешно районно първенство по футбол за учениците в район „Оборище“ за учебната 2026/2027 г.
-- Авария: Част от Оборище
-- График за разполагане на изборните книжа, материали и СУМГ по местата за гласуване
 - Recent archive:
+- https://kvartalami.com/archive/2026-10-30.html
 - https://kvartalami.com/archive/2026-10-27.html
 - https://kvartalami.com/archive/2026-10-26.html
 - https://kvartalami.com/archive/2026-10-23.html
@@ -57,7 +58,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-10-19.html
 - https://kvartalami.com/archive/2026-10-17.html
 - https://kvartalami.com/archive/2026-10-15.html
-- https://kvartalami.com/archive/2026-10-14.html
 
 ### Район Лозенец
 
