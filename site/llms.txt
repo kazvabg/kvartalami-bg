@@ -62,7 +62,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (59 items in the last 30 days):
+- Recent headlines (57 items in the last 30 days):
 - Планово прекъсване на тока: кв. ВИТОША - общ.Лозенец
 - Планово прекъсване на тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ
 - Започна изграждането на новата обществена градина „Яна Язова“ в район „Лозенец“
