@@ -36,7 +36,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (46 items in the last 30 days):
+- Recent headlines (44 items in the last 30 days):
 - Аварийно спиране: зона за  спиране - кв.  Център - бул. Княгиня  Мария  Луиза, бул. Цар Освободител, бул. Васил Левски  
 - Аварийно спиране: Зона на спиране: кв. Център - ул. Екзарх Йосиф от бул. Васил Левски до ул. Христо Ковачев
 - Авария: Част от Оборище
@@ -62,7 +62,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (53 items in the last 30 days):
+- Recent headlines (50 items in the last 30 days):
 - Планово прекъсване на тока: кв. ВИТОША - общ.Лозенец
 - Планово прекъсване на тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ
 - Започна изграждането на новата обществена градина „Яна Язова“ в район „Лозенец“
