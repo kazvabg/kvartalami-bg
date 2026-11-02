@@ -5,7 +5,26 @@
     <link>https://kvartalami.com</link>
     <description>Хипер-локални новини за район Оборище</description>
     <language>bg</language>
-    <lastBuildDate>Mon, 02 Nov 2026 11:49:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 23:15:10 GMT</lastBuildDate>
+    <item>
+      <title>Авария по тока: кв. КРЕМИКОВЦИ</title>
+      <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF33%7C03.11.2026%2001%3A07%7C%D0%BA%D0%B2.%20%D0%9A%D0%A0%D0%95%D0%9C%D0%98%D0%9A%D0%9E%D0%92%D0%A6%D0%98</link>
+      <guid isPermaLink="false">07070567b834</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Ремонти</category>
+      <description>Тип: аварийно прекъсване
+Населено място: кв. КРЕМИКОВЦИ
+Начало: 03.11.2026 01:07
+Очаквано възстановяване: 03.11.2026 03:00</description>
+    </item>
+    <item>
+      <title>Изплащане на възнаграждения на Членовете на секционни избирателни комисии (СИК)</title>
+      <link>https://rayon-oborishte.bg/%d0%b8%d0%b7%d0%bf%d0%bb%d0%b0%d1%89%d0%b0%d0%bd%d0%b5-%d0%bd%d0%b0-%d0%b2%d1%8a%d0%b7%d0%bd%d0%b0%d0%b3%d1%80%d0%b0%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d1%8f-%d0%bd%d0%b0-%d1%87%d0%bb%d0%b5%d0%bd%d0%be-3/</link>
+      <guid isPermaLink="false">0b9d892153e6</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Местна власт</category>
+      <description>Изплащането на възнагражденията на Членовете на секционни избирателни комисии (СИК),…</description>
+    </item>
     <item>
       <title>Аварийно спиране: зона за  спиране - кв.  Център - бул. Княгиня  Мария  Луиза, бул. Цар Освободител, бул. Васил Левски  </title>
       <link>https://www.sofiyskavoda.bg/water-stops#1435335</link>
@@ -348,25 +367,6 @@
       <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
       <category>Местна власт</category>
       <description>Уважаеми жители и гости на район „Оборище“, Информираме Ви за…</description>
-    </item>
-    <item>
-      <title>Аварийно спиране: зона на спиране: с. Лозен - ул. Шипка от ул. Трънски път до ул. Съединение и ул. Синчец</title>
-      <link>https://www.sofiyskavoda.bg/water-stops#1427956</link>
-      <guid isPermaLink="false">cd28829b8dbe</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-      <category>Ремонти</category>
-      <description>Местоположение: зона на спиране: с. Лозен - ул. Шипка от ул. Трънски път до ул. Съединение и ул. Синчец
-Тип: Аварийно спиране
-Описание: Ремонт на уличен водопровод
-Начало: 6.10.2026 г., 10:30 ч.…</description>
-    </item>
-    <item>
-      <title>Есенното издание на кампанията „ЕКОКЛАС 2026“ продължава в София</title>
-      <link>https://rayon-oborishte.bg/%d0%b5%d1%81%d0%b5%d0%bd%d0%bd%d0%be%d1%82%d0%be-%d0%b8%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d0%bd%d0%b0-%d0%ba%d0%b0%d0%bc%d0%bf%d0%b0%d0%bd%d0%b8%d1%8f%d1%82%d0%b0-%d0%b5%d0%ba%d0%be%d0%ba/</link>
-      <guid isPermaLink="false">deeca3cc373c</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-      <category>Местна власт</category>
-      <description>Ученици от 1. до 12. клас от столичните райони „Младост“,…</description>
     </item>
   </channel>
 </rss>
