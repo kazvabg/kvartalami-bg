@@ -36,7 +36,9 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (46 items in the last 30 days):
+- Recent headlines (48 items in the last 30 days):
+- Уведомление за предстоящи затваряния на бул.“Ситняково“
+- Нова платформа на Столична община за местата в детските градини и ясли
 - Авария по тока: кв. КРЕМИКОВЦИ
 - Изплащане на възнаграждения на Членовете на секционни избирателни комисии (СИК)
 - Аварийно спиране: зона за  спиране - кв.  Център - бул. Княгиня  Мария  Луиза, бул. Цар Освободител, бул. Васил Левски  
@@ -45,9 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария: Част от Оборище
 - Столична община стартира нов проект за подмяна на отоплителните уреди
 - Уведомление за предстоящо затваряне на ул. „Московска“
-- Уведомление за предстоящо затваряне на ул. „Русалка“ № 1
-- Предстоящи временни затваряния на ул.“Бачо Киро“ и ул.“Тракия“
 - Recent archive:
+- https://kvartalami.com/archive/2026-11-04.html
 - https://kvartalami.com/archive/2026-11-03.html
 - https://kvartalami.com/archive/2026-11-02.html
 - https://kvartalami.com/archive/2026-11-01.html
@@ -57,12 +58,12 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-10-23.html
 - https://kvartalami.com/archive/2026-10-22.html
 - https://kvartalami.com/archive/2026-10-21.html
-- https://kvartalami.com/archive/2026-10-20.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (55 items in the last 30 days):
+- Recent headlines (56 items in the last 30 days):
+- Авария: Част от Лозенец
 - Аварийно спиране: зона за   спиране - ж.к. Изток- Ул.Вълко Радински от Ул.Чарлз Дарвин до бул.Драган Цанков.
 - Събитие „Движение, ритъм и здраве под небето“
 - Авария: Част от Изток
@@ -72,8 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Започна изграждането на новата обществена градина „Яна Язова“ в район „Лозенец“
 - Лозенец спортува
 - ОБЯВЛЕНИЕ ЗА ОБЩЕСТВЕНО ОБСЪЖДАНЕ
-- Изграждане на кабелна линия
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-11-04.html
 - https://kvartalami.com/lozenets/archive/2026-11-03.html
 - https://kvartalami.com/lozenets/archive/2026-11-02.html
 - https://kvartalami.com/lozenets/archive/2026-10-30.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-10-23.html
 - https://kvartalami.com/lozenets/archive/2026-10-22.html
 - https://kvartalami.com/lozenets/archive/2026-10-21.html
-- https://kvartalami.com/lozenets/archive/2026-10-20.html
 
 ## Sitemap
 

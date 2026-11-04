@@ -34,5 +34,41 @@
     "district": "lozenets",
     "sourceName": "Район Лозенец",
     "fetchedAt": "2026-11-04T11:44:43.639Z"
+  },
+  {
+    "title": "Уведомление за предстоящи затваряния на бул.“Ситняково“",
+    "url": "https://rayon-oborishte.bg/%d1%83%d0%b2%d0%b5%d0%b4%d0%be%d0%bc%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%be%d1%8f%d1%89%d0%b8-%d0%b7%d0%b0%d1%82%d0%b2%d0%b0%d1%80%d1%8f%d0%bd%d0%b8-206/",
+    "content": "Уважаеми жители и гости на район “Оборище”, Информираме Ви, че…",
+    "category": "government",
+    "date": "2026-11-04",
+    "source": "rayon-oborishte",
+    "id": "0bf33acbf9f9",
+    "district": "oborishte",
+    "sourceName": "Район Оборище",
+    "fetchedAt": "2026-11-04T21:37:18.045Z"
+  },
+  {
+    "title": "Нова платформа на Столична община за местата в детските градини и ясли",
+    "url": "https://rayon-oborishte.bg/%d0%bd%d0%be%d0%b2%d0%b0-%d0%bf%d0%bb%d0%b0%d1%82%d1%84%d0%be%d1%80%d0%bc%d0%b0-%d0%bd%d0%b0-%d1%81%d1%82%d0%be%d0%bb%d0%b8%d1%87%d0%bd%d0%b0-%d0%be%d0%b1%d1%89%d0%b8%d0%bd%d0%b0-%d0%b7%d0%b0-%d0%bc/",
+    "content": "Има ли място за детето ми в детските градини и…",
+    "category": "government",
+    "date": "2026-11-04",
+    "source": "rayon-oborishte",
+    "id": "28e49dd4d688",
+    "district": "oborishte",
+    "sourceName": "Район Оборище",
+    "fetchedAt": "2026-11-04T21:37:18.045Z"
+  },
+  {
+    "title": "Авария: Част от Лозенец",
+    "url": "https://toplo.bg/accidents-and-maintenance#%D0%A7%D0%B0%D1%81%D1%82%20%D0%BE%D1%82%20%D0%9B%D0%BE%D0%B7%D0%B5%D0%BD%D0%B5%D1%86%7C%D1%83%D0%BB.%22%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%20%D0%92%D0%B8%D0%B4%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%22%20%E2%84%968",
+    "content": "Район: Част от Лозенец\nАдреси: ул.\"Кирил Видински\" №8\nНачало: 4.11.2026 г., 15:50:00 ч.\nОчаквано възстановяване: 6.11.2026 г., 15:50:00 ч.",
+    "category": "repairs",
+    "date": "2026-11-04",
+    "source": "toplofikacia",
+    "id": "add29850838e",
+    "district": "lozenets",
+    "sourceName": "Топлофикация София",
+    "fetchedAt": "2026-11-04T21:37:18.045Z"
   }
 ]
