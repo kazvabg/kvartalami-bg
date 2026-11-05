@@ -36,7 +36,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (48 items in the last 30 days):
+- Recent headlines (47 items in the last 30 days):
+- Санитарно премахване на опасната растителност в участъка на моста „Чавдар“
 - Уведомление за предстоящи затваряния на бул.“Ситняково“
 - Нова платформа на Столична община за местата в детските градини и ясли
 - Авария по тока: кв. КРЕМИКОВЦИ
@@ -46,8 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария: Част от Оборище
 - Авария: Част от Оборище
 - Столична община стартира нов проект за подмяна на отоплителните уреди
-- Уведомление за предстоящо затваряне на ул. „Московска“
 - Recent archive:
+- https://kvartalami.com/archive/2026-11-05.html
 - https://kvartalami.com/archive/2026-11-04.html
 - https://kvartalami.com/archive/2026-11-03.html
 - https://kvartalami.com/archive/2026-11-02.html
@@ -57,12 +58,12 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-10-26.html
 - https://kvartalami.com/archive/2026-10-23.html
 - https://kvartalami.com/archive/2026-10-22.html
-- https://kvartalami.com/archive/2026-10-21.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (56 items in the last 30 days):
+- Recent headlines (55 items in the last 30 days):
+- Аварийно спиране: Зона на спиране: ж. к. Лозенец - ул. Лале и ул. Гребен планина от номер 8 до ул. Крум Попов.
 - Авария: Част от Лозенец
 - Аварийно спиране: зона за   спиране - ж.к. Изток- Ул.Вълко Радински от Ул.Чарлз Дарвин до бул.Драган Цанков.
 - Събитие „Движение, ритъм и здраве под небето“
@@ -72,8 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Планово прекъсване на тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ
 - Започна изграждането на новата обществена градина „Яна Язова“ в район „Лозенец“
 - Лозенец спортува
-- ОБЯВЛЕНИЕ ЗА ОБЩЕСТВЕНО ОБСЪЖДАНЕ
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-11-05.html
 - https://kvartalami.com/lozenets/archive/2026-11-04.html
 - https://kvartalami.com/lozenets/archive/2026-11-03.html
 - https://kvartalami.com/lozenets/archive/2026-11-02.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-10-25.html
 - https://kvartalami.com/lozenets/archive/2026-10-23.html
 - https://kvartalami.com/lozenets/archive/2026-10-22.html
-- https://kvartalami.com/lozenets/archive/2026-10-21.html
 
 ## Sitemap
 
