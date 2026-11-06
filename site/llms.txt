@@ -36,7 +36,10 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (47 items in the last 30 days):
+- Recent headlines (46 items in the last 30 days):
+- Стани архитект на своя град: очакваме вашите идеи за 2027
+- Уведомление за  строително-монтажни дейности на ул.“Тракия“
+- Онлайн проучване: Какви пространства са нужни на младежите в София?
 - Санитарно премахване на опасната растителност в участъка на моста „Чавдар“
 - Уведомление за предстоящи затваряния на бул.“Ситняково“
 - Нова платформа на Столична община за местата в детските градини и ясли
@@ -44,10 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Изплащане на възнаграждения на Членовете на секционни избирателни комисии (СИК)
 - Аварийно спиране: зона за  спиране - кв.  Център - бул. Княгиня  Мария  Луиза, бул. Цар Освободител, бул. Васил Левски  
 - Аварийно спиране: Зона на спиране: кв. Център - ул. Екзарх Йосиф от бул. Васил Левски до ул. Христо Ковачев
-- Авария: Част от Оборище
-- Авария: Част от Оборище
-- Столична община стартира нов проект за подмяна на отоплителните уреди
 - Recent archive:
+- https://kvartalami.com/archive/2026-11-06.html
 - https://kvartalami.com/archive/2026-11-05.html
 - https://kvartalami.com/archive/2026-11-04.html
 - https://kvartalami.com/archive/2026-11-03.html
@@ -57,12 +58,12 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-10-27.html
 - https://kvartalami.com/archive/2026-10-26.html
 - https://kvartalami.com/archive/2026-10-23.html
-- https://kvartalami.com/archive/2026-10-22.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (58 items in the last 30 days):
+- Recent headlines (57 items in the last 30 days):
+- Авария: Част от Дианабад
 - Аварийно спиране: Зона на спиране: ж. к. Лозенец - ул. Лале и ул. Гребен планина от номер 8 до ул. Крум Попов.
 - Авария: Част от Лозенец
 - Авария: Част от Лозенец
@@ -72,8 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Събитие „Движение, ритъм и здраве под небето“
 - Авария: Част от Изток
 - Обява за за провеждане на конкурс за матроски (войнишки) длъжности във военни формирования от Военноморските сили
-- Планово прекъсване на тока: кв. ВИТОША - общ.Лозенец
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-11-06.html
 - https://kvartalami.com/lozenets/archive/2026-11-05.html
 - https://kvartalami.com/lozenets/archive/2026-11-04.html
 - https://kvartalami.com/lozenets/archive/2026-11-03.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-10-28.html
 - https://kvartalami.com/lozenets/archive/2026-10-25.html
 - https://kvartalami.com/lozenets/archive/2026-10-23.html
-- https://kvartalami.com/lozenets/archive/2026-10-22.html
 
 ## Sitemap
 
