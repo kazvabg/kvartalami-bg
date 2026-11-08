@@ -36,7 +36,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (43 items in the last 30 days):
+- Recent headlines (42 items in the last 30 days):
 - Стани архитект на своя град: очакваме вашите идеи за 2027
 - Уведомление за  строително-монтажни дейности на ул.“Тракия“
 - Онлайн проучване: Какви пространства са нужни на младежите в София?
