@@ -36,7 +36,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (42 items in the last 30 days):
+- Recent headlines (41 items in the last 30 days):
+- Уведомление за предстоящо затваряне на ул. „Георги Бенковски“
 - Стани архитект на своя град: очакваме вашите идеи за 2027
 - Уведомление за  строително-монтажни дейности на ул.“Тракия“
 - Онлайн проучване: Какви пространства са нужни на младежите в София?
@@ -46,8 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария по тока: кв. КРЕМИКОВЦИ
 - Изплащане на възнаграждения на Членовете на секционни избирателни комисии (СИК)
 - Аварийно спиране: зона за  спиране - кв.  Център - бул. Княгиня  Мария  Луиза, бул. Цар Освободител, бул. Васил Левски  
-- Аварийно спиране: Зона на спиране: кв. Център - ул. Екзарх Йосиф от бул. Васил Левски до ул. Христо Ковачев
 - Recent archive:
+- https://kvartalami.com/archive/2026-11-09.html
 - https://kvartalami.com/archive/2026-11-06.html
 - https://kvartalami.com/archive/2026-11-05.html
 - https://kvartalami.com/archive/2026-11-04.html
@@ -57,12 +58,11 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-10-30.html
 - https://kvartalami.com/archive/2026-10-27.html
 - https://kvartalami.com/archive/2026-10-26.html
-- https://kvartalami.com/archive/2026-10-23.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (54 items in the last 30 days):
+- Recent headlines (51 items in the last 30 days):
 - Авария: Част от Дианабад
 - Авария: Част от Лозенец
 - Васил Терзиев: Осигуряваме терен за нова детска градина за 100 деца в „Лозенец“ и пешеходна връзка със Зеления ринг
