@@ -62,7 +62,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (51 items in the last 30 days):
+- Recent headlines (52 items in the last 30 days):
+- Авария: Част от Лозенец
 - Авария: Част от Дианабад
 - Авария: Част от Лозенец
 - Васил Терзиев: Осигуряваме терен за нова детска градина за 100 деца в „Лозенец“ и пешеходна връзка със Зеления ринг
@@ -72,8 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария: Част от Яворов
 - Авария: Част от Лозенец
 - Авария: Част от Лозенец
-- Аварийно спиране: зона за   спиране - ж.к. Изток- Ул.Вълко Радински от Ул.Чарлз Дарвин до бул.Драган Цанков.
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-11-09.html
 - https://kvartalami.com/lozenets/archive/2026-11-06.html
 - https://kvartalami.com/lozenets/archive/2026-11-05.html
 - https://kvartalami.com/lozenets/archive/2026-11-04.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-10-29.html
 - https://kvartalami.com/lozenets/archive/2026-10-28.html
 - https://kvartalami.com/lozenets/archive/2026-10-25.html
-- https://kvartalami.com/lozenets/archive/2026-10-23.html
 
 ## Sitemap
 

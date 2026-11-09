@@ -10,5 +10,17 @@
     "district": "oborishte",
     "sourceName": "Район Оборище",
     "fetchedAt": "2026-11-09T12:19:02.581Z"
+  },
+  {
+    "title": "Авария: Част от Лозенец",
+    "url": "https://toplo.bg/accidents-and-maintenance#%D0%A7%D0%B0%D1%81%D1%82%20%D0%BE%D1%82%20%D0%9B%D0%BE%D0%B7%D0%B5%D0%BD%D0%B5%D1%86%7C%D1%83%D0%BB.%22%D0%A2%D0%B5%D0%BE%D0%B4%D0%BE%D1%81%D0%B8%D0%B9%20%D0%A2%D1%8A%D1%80%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%22%E2%84%96%2034%2C%2034%D0%90%20%2C%20%D1%83%D0%BB.%22%D0%9B%D0%BE%D0%B7%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D0%BD%D0%B0%22%E2%84%96%2024",
+    "content": "Район: Част от Лозенец\nАдреси: ул.\"Теодосий Търновски\"№ 34, 34А , ул.\"Лозенска планина\"№ 24\nНачало: 9.11.2026 г., 22:45:00 ч.\nОчаквано възстановяване: 11.11.2026 г., 22:45:00 ч.",
+    "category": "repairs",
+    "date": "2026-11-09",
+    "source": "toplofikacia",
+    "id": "0253365ef00e",
+    "district": "lozenets",
+    "sourceName": "Топлофикация София",
+    "fetchedAt": "2026-11-09T23:54:11.011Z"
   }
 ]
