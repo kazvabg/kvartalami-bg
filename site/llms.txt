@@ -62,8 +62,9 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (52 items in the last 30 days):
+- Recent headlines (53 items in the last 30 days):
 - Аварийно спиране: Зона на спиране: НПЗ Хаджи Димитър - ул. Кожухарска 6 и Хладилен завод
+- Авария: Част от Лозенец
 - Авария: Част от Лозенец
 - Авария: Част от Дианабад
 - Авария: Част от Лозенец
@@ -72,7 +73,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария: Част от Лозенец
 - Авария: Част от Лозенец
 - Авария: Част от Яворов
-- Авария: Част от Лозенец
 - Recent archive:
 - https://kvartalami.com/lozenets/archive/2026-11-10.html
 - https://kvartalami.com/lozenets/archive/2026-11-09.html
