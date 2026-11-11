@@ -36,7 +36,9 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (41 items in the last 30 days):
+- Recent headlines (43 items in the last 30 days):
+- Предстоящи ремонти при официалния вход/изход на Министерския съвет и подлеза под пл. „Независимост“.
+- Започна приемът на заявления за безвъзмездна подмяна на печките на дърва и въглища с екологични уреди
 - Уведомление за предстоящо затваряне на ул. „Георги Бенковски“
 - Стани архитект на своя град: очакваме вашите идеи за 2027
 - Уведомление за  строително-монтажни дейности на ул.“Тракия“
@@ -45,9 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Уведомление за предстоящи затваряния на бул.“Ситняково“
 - Нова платформа на Столична община за местата в детските градини и ясли
 - Авария по тока: кв. КРЕМИКОВЦИ
-- Изплащане на възнаграждения на Членовете на секционни избирателни комисии (СИК)
-- Аварийно спиране: зона за  спиране - кв.  Център - бул. Княгиня  Мария  Луиза, бул. Цар Освободител, бул. Васил Левски  
 - Recent archive:
+- https://kvartalami.com/archive/2026-11-11.html
 - https://kvartalami.com/archive/2026-11-09.html
 - https://kvartalami.com/archive/2026-11-06.html
 - https://kvartalami.com/archive/2026-11-05.html
@@ -57,23 +58,23 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-11-01.html
 - https://kvartalami.com/archive/2026-10-30.html
 - https://kvartalami.com/archive/2026-10-27.html
-- https://kvartalami.com/archive/2026-10-26.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (53 items in the last 30 days):
+- Recent headlines (56 items in the last 30 days):
+- Планово прекъсване на тока: кв. ХЛАДИЛНИКА
 - Аварийно спиране: Зона на спиране: НПЗ Хаджи Димитър - ул. Кожухарска 6 и Хладилен завод
+- Авария: Част от Лозенец
+- Авария: Част от Лозенец
 - Авария: Част от Лозенец
 - Авария: Част от Лозенец
 - Авария: Част от Дианабад
 - Авария: Част от Лозенец
 - Васил Терзиев: Осигуряваме терен за нова детска градина за 100 деца в „Лозенец“ и пешеходна връзка със Зеления ринг
 - Аварийно спиране: Зона на спиране: ж. к. Лозенец - ул. Лале и ул. Гребен планина от номер 8 до ул. Крум Попов.
-- Авария: Част от Лозенец
-- Авария: Част от Лозенец
-- Авария: Част от Яворов
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-11-11.html
 - https://kvartalami.com/lozenets/archive/2026-11-10.html
 - https://kvartalami.com/lozenets/archive/2026-11-09.html
 - https://kvartalami.com/lozenets/archive/2026-11-06.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-11-02.html
 - https://kvartalami.com/lozenets/archive/2026-10-30.html
 - https://kvartalami.com/lozenets/archive/2026-10-29.html
-- https://kvartalami.com/lozenets/archive/2026-10-28.html
 
 ## Sitemap
 
