@@ -36,7 +36,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (43 items in the last 30 days):
+- Recent headlines (41 items in the last 30 days):
+- Безплатни събития, обучения и инициативи за младите хора в София през ноември
 - Предстоящи ремонти при официалния вход/изход на Министерския съвет и подлеза под пл. „Независимост“.
 - Започна приемът на заявления за безвъзмездна подмяна на печките на дърва и въглища с екологични уреди
 - Уведомление за предстоящо затваряне на ул. „Георги Бенковски“
@@ -46,8 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Санитарно премахване на опасната растителност в участъка на моста „Чавдар“
 - Уведомление за предстоящи затваряния на бул.“Ситняково“
 - Нова платформа на Столична община за местата в детските градини и ясли
-- Авария по тока: кв. КРЕМИКОВЦИ
 - Recent archive:
+- https://kvartalami.com/archive/2026-11-12.html
 - https://kvartalami.com/archive/2026-11-11.html
 - https://kvartalami.com/archive/2026-11-09.html
 - https://kvartalami.com/archive/2026-11-06.html
@@ -57,12 +58,12 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-11-02.html
 - https://kvartalami.com/archive/2026-11-01.html
 - https://kvartalami.com/archive/2026-10-30.html
-- https://kvartalami.com/archive/2026-10-27.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (59 items in the last 30 days):
+- Recent headlines (60 items in the last 30 days):
+- Авария: Част от Лозенец
 - Планово прекъсване на тока: кв. ХЛАДИЛНИКА
 - Авария: Част от Лозенец
 - Авария по тока: жк.КРАСНО СЕЛО
@@ -72,8 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария: Част от Лозенец
 - Авария: Част от Лозенец
 - Авария: Част от Лозенец
-- Авария: Част от Дианабад
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-11-12.html
 - https://kvartalami.com/lozenets/archive/2026-11-11.html
 - https://kvartalami.com/lozenets/archive/2026-11-10.html
 - https://kvartalami.com/lozenets/archive/2026-11-09.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-11-03.html
 - https://kvartalami.com/lozenets/archive/2026-11-02.html
 - https://kvartalami.com/lozenets/archive/2026-10-30.html
-- https://kvartalami.com/lozenets/archive/2026-10-29.html
 
 ## Sitemap
 
