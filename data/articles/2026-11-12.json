@@ -46,5 +46,20 @@
     "district": "lozenets",
     "sourceName": "Район Лозенец",
     "fetchedAt": "2026-11-12T11:58:40.905Z"
+  },
+  {
+    "title": "Авария по тока: СТУДЕНТСКИ ГРАД",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF13%7C12.11.2026%2023%3A51%7C%D0%A1%D0%A2%D0%A3%D0%94%D0%95%D0%9D%D0%A2%D0%A1%D0%9A%D0%98%20%D0%93%D0%A0%D0%90%D0%94",
+    "content": "Тип: аварийно прекъсване\nНаселено място: СТУДЕНТСКИ ГРАД\nНачало: 12.11.2026 23:51\nОчаквано възстановяване: 13.11.2026 00:30",
+    "category": "repairs",
+    "date": "2026-11-12",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "008d1fd7de82",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-11-12T21:57:46.284Z"
   }
 ]
