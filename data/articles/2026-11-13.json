@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Авария: Част от Лозенец",
+    "url": "https://toplo.bg/accidents-and-maintenance#%D0%A7%D0%B0%D1%81%D1%82%20%D0%BE%D1%82%20%D0%9B%D0%BE%D0%B7%D0%B5%D0%BD%D0%B5%D1%86%7C%D0%A3%D0%BB.%22%D0%93%D0%BE%D0%BB%D0%BE%20%D0%B1%D1%8A%D1%80%D0%B4%D0%BE%22%E2%84%96%E2%84%961%2C5%2C11%2C13%2C15%2C17-19%2C22-24.",
+    "content": "Район: Част от Лозенец\nАдреси: Ул.\"Голо бърдо\"№№1,5,11,13,15,17-19,22-24.\nНачало: 13.11.2026 г., 12:45:00 ч.\nОчаквано възстановяване: 15.11.2026 г., 12:45:00 ч.",
+    "category": "repairs",
+    "date": "2026-11-13",
+    "source": "toplofikacia",
+    "id": "5322b4935029",
+    "district": "lozenets",
+    "sourceName": "Топлофикация София",
+    "fetchedAt": "2026-11-13T11:42:33.815Z"
+  },
+  {
+    "title": "Авария: Част от Лозенец",
+    "url": "https://toplo.bg/accidents-and-maintenance#%D0%A7%D0%B0%D1%81%D1%82%20%D0%BE%D1%82%20%D0%9B%D0%BE%D0%B7%D0%B5%D0%BD%D0%B5%D1%86%7C%D1%83%D0%BB.%20%22%D0%92%D0%B5%D0%B4%D1%80%D0%B8%D0%BD%D0%B0%22%20%E2%84%96%2010%2C%20%D0%B1%D1%83%D0%BB.%20%22%D0%9F%D0%B5%D0%B9%D0%BE.%D0%9A.%20%D0%AF%D0%B2%D0%BE%D1%80%D0%BE%D0%B2%22%20%E2%84%96%2038-40",
+    "content": "Район: Част от Лозенец\nАдреси: ул. \"Ведрина\" № 10, бул. \"Пейо.К. Яворов\" № 38-40\nНачало: 13.11.2026 г., 00:50:00 ч.\nОчаквано възстановяване: 15.11.2026 г., 00:50:00 ч.",
+    "category": "repairs",
+    "date": "2026-11-13",
+    "source": "toplofikacia",
+    "id": "2cb9d5c732a5",
+    "district": "lozenets",
+    "sourceName": "Топлофикация София",
+    "fetchedAt": "2026-11-13T11:42:33.815Z"
+  },
+  {
+    "title": "Авария по тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF44%7C13.11.2026%2002%3A35%7C%D0%B2.%D0%B7.%D0%A1%D0%98%D0%9C%D0%95%D0%9E%D0%9D%D0%9E%D0%92%D0%9E-%D0%94%D0%A0%D0%90%D0%93%D0%90%D0%9B%D0%95%D0%92%D0%A6%D0%98",
+    "content": "Тип: аварийно прекъсване\nНаселено място: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ\nНачало: 13.11.2026 02:35\nОчаквано възстановяване: 13.11.2026 20:30",
+    "category": "repairs",
+    "date": "2026-11-13",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "33d7565f64f5",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-11-13T11:42:33.815Z"
+  },
+  {
+    "title": "Авария по тока: кв. СИМЕОНОВО",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF44%7C13.11.2026%2005%3A31%7C%D0%BA%D0%B2.%20%D0%A1%D0%98%D0%9C%D0%95%D0%9E%D0%9D%D0%9E%D0%92%D0%9E",
+    "content": "Тип: аварийно прекъсване\nНаселено място: кв. СИМЕОНОВО\nНачало: 13.11.2026 05:31\nОчаквано възстановяване: 13.11.2026 20:00",
+    "category": "repairs",
+    "date": "2026-11-13",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "401b839d70b3",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-11-13T11:42:33.815Z"
+  },
+  {
+    "title": "Авария по тока: в.з. КИНОЦЕНТЪР",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF44%7C13.11.2026%2011%3A06%7C%D0%B2.%D0%B7.%20%D0%9A%D0%98%D0%9D%D0%9E%D0%A6%D0%95%D0%9D%D0%A2%D0%AA%D0%A0",
+    "content": "Тип: аварийно прекъсване\nНаселено място: в.з. КИНОЦЕНТЪР\nНачало: 13.11.2026 11:06\nОчаквано възстановяване: 13.11.2026 14:15",
+    "category": "repairs",
+    "date": "2026-11-13",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "b0c8b1d87de9",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-11-13T11:42:33.815Z"
+  },
+  {
+    "title": "Авария по тока: кв. ДРАГАЛЕВЦИ",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF44%7C13.11.2026%2004%3A39%7C%D0%BA%D0%B2.%20%D0%94%D0%A0%D0%90%D0%93%D0%90%D0%9B%D0%95%D0%92%D0%A6%D0%98",
+    "content": "Тип: аварийно прекъсване\nНаселено място: кв. ДРАГАЛЕВЦИ\nНачало: 13.11.2026 04:39\nОчаквано възстановяване: 13.11.2026 20:45",
+    "category": "repairs",
+    "date": "2026-11-13",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "c9f393f0b22f",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-11-13T11:42:33.815Z"
+  },
+  {
+    "title": "Авария по тока: кв. КИНОЦЕНТЪР",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF44%7C13.11.2026%2011%3A06%7C%D0%BA%D0%B2.%20%D0%9A%D0%98%D0%9D%D0%9E%D0%A6%D0%95%D0%9D%D0%A2%D0%AA%D0%A0",
+    "content": "Тип: аварийно прекъсване\nНаселено място: кв. КИНОЦЕНТЪР\nНачало: 13.11.2026 11:06\nОчаквано възстановяване: 13.11.2026 14:15",
+    "category": "repairs",
+    "date": "2026-11-13",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "a1902e49c860",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-11-13T11:42:33.815Z"
+  }
+]

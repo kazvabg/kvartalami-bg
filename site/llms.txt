@@ -36,7 +36,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (41 items in the last 30 days):
+- Recent headlines (38 items in the last 30 days):
 - Безплатни събития, обучения и инициативи за младите хора в София през ноември
 - Предстоящи ремонти при официалния вход/изход на Министерския съвет и подлеза под пл. „Независимост“.
 - Започна приемът на заявления за безвъзмездна подмяна на печките на дърва и въглища с екологични уреди
@@ -62,18 +62,19 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (61 items in the last 30 days):
+- Recent headlines (65 items in the last 30 days):
+- Авария: Част от Лозенец
+- Авария: Част от Лозенец
+- Авария по тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ
+- Авария по тока: кв. СИМЕОНОВО
+- Авария по тока: в.з. КИНОЦЕНТЪР
+- Авария по тока: кв. ДРАГАЛЕВЦИ
+- Авария по тока: кв. КИНОЦЕНТЪР
 - Авария: Част от Лозенец
 - Авария по тока: СТУДЕНТСКИ ГРАД
 - Планово прекъсване на тока: кв. ХЛАДИЛНИКА
-- Авария: Част от Лозенец
-- Авария по тока: жк.КРАСНО СЕЛО
-- Лозенец спортува
-- Аварийно спиране: Зона на спиране: НПЗ Хаджи Димитър - ул. Кожухарска 6 и Хладилен завод
-- Авария: Част от Лозенец
-- Авария: Част от Лозенец
-- Авария: Част от Лозенец
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-11-13.html
 - https://kvartalami.com/lozenets/archive/2026-11-12.html
 - https://kvartalami.com/lozenets/archive/2026-11-11.html
 - https://kvartalami.com/lozenets/archive/2026-11-10.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-11-04.html
 - https://kvartalami.com/lozenets/archive/2026-11-03.html
 - https://kvartalami.com/lozenets/archive/2026-11-02.html
-- https://kvartalami.com/lozenets/archive/2026-10-30.html
 
 ## Sitemap
 
