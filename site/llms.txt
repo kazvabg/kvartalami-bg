@@ -36,7 +36,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (36 items in the last 30 days):
+- Recent headlines (37 items in the last 30 days):
+- Авария по тока: жк.КРАСНО СЕЛО
 - Безплатни събития, обучения и инициативи за младите хора в София през ноември
 - Предстоящи ремонти при официалния вход/изход на Министерския съвет и подлеза под пл. „Независимост“.
 - Започна приемът на заявления за безвъзмездна подмяна на печките на дърва и въглища с екологични уреди
@@ -46,8 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Онлайн проучване: Какви пространства са нужни на младежите в София?
 - Санитарно премахване на опасната растителност в участъка на моста „Чавдар“
 - Уведомление за предстоящи затваряния на бул.“Ситняково“
-- Нова платформа на Столична община за местата в детските градини и ясли
 - Recent archive:
+- https://kvartalami.com/archive/2026-11-15.html
 - https://kvartalami.com/archive/2026-11-12.html
 - https://kvartalami.com/archive/2026-11-11.html
 - https://kvartalami.com/archive/2026-11-09.html
@@ -57,22 +58,21 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-11-03.html
 - https://kvartalami.com/archive/2026-11-02.html
 - https://kvartalami.com/archive/2026-11-01.html
-- https://kvartalami.com/archive/2026-10-30.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (67 items in the last 30 days):
+- Recent headlines (74 items in the last 30 days):
+- Авария: Част от Лозенец
+- Авария по тока: кв. МАНАСТ.ЛИВАДИ-ЗАПАД, ПАРК ВИТОША - общ.Витоша, кв. БЪКСТОН
+- Авария по тока: кв. МАНАСТ.ЛИВАДИ-ЗАПАД
+- Авария по тока: жк.КРАСНО СЕЛО
+- Авария по тока: кв. КРЪСТОВА ВАДА
+- Авария по тока: кв.МАНАСТ.ЛИВАДИ - ИЗТОК
+- Авария по тока: ж.к. ЮЖЕН ПАРК
+- Авария по тока: жк.ГОЦЕ ДЕЛЧЕВ
 - Авария: Част от Лозенец
 - Авария: Част от Лозенец
-- Авария: Част от Лозенец
-- Авария: Част от Лозенец
-- Авария: Част от Лозенец
-- Авария по тока: в.з.СИМЕОНОВО-ДРАГАЛЕВЦИ
-- Авария по тока: кв. СИМЕОНОВО
-- Авария по тока: в.з. КИНОЦЕНТЪР
-- Авария по тока: кв. ДРАГАЛЕВЦИ
-- Авария по тока: кв. КИНОЦЕНТЪР
 - Recent archive:
 - https://kvartalami.com/lozenets/archive/2026-11-15.html
 - https://kvartalami.com/lozenets/archive/2026-11-14.html

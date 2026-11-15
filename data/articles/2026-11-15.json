@@ -10,5 +10,126 @@
     "district": "lozenets",
     "sourceName": "Топлофикация София",
     "fetchedAt": "2026-11-15T11:38:49.457Z"
+  },
+  {
+    "title": "Авария по тока: жк.КРАСНО СЕЛО",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF43%7C15.11.2026%2022%3A20%7C%D0%B6%D0%BA.%D0%9A%D0%A0%D0%90%D0%A1%D0%9D%D0%9E%20%D0%A1%D0%95%D0%9B%D0%9E",
+    "content": "Тип: аварийно прекъсване\nНаселено място: жк.КРАСНО СЕЛО\nНачало: 15.11.2026 22:20\nОчаквано възстановяване: 16.11.2026 00:15",
+    "category": "repairs",
+    "date": "2026-11-15",
+    "source": "erm-zapad",
+    "districts": [
+      "oborishte",
+      "lozenets"
+    ],
+    "id": "dbf9cf69ddde",
+    "district": "oborishte",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-11-15T20:39:37.263Z"
+  },
+  {
+    "title": "Авария по тока: кв. МАНАСТ.ЛИВАДИ-ЗАПАД, ПАРК ВИТОША - общ.Витоша, кв. БЪКСТОН",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF44%7C15.11.2026%2022%3A20%7C%D0%BA%D0%B2.%20%D0%9C%D0%90%D0%9D%D0%90%D0%A1%D0%A2.%D0%9B%D0%98%D0%92%D0%90%D0%94%D0%98-%D0%97%D0%90%D0%9F%D0%90%D0%94%2C%20%D0%9F%D0%90%D0%A0%D0%9A%20%D0%92%D0%98%D0%A2%D0%9E%D0%A8%D0%90%20-%20%D0%BE%D0%B1%D1%89.%D0%92%D0%B8%D1%82%D0%BE%D1%88%D0%B0%2C%20%D0%BA%D0%B2.%20%D0%91%D0%AA%D0%9A%D0%A1%D0%A2%D0%9E%D0%9D",
+    "content": "Тип: аварийно прекъсване\nНаселено място: кв. МАНАСТ.ЛИВАДИ-ЗАПАД, ПАРК ВИТОША - общ.Витоша, кв. БЪКСТОН\nНачало: 15.11.2026 22:20\nОчаквано възстановяване: 16.11.2026 00:15",
+    "category": "repairs",
+    "date": "2026-11-15",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "b44bec6dafaf",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-11-15T20:39:37.265Z"
+  },
+  {
+    "title": "Авария по тока: кв. МАНАСТ.ЛИВАДИ-ЗАПАД",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF44%7C15.11.2026%2022%3A20%7C%D0%BA%D0%B2.%20%D0%9C%D0%90%D0%9D%D0%90%D0%A1%D0%A2.%D0%9B%D0%98%D0%92%D0%90%D0%94%D0%98-%D0%97%D0%90%D0%9F%D0%90%D0%94",
+    "content": "Тип: аварийно прекъсване\nНаселено място: кв. МАНАСТ.ЛИВАДИ-ЗАПАД\nНачало: 15.11.2026 22:20\nОчаквано възстановяване: 16.11.2026 00:15",
+    "category": "repairs",
+    "date": "2026-11-15",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "1fd98f09378f",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-11-15T20:39:37.265Z"
+  },
+  {
+    "title": "Авария по тока: жк.КРАСНО СЕЛО",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF43%7C15.11.2026%2022%3A20%7C%D0%B6%D0%BA.%D0%9A%D0%A0%D0%90%D0%A1%D0%9D%D0%9E%20%D0%A1%D0%95%D0%9B%D0%9E",
+    "content": "Тип: аварийно прекъсване\nНаселено място: жк.КРАСНО СЕЛО\nНачало: 15.11.2026 22:20\nОчаквано възстановяване: 16.11.2026 00:15",
+    "category": "repairs",
+    "date": "2026-11-15",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "dbf9cf69ddde",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-11-15T20:39:37.265Z"
+  },
+  {
+    "title": "Авария по тока: кв. КРЪСТОВА ВАДА",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF42%7C15.11.2026%2022%3A06%7C%D0%BA%D0%B2.%20%D0%9A%D0%A0%D0%AA%D0%A1%D0%A2%D0%9E%D0%92%D0%90%20%D0%92%D0%90%D0%94%D0%90",
+    "content": "Тип: аварийно прекъсване\nНаселено място: кв. КРЪСТОВА ВАДА\nНачало: 15.11.2026 22:06\nОчаквано възстановяване: 16.11.2026 00:00",
+    "category": "repairs",
+    "date": "2026-11-15",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "27585a09ab71",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-11-15T20:39:37.265Z"
+  },
+  {
+    "title": "Авария по тока: кв.МАНАСТ.ЛИВАДИ - ИЗТОК",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF42%7C15.11.2026%2022%3A20%7C%D0%BA%D0%B2.%D0%9C%D0%90%D0%9D%D0%90%D0%A1%D0%A2.%D0%9B%D0%98%D0%92%D0%90%D0%94%D0%98%20-%20%D0%98%D0%97%D0%A2%D0%9E%D0%9A",
+    "content": "Тип: аварийно прекъсване\nНаселено място: кв.МАНАСТ.ЛИВАДИ - ИЗТОК\nНачало: 15.11.2026 22:20\nОчаквано възстановяване: 16.11.2026 00:15",
+    "category": "repairs",
+    "date": "2026-11-15",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "95eba66b783b",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-11-15T20:39:37.265Z"
+  },
+  {
+    "title": "Авария по тока: ж.к. ЮЖЕН ПАРК",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF42%7C15.11.2026%2022%3A06%7C%D0%B6.%D0%BA.%20%D0%AE%D0%96%D0%95%D0%9D%20%D0%9F%D0%90%D0%A0%D0%9A",
+    "content": "Тип: аварийно прекъсване\nНаселено място: ж.к. ЮЖЕН ПАРК\nНачало: 15.11.2026 22:06\nОчаквано възстановяване: 16.11.2026 00:00",
+    "category": "repairs",
+    "date": "2026-11-15",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "3d994d04a34f",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-11-15T20:39:37.265Z"
+  },
+  {
+    "title": "Авария по тока: жк.ГОЦЕ ДЕЛЧЕВ",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF42%7C15.11.2026%2022%3A20%7C%D0%B6%D0%BA.%D0%93%D0%9E%D0%A6%D0%95%20%D0%94%D0%95%D0%9B%D0%A7%D0%95%D0%92",
+    "content": "Тип: аварийно прекъсване\nНаселено място: жк.ГОЦЕ ДЕЛЧЕВ\nНачало: 15.11.2026 22:20\nОчаквано възстановяване: 16.11.2026 00:15",
+    "category": "repairs",
+    "date": "2026-11-15",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "3f2df0d8f0ea",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-11-15T20:39:37.265Z"
   }
 ]
