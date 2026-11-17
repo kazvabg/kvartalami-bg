@@ -62,8 +62,9 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (72 items in the last 30 days):
+- Recent headlines (73 items in the last 30 days):
 - Планово прекъсване на тока: БЪРДО
+- ВАЖНО: Столична община удължава срока за подаване на предложения по „Идеи за града“ 2027
 - Авария: Част от Лозенец
 - Авария по тока: кв. МАНАСТ.ЛИВАДИ-ЗАПАД, ПАРК ВИТОША - общ.Витоша, кв. БЪКСТОН
 - Авария по тока: кв. МАНАСТ.ЛИВАДИ-ЗАПАД
@@ -72,7 +73,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария по тока: кв.МАНАСТ.ЛИВАДИ - ИЗТОК
 - Авария по тока: ж.к. ЮЖЕН ПАРК
 - Авария по тока: жк.ГОЦЕ ДЕЛЧЕВ
-- Авария: Част от Лозенец
 - Recent archive:
 - https://kvartalami.com/lozenets/archive/2026-11-17.html
 - https://kvartalami.com/lozenets/archive/2026-11-15.html
