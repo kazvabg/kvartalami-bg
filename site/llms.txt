@@ -36,8 +36,10 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (39 items in the last 30 days):
+- Recent headlines (41 items in the last 30 days):
+- Район „Оборище“ и Софийският университет стартират обучителната програма „Мама ONLINE“
 - Уведомление за временна организация на движението на територията на район „Оборище“
+- Уведомление за временно ограничение на движението на ул. Св. Св. Кирил и Методий“
 - Промяна на водоснабдаването: Очаква  се влошено качество  на  водата  кв. Център:  района  между бул. Васил Левски, ул. 
 - Две временни ограничения в движението на територията на района
 - Уведомление за временни ограничения в движението на територията на района
@@ -45,9 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Безплатни събития, обучения и инициативи за младите хора в София през ноември
 - Предстоящи ремонти при официалния вход/изход на Министерския съвет и подлеза под пл. „Независимост“.
 - Започна приемът на заявления за безвъзмездна подмяна на печките на дърва и въглища с екологични уреди
-- Уведомление за предстоящо затваряне на ул. „Георги Бенковски“
-- Стани архитект на своя град: очакваме вашите идеи за 2027
 - Recent archive:
+- https://kvartalami.com/archive/2026-11-18.html
 - https://kvartalami.com/archive/2026-11-17.html
 - https://kvartalami.com/archive/2026-11-16.html
 - https://kvartalami.com/archive/2026-11-15.html
@@ -57,12 +58,12 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-11-06.html
 - https://kvartalami.com/archive/2026-11-05.html
 - https://kvartalami.com/archive/2026-11-04.html
-- https://kvartalami.com/archive/2026-11-03.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (73 items in the last 30 days):
+- Recent headlines (74 items in the last 30 days):
+- Аварийно спиране: Зона на спиране: ж. к. Лозенец - ул. Кап. Тодор Ночев  от ул. Голо Бърдо  до ул. Любата
 - Планово прекъсване на тока: БЪРДО
 - ВАЖНО: Столична община удължава срока за подаване на предложения по „Идеи за града“ 2027
 - Авария: Част от Лозенец
@@ -72,8 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария по тока: кв. КРЪСТОВА ВАДА
 - Авария по тока: кв.МАНАСТ.ЛИВАДИ - ИЗТОК
 - Авария по тока: ж.к. ЮЖЕН ПАРК
-- Авария по тока: жк.ГОЦЕ ДЕЛЧЕВ
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-11-18.html
 - https://kvartalami.com/lozenets/archive/2026-11-17.html
 - https://kvartalami.com/lozenets/archive/2026-11-15.html
 - https://kvartalami.com/lozenets/archive/2026-11-14.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-11-10.html
 - https://kvartalami.com/lozenets/archive/2026-11-09.html
 - https://kvartalami.com/lozenets/archive/2026-11-06.html
-- https://kvartalami.com/lozenets/archive/2026-11-05.html
 
 ## Sitemap
 

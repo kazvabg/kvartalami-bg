@@ -1968,5 +1968,20 @@
     "id": "172c427c9ff9",
     "district": "lozenets",
     "addedAt": "2026-11-17T23:14:23.832Z"
+  },
+  {
+    "id": "f20dbc6bd081",
+    "district": "oborishte",
+    "addedAt": "2026-11-18T12:28:15.676Z"
+  },
+  {
+    "id": "4cbb9cba5d0e",
+    "district": "oborishte",
+    "addedAt": "2026-11-18T12:28:15.676Z"
+  },
+  {
+    "id": "05f491a0842b",
+    "district": "lozenets",
+    "addedAt": "2026-11-18T12:28:15.676Z"
   }
 ]
