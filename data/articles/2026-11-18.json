@@ -34,5 +34,65 @@
     "district": "lozenets",
     "sourceName": "Софийска вода",
     "fetchedAt": "2026-11-18T12:28:15.678Z"
+  },
+  {
+    "title": "Авария по тока: кв. КРЪСТОВА ВАДА",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF42%7C19.11.2026%2000%3A37%7C%D0%BA%D0%B2.%20%D0%9A%D0%A0%D0%AA%D0%A1%D0%A2%D0%9E%D0%92%D0%90%20%D0%92%D0%90%D0%94%D0%90",
+    "content": "Тип: аварийно прекъсване\nНаселено място: кв. КРЪСТОВА ВАДА\nНачало: 19.11.2026 00:37\nОчаквано възстановяване: 19.11.2026 01:15",
+    "category": "repairs",
+    "date": "2026-11-19",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "37645b5cf9b7",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-11-18T22:46:05.269Z"
+  },
+  {
+    "title": "Авария по тока: КРЪСТОВА ВАДА",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF41%7C19.11.2026%2000%3A37%7C%D0%9A%D0%A0%D0%AA%D0%A1%D0%A2%D0%9E%D0%92%D0%90%20%D0%92%D0%90%D0%94%D0%90",
+    "content": "Тип: аварийно прекъсване\nНаселено място: КРЪСТОВА ВАДА\nНачало: 19.11.2026 00:37\nОчаквано възстановяване: 19.11.2026 01:15",
+    "category": "repairs",
+    "date": "2026-11-19",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "fc3c73864d38",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-11-18T22:46:05.269Z"
+  },
+  {
+    "title": "Авария по тока: БЪРДО",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SFO20%7C19.11.2026%2000%3A36%7C%D0%91%D0%AA%D0%A0%D0%94%D0%9E",
+    "content": "Тип: аварийно прекъсване\nНаселено място: БЪРДО\nНачало: 19.11.2026 00:36\nОчаквано възстановяване: 19.11.2026 05:45",
+    "category": "repairs",
+    "date": "2026-11-19",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "1531186ffd35",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-11-18T22:46:05.269Z"
+  },
+  {
+    "title": "Авария по тока: БЕЛИЦА, общ. Ихтиман",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SFO20%7C19.11.2026%2000%3A36%7C%D0%91%D0%95%D0%9B%D0%98%D0%A6%D0%90%2C%20%D0%BE%D0%B1%D1%89.%20%D0%98%D1%85%D1%82%D0%B8%D0%BC%D0%B0%D0%BD",
+    "content": "Тип: аварийно прекъсване\nНаселено място: БЕЛИЦА, общ. Ихтиман\nНачало: 19.11.2026 00:36\nОчаквано възстановяване: 19.11.2026 05:45",
+    "category": "repairs",
+    "date": "2026-11-19",
+    "source": "erm-zapad",
+    "districts": [
+      "lozenets"
+    ],
+    "id": "33a68feb0c21",
+    "district": "lozenets",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-11-18T22:46:05.269Z"
   }
 ]
