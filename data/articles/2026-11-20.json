@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Авария по тока: кв. ОРЛАНДОВЦИ",
+    "url": "https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF35%7C21.11.2026%2000%3A10%7C%D0%BA%D0%B2.%20%D0%9E%D0%A0%D0%9B%D0%90%D0%9D%D0%94%D0%9E%D0%92%D0%A6%D0%98",
+    "content": "Тип: аварийно прекъсване\nНаселено място: кв. ОРЛАНДОВЦИ\nНачало: 21.11.2026 00:10\nОчаквано възстановяване: 21.11.2026 02:15",
+    "category": "repairs",
+    "date": "2026-11-21",
+    "source": "erm-zapad",
+    "districts": [
+      "oborishte"
+    ],
+    "id": "508a1067fb97",
+    "district": "oborishte",
+    "sourceName": "ЕРМ Запад",
+    "fetchedAt": "2026-11-20T22:25:58.726Z"
+  }
+]

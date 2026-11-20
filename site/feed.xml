@@ -5,7 +5,18 @@
     <link>https://kvartalami.com</link>
     <description>Хипер-локални новини за район Оборище</description>
     <language>bg</language>
-    <lastBuildDate>Fri, 20 Nov 2026 12:19:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 22:26:01 GMT</lastBuildDate>
+    <item>
+      <title>Авария по тока: кв. ОРЛАНДОВЦИ</title>
+      <link>https://ermzapad.bg/bg/za-klienta/prekusvania/#SOF35%7C21.11.2026%2000%3A10%7C%D0%BA%D0%B2.%20%D0%9E%D0%A0%D0%9B%D0%90%D0%9D%D0%94%D0%9E%D0%92%D0%A6%D0%98</link>
+      <guid isPermaLink="false">508a1067fb97</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Ремонти</category>
+      <description>Тип: аварийно прекъсване
+Населено място: кв. ОРЛАНДОВЦИ
+Начало: 21.11.2026 00:10
+Очаквано възстановяване: 21.11.2026 02:15</description>
+    </item>
     <item>
       <title>Уведомление за предстоящи временни затваряния на ул. „Георги Бенковски“ и ул. „Васил Априлов“</title>
       <link>https://rayon-oborishte.bg/%d1%83%d0%b2%d0%b5%d0%b4%d0%be%d0%bc%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b7%d0%b0-%d0%bf%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%be%d1%8f%d1%89%d0%b8-%d0%b2%d1%80%d0%b5%d0%bc%d0%b5%d0%bd%d0%bd%d0%b8-%d0%b7/</link>
@@ -341,14 +352,6 @@
       <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
       <category>Местна власт</category>
       <description>График за разполагане на изборните книжа, материали и специализираните устройства…</description>
-    </item>
-    <item>
-      <title>София ускорява мерките за по-чист въздух: Нови глобални партньорства и план за целогодишни нискоемисионни зони</title>
-      <link>https://rayon-oborishte.bg/%d1%81%d0%be%d1%84%d0%b8%d1%8f-%d1%83%d1%81%d0%ba%d0%be%d1%80%d1%8f%d0%b2%d0%b0-%d0%bc%d0%b5%d1%80%d0%ba%d0%b8%d1%82%d0%b5-%d0%b7%d0%b0-%d0%bf%d0%be-%d1%87%d0%b8%d1%81%d1%82-%d0%b2%d1%8a%d0%b7%d0%b4/</link>
-      <guid isPermaLink="false">64063cff92e2</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-      <category>Местна власт</category>
-      <description>Столичната община прави важна крачка в борбата със замърсяването на…</description>
     </item>
   </channel>
 </rss>
