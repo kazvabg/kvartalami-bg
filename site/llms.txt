@@ -36,7 +36,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (42 items in the last 30 days):
+- Recent headlines (41 items in the last 30 days):
 - Уведомление за предстоящи временни затваряния на ул. „Георги Бенковски“ и ул. „Васил Априлов“
 - Район „Оборище“ и Софийският университет стартират обучителната програма „Мама ONLINE“
 - Предстоящо временно затваряне на ул. „Св. св. Кирил и Методий“
@@ -62,7 +62,7 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (80 items in the last 30 days):
+- Recent headlines (78 items in the last 30 days):
 - Авария по тока: кв. КРЪСТОВА ВАДА
 - Авария по тока: КРЪСТОВА ВАДА
 - Авария по тока: БЪРДО
