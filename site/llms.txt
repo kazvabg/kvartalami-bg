@@ -36,7 +36,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (38 items in the last 30 days):
+- Recent headlines (37 items in the last 30 days):
+- Девето издание на Международния клавирен конкурс „Андрей Стоянов“
 - Авария по тока: кв. ОРЛАНДОВЦИ
 - Уведомление за предстоящи временни затваряния на ул. „Георги Бенковски“ и ул. „Васил Априлов“
 - Район „Оборище“ и Софийският университет стартират обучителната програма „Мама ONLINE“
@@ -46,8 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Уведомление за временна организация на движението на територията на район „Оборище“
 - Уведомление за временно ограничение на движението на ул. Св. Св. Кирил и Методий“
 - Промяна на водоснабдаването: Очаква  се влошено качество  на  водата  кв. Център:  района  между бул. Васил Левски, ул. 
-- Две временни ограничения в движението на територията на района
 - Recent archive:
+- https://kvartalami.com/archive/2026-11-23.html
 - https://kvartalami.com/archive/2026-11-21.html
 - https://kvartalami.com/archive/2026-11-19.html
 - https://kvartalami.com/archive/2026-11-18.html
@@ -57,12 +58,11 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-11-12.html
 - https://kvartalami.com/archive/2026-11-11.html
 - https://kvartalami.com/archive/2026-11-09.html
-- https://kvartalami.com/archive/2026-11-06.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (65 items in the last 30 days):
+- Recent headlines (63 items in the last 30 days):
 - Авария по тока: кв. КРЪСТОВА ВАДА
 - Авария по тока: КРЪСТОВА ВАДА
 - Авария по тока: БЪРДО
