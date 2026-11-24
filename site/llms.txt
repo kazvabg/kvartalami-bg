@@ -36,7 +36,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (37 items in the last 30 days):
+- Recent headlines (38 items in the last 30 days):
+- Учениците от район „Оборище“ събраха 2 337 килограма отпадъци от опаковки за рециклиране
 - Девето издание на Международния клавирен конкурс „Андрей Стоянов“
 - Авария по тока: кв. ОРЛАНДОВЦИ
 - Уведомление за предстоящи временни затваряния на ул. „Георги Бенковски“ и ул. „Васил Априлов“
@@ -46,8 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Уведомление за ремонт на спортна площадка на ул. „Тракия“
 - Уведомление за временна организация на движението на територията на район „Оборище“
 - Уведомление за временно ограничение на движението на ул. Св. Св. Кирил и Методий“
-- Промяна на водоснабдаването: Очаква  се влошено качество  на  водата  кв. Център:  района  между бул. Васил Левски, ул. 
 - Recent archive:
+- https://kvartalami.com/archive/2026-11-24.html
 - https://kvartalami.com/archive/2026-11-23.html
 - https://kvartalami.com/archive/2026-11-21.html
 - https://kvartalami.com/archive/2026-11-19.html
@@ -57,7 +58,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-11-15.html
 - https://kvartalami.com/archive/2026-11-12.html
 - https://kvartalami.com/archive/2026-11-11.html
-- https://kvartalami.com/archive/2026-11-09.html
 
 ### Район Лозенец
 
