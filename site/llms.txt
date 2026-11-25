@@ -36,8 +36,10 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (38 items in the last 30 days):
+- Recent headlines (40 items in the last 30 days):
 - Учениците от район „Оборище“ събраха 2 337 килограма отпадъци от опаковки за рециклиране
+- Авария: Част от Оборище
+- Крайно класиране по волейбол – Ученически игри 2026/2027
 - Девето издание на Международния клавирен конкурс „Андрей Стоянов“
 - Авария по тока: кв. ОРЛАНДОВЦИ
 - Уведомление за предстоящи временни затваряния на ул. „Георги Бенковски“ и ул. „Васил Априлов“
@@ -45,8 +47,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Предстоящо временно затваряне на ул. „Св. св. Кирил и Методий“
 - Уведомление за временно затваряне на ул. „Марица“ № 15 на 25.11.2026 г.
 - Уведомление за ремонт на спортна площадка на ул. „Тракия“
-- Уведомление за временна организация на движението на територията на район „Оборище“
-- Уведомление за временно ограничение на движението на ул. Св. Св. Кирил и Методий“
 - Recent archive:
 - https://kvartalami.com/archive/2026-11-24.html
 - https://kvartalami.com/archive/2026-11-23.html
@@ -62,7 +62,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (63 items in the last 30 days):
+- Recent headlines (64 items in the last 30 days):
+- Авария: Част от Лозенец
 - Район „Лозенец“ изпълнява дейности по споразумение с Българската банка за развитие за енергийното обновяване на…
 - Авария по тока: кв. КРЪСТОВА ВАДА
 - Авария по тока: КРЪСТОВА ВАДА
@@ -72,8 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Планово прекъсване на тока: кв. ХЛАДИЛНИКА, КРЪСТОВА ВАДА
 - Планово прекъсване на тока: КРЪСТОВА ВАДА
 - Аварийно спиране: Зона на спиране: ж. к. Лозенец - ул. Кап. Тодор Ночев  от ул. Голо Бърдо  до ул. Любата
-- Планово прекъсване на тока: БЪРДО
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-11-25.html
 - https://kvartalami.com/lozenets/archive/2026-11-23.html
 - https://kvartalami.com/lozenets/archive/2026-11-19.html
 - https://kvartalami.com/lozenets/archive/2026-11-18.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-11-13.html
 - https://kvartalami.com/lozenets/archive/2026-11-12.html
 - https://kvartalami.com/lozenets/archive/2026-11-11.html
-- https://kvartalami.com/lozenets/archive/2026-11-10.html
 
 ## Sitemap
 
