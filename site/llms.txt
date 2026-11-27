@@ -36,7 +36,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 ### Район Оборище
 
 - Home: https://kvartalami.com/
-- Recent headlines (34 items in the last 30 days):
+- Recent headlines (35 items in the last 30 days):
+- Предстоящи временни затваряния ул. „Русалка“ и ул. „Кешан“
 - Учениците от район „Оборище“ събраха 2 337 килограма отпадъци от опаковки за рециклиране
 - Авария: Част от Оборище
 - Крайно класиране по волейбол – Ученически игри 2026/2027
@@ -46,8 +47,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Район „Оборище“ и Софийският университет стартират обучителната програма „Мама ONLINE“
 - Предстоящо временно затваряне на ул. „Св. св. Кирил и Методий“
 - Уведомление за временно затваряне на ул. „Марица“ № 15 на 25.11.2026 г.
-- Уведомление за ремонт на спортна площадка на ул. „Тракия“
 - Recent archive:
+- https://kvartalami.com/archive/2026-11-27.html
 - https://kvartalami.com/archive/2026-11-24.html
 - https://kvartalami.com/archive/2026-11-23.html
 - https://kvartalami.com/archive/2026-11-21.html
@@ -57,12 +58,12 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/archive/2026-11-16.html
 - https://kvartalami.com/archive/2026-11-15.html
 - https://kvartalami.com/archive/2026-11-12.html
-- https://kvartalami.com/archive/2026-11-11.html
 
 ### Район Лозенец
 
 - Home: https://kvartalami.com/lozenets/
-- Recent headlines (65 items in the last 30 days):
+- Recent headlines (66 items in the last 30 days):
+- Авария: Част от Лозенец
 - Авария: Част от Лозенец
 - Авария: Част от Лозенец
 - Район „Лозенец“ изпълнява дейности по споразумение с Българската банка за развитие за енергийното обновяване на…
@@ -72,8 +73,8 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - Авария по тока: БЕЛИЦА, общ. Ихтиман
 - Авария: Част от Лозенец
 - Планово прекъсване на тока: кв. ХЛАДИЛНИКА, КРЪСТОВА ВАДА
-- Планово прекъсване на тока: КРЪСТОВА ВАДА
 - Recent archive:
+- https://kvartalami.com/lozenets/archive/2026-11-27.html
 - https://kvartalami.com/lozenets/archive/2026-11-26.html
 - https://kvartalami.com/lozenets/archive/2026-11-25.html
 - https://kvartalami.com/lozenets/archive/2026-11-23.html
@@ -83,7 +84,6 @@ All content is in Bulgarian (bg-BG). Source names retain their original Bulgaria
 - https://kvartalami.com/lozenets/archive/2026-11-15.html
 - https://kvartalami.com/lozenets/archive/2026-11-14.html
 - https://kvartalami.com/lozenets/archive/2026-11-13.html
-- https://kvartalami.com/lozenets/archive/2026-11-12.html
 
 ## Sitemap
 
